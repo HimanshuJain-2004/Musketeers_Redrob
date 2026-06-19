@@ -1,0 +1,57 @@
+JAIN – OWNERSHIP + ENGINEERING HANDBOOK
+1. Role & Mission
+Role: LLM Labeling & Machine Learning Lead
+Mission: Build the AI brain of the system by generating high-quality labels using an LLM, training a ranking model, and predicting scores for all 100,000 candidates. Jain owns the core intelligence layer, determining how features translate into recruiter-like ranking decisions.
+Contribution: ~35% of project
+2. Operational Workflow
+Piyush Features → Candidate Sampling (3k-5k) → LLM Evaluation (Fit Scores & Honeypot Labels) → Training Dataset Creation → Model Training (LightGBM/XGBoost/CatBoost) → Model Selection → Full Dataset Prediction (100k) → Bhavit (Top-100 Ranking).
+3. Operational Phases
+Phase 1: Candidate Sampling
+Goal: Create a diverse dataset for LLM labeling.
+Inputs: candidate_features.parquet, behavior_features.parquet, semantic_scores.parquet.
+Tasks: Select 3000–5000 candidates across High/Medium/Low semantic scores, experience levels, and industries. Avoid random-only sampling.
+Output: sampled_candidates.parquet
+Phase 2: LLM Candidate Evaluation
+Goal: Generate recruiter-style labels.
+Inputs: Raw JD, Profile, Skills, Career History, Projects, Education, and Redrob Signals. (DO NOT feed engineered features).
+Tasks: Evaluate Technical/Career/Behavioral fit and JD alignment. Detect honeypots.
+Output: llm_labels.parquet (fit_score, fit_label, honeypot).
+Phase 3: Training Dataset Creation
+Goal: Create supervised dataset (X = features, y = fit_score).
+Inputs: candidate_features, behavior_features, semantic_scores, and llm_labels.
+Output: training_dataset.parquet
+Phase 4: Model Training
+Goal: Train and compare ranking models.
+Models: LightGBM, XGBoost, CatBoost.
+Tasks: Evaluate prediction quality, generalization, and feature importance.
+Output: trained_model.pkl
+Phase 5: Full Dataset Prediction
+Goal: Generate ranking scores for every candidate.
+Input: 100k candidates (candidate_features, behavior_features, semantic_scores).
+Output: predictions.parquet (candidate_id, predicted_score, honeypot_probability).
+Phase 6: Model Selection & Review
+Goal: Choose the best model based on quality, consistency, and interpretability.
+Collaborator: Gur helps review results and feature importance.
+4. Collaborations & Dependencies
+Receives from Piyush: jd_requirements.json (JD understanding), candidate_features.parquet, behavior_features.parquet, semantic_scores.parquet (ML features).
+Sends to Bhavit: predictions.parquet for ranking, Top-100 extraction, and submission generation.
+Shares with Gur: trained_model.pkl and predictions.parquet for auditing, label review, and model comparison.
+5. Governance & Standards
+Repository Ownership (Jain Only)
+sampling/, llm_labeling/, training/, models/, prediction/, artifacts/models/
+Validation Checklist
+✓ Sampling: 3k-5k diverse candidates. ✓ LLM: Labels, scores, and honeypots generated. ✓ Training: No missing labels/schema mismatch. ✓ Model: Reproducible training and saving. ✓ Predictions: All 100k scored with no duplicates.
+
+Definition of Done
+Task is complete when all phases (1-5) are finished, results are shared with Bhavit and Gur, and Team Lead approval is received.
+
+Sends To Bhavit
+predictions.parquet
+
+Used for:
+Ranking
+
+Top-100 extraction
+
+Submission generation
+

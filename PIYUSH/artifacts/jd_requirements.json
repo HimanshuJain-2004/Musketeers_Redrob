@@ -1,0 +1,75 @@
+{
+    "role": "Senior AI Engineer",
+    "experience_range": {
+        "min": 5,
+        "max": 9
+    },
+    "must_have_skills": [
+        "distributed systems",
+        "embeddings",
+        "evaluation frameworks",
+        "hybrid search",
+        "llm fine tuning",
+        "python",
+        "ranking systems",
+        "retrieval systems",
+        "vector databases"
+    ],
+    "preferred_skills": [
+        "lora",
+        "qlora",
+        "peft",
+        "learning to rank",
+        "distributed systems",
+        "mlops",
+        "hr tech",
+        "marketplace systems"
+    ],
+    "must_have_titles": [
+        "machine learning engineer",
+        "ml engineer",
+        "ai engineer",
+        "retrieval engineer",
+        "search engineer",
+        "ranking engineer",
+        "recommendation engineer",
+        "applied scientist",
+        "senior ai engineer"
+    ],
+    "must_have_domains": [
+        "retrieval",
+        "search",
+        "ranking",
+        "recommendation",
+        "matching systems"
+    ],
+    "preferred_domains": [
+        "hr tech",
+        "recruiting",
+        "marketplace"
+    ],
+    "preferred_locations": [
+        "delhi",
+        "delhi ncr",
+        "hyderabad",
+        "mumbai",
+        "noida",
+        "pune"
+    ],
+    "company_preferences": [
+        "product company",
+        "startup",
+        "saas"
+    ],
+    "negative_signals": [
+        "pure_research",
+        "only_langchain",
+        "no_production_ml",
+        "only_consulting_background",
+        "computer_vision_only",
+        "speech_only",
+        "robotics_only",
+        "inactive_candidate",
+        "low_recruiter_response_rate"
+    ]
+}

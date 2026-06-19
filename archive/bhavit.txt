@@ -1,0 +1,25 @@
+BHAVIT – OWNERSHIP & ENGINEERING HANDBOOK
+Role Overview
+Position: Ranking, Reasoning & Submission Lead
+Mission: Transform predicted scores into a final Top-100 candidate ranking, generate recruiter-style reasoning, and produce the final validated submission CSV.
+Contribution: Bhavit owns approximately 15% of the project. This is a critical path; even with a perfect model, errors in the ranking pipeline or reasoning will compromise the entire submission.
+Core Responsibilities
+
+Operational Workflow
+Receive: Features (Piyush) and Predictions (Jain).
+Process: Execute Ranking Engine → Select Top 100.
+Develop: Generate reasoning using template logic.
+Finalize: Create CSV → Run Validation → Update Repository.
+Deliverables & Ownership
+Repository Ownership: Bhavit has exclusive write access to: ranking/, reasoning/, submission/, validation/, artifacts/submissions/.
+
+Daily Status Format
+
+Date: YYYY-MM-DD
+Completed: [List tasks]
+Current Progress: [Status]
+Artifacts Generated: [File names]
+Blockers/Waiting On: [Issues/Names]
+Next Task: [Action item]
+Success Condition (Definition of Done)
+The task is complete when the ranking engine sorts and selects candidates correctly, generates readable reasoning for all 100, and passes the validator script without manual intervention. All outputs must be updated in the repository and approved by the Team Lead.

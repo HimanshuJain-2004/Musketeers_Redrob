@@ -1,0 +1,1001 @@
+candidate_id,predicted_fit_score,name,headline,current_role,market_demand_score,days_since_active,technical_credibility_score,trust_score,semantic_score
+CAND_0013440,44.3043437006253,Avni Chopra,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.3746,125,0.5513,0.95,0.5538109
+CAND_0006432,44.21757266231924,Pranav Malhotra,Data Engineer | Data pipelines & analytics,Data Engineer,0.3814,105,0.3133,0.974,0.51516867
+CAND_0092362,44.032834094311795,Ved Kapoor,Mechanical Engineer | Generative AI explorer,Mechanical Engineer,0.329,184,0.002,0.8,0.66288906
+CAND_0087128,43.64042762965535,Krishna Verma,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.3944,142,0.2804,0.766,0.5567944
+CAND_0056024,43.38533644619165,Shaurya Dutta,Mobile Developer | Backend systems & APIs,Mobile Developer,0.3614,141,0.2984,0.776,0.5816395
+CAND_0018401,43.18087758533884,Ritu Sen,Frontend Engineer | Full-stack development,Frontend Engineer,0.4136,135,0.2908,0.773,0.5481585
+CAND_0077031,42.82397087503982,Amit Pandey,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.6144,135,0.5728,0.791,0.5517247
+CAND_0060886,42.68787281788513,Advaith Sethi,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.3944,64,0.5424,1.0,0.55213296
+CAND_0005826,42.63476306054709,Divya Trivedi,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.3636,174,0.3633,0.775,0.56943303
+CAND_0091254,42.61176223741036,Avni Agarwal,AI Research Engineer | 5.2 yrs in analytics & ML,AI Research Engineer,0.994,107,0.4498,0.769,0.58509815
+CAND_0011487,42.53790310165158,Zara Shah,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.3782,125,0.513,0.833,0.5631257
+CAND_0085078,42.51104014377847,Nisha Mehta,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.4852,120,0.422,0.766,0.5587847
+CAND_0080664,42.5051713446404,Aisha Mukherjee,Data Analyst | 5.7+ yrs in data engineering,Data Analyst,0.5292,128,0.2488,0.828,0.5458642
+CAND_0019149,42.49365515129986,Divya Dalal,Senior Data Engineer | 5.7+ yrs in data engineering,Senior Data Engineer,0.7682,117,0.5803,0.809,0.5803142
+CAND_0011484,42.47288776346888,Aryan Nair,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.3938,119,0.32,0.814,0.52024263
+CAND_0055661,42.47188819543218,Vivaan Naidu,Senior Data Engineer | 4.1+ yrs in data engineering,Senior Data Engineer,0.3832,128,0.5836,0.737,0.5501921
+CAND_0031631,42.31703185641323,Naina Shah,Frontend Engineer | Full-stack development,Frontend Engineer,0.3804,154,0.3992,0.782,0.5457357
+CAND_0056959,42.31114803293399,Om Arora,Software Engineer | Cloud & DevOps,Software Engineer,0.3594,162,0.358,0.774,0.56378686
+CAND_0028515,42.30210211983547,Anjali Pillai,Software Engineer | Cloud & DevOps,Software Engineer,0.3294,131,0.2875,0.763,0.5661308
+CAND_0071134,42.26852379496271,Mira Mittal,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.371,128,0.2658,0.883,0.54791975
+CAND_0093682,42.2615996151577,Dev Chowdary,Data Engineer | Data pipelines & analytics,Data Engineer,0.3806,128,0.5928,0.896,0.5548806
+CAND_0086164,42.25373426373683,Neha Sethi,Senior Software Engineer | 4.9+ yrs in data engineering,Senior Software Engineer,0.8816,136,0.3796,0.816,0.5586348
+CAND_0057871,42.247841400415076,Arjun Mukherjee,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.6638,103,0.258,0.811,0.5713019
+CAND_0076412,42.24413307181338,Meera Bhatia,AI Research Engineer | 5.8 yrs in analytics & ML,AI Research Engineer,1.0,111,0.5968,0.768,0.57275665
+CAND_0062240,42.20566299590896,Priya Verma,Mobile Developer | Cloud & DevOps,Mobile Developer,0.3892,193,0.4048,0.768,0.4968542
+CAND_0074242,42.1418567208679,Myra Ghosh,DevOps Engineer | Full-stack development,DevOps Engineer,0.5194,143,0.3828,0.781,0.56056255
+CAND_0073261,42.13088577774605,Rajesh Hegde,Data Engineer | 7.7+ yrs in data engineering,Data Engineer,0.8936,132,0.304,0.888,0.578281
+CAND_0022940,42.11752548290705,Aarav Naidu,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.9232,97,0.3334,0.901,0.5542598
+CAND_0036121,42.030146936478275,Atharv Bansal,ML Engineer | Building ML-powered solutions,ML Engineer,0.8784,100,0.8149,1.0,0.5543716
+CAND_0027676,42.02677604889951,Ayaan Malhotra,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.5418,19,0.2348,0.79,0.55924726
+CAND_0077308,42.002800075529706,Anil Nair,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.3792,176,0.2784,0.82,0.5484639
+CAND_0077661,41.97821270131906,Tanya Krishnan,Data Analyst | 5.1+ yrs in data engineering,Data Analyst,0.366,144,0.4683,0.79,0.53693104
+CAND_0098675,41.94270561635992,Anika Sen,Software Engineer | Full-stack development,Software Engineer,0.3612,72,0.5616,0.958,0.5625667
+CAND_0069743,41.90838948505132,Shaurya Subramanian,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.4006,123,0.3764,0.845,0.5670135
+CAND_0033650,41.88719033569004,Om Sethi,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,0.5404,115,0.5876,0.809,0.55044985
+CAND_0007567,41.84430575166261,Ved Goyal,AI Specialist | 6.1 yrs in analytics & ML,AI Specialist,0.7944,101,0.542,0.938,0.5370339
+CAND_0082339,41.83905625376735,Dhruv Krishnan,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.7426,115,0.242,0.949,0.513068
+CAND_0006757,41.73211426417726,Advaith Krishnan,Senior Software Engineer | 5.4+ yrs in data engineering,Senior Software Engineer,0.6406,103,0.6668,1.0,0.5844778
+CAND_0048333,41.67886515455978,Deepak Iyengar,Cloud Engineer | Full-stack development,Cloud Engineer,0.4984,146,0.2708,0.763,0.5576449
+CAND_0002957,41.673900408020785,Advaith Shah,Senior Data Engineer | 6.0+ yrs in data engineering,Senior Data Engineer,0.5654,43,0.3008,0.805,0.5667708
+CAND_0086300,41.63582336719381,Vihaan Kapoor,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.4354,96,0.259,0.906,0.5603062
+CAND_0046703,41.60340531065025,Aarav Vora,Senior Software Engineer | 4.5+ yrs in data engineering,Senior Software Engineer,0.7592,135,0.4456,1.0,0.58160293
+CAND_0002728,41.598703599818315,Naina Bhatia,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.329,139,0.3876,0.895,0.53708076
+CAND_0011955,41.580921452903596,Jay Vora,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.753,128,0.4994,0.799,0.5113622
+CAND_0072925,41.567721902087015,Priya Bansal,Cloud Engineer | Full-stack development,Cloud Engineer,0.6612,96,0.368,0.772,0.5661428
+CAND_0012220,41.557804776764904,Amit Hegde,Full Stack Developer | Full-stack development,Full Stack Developer,0.3642,188,0.421,0.917,0.55708796
+CAND_0057494,41.55473514454008,Avni Verma,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.6692,111,0.3943,0.77,0.56063354
+CAND_0017516,41.55215793496004,Saanvi Verma,Senior Data Engineer | 6.6+ yrs in data engineering,Senior Data Engineer,0.4424,53,0.4151,0.772,0.5411732
+CAND_0058628,41.51020646720117,Advaith Shah,Data Analyst | Data pipelines & analytics,Data Analyst,0.39,100,0.5548,0.824,0.50111586
+CAND_0019200,41.5086706579421,Tanvi Singh,AI Research Engineer | 7.0 yrs in analytics & ML,AI Research Engineer,0.88,115,0.3858,0.851,0.5642926
+CAND_0038459,41.50591558394753,Kabir Verma,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.603,130,0.2654,0.884,0.56596017
+CAND_0004769,41.48383449932116,Shaurya Shetty,QA Engineer | Full-stack development,QA Engineer,0.5156,107,0.3728,0.873,0.55502003
+CAND_0056086,41.473742927848576,Sanjay Reddy,Mobile Developer | Backend systems & APIs,Mobile Developer,0.383,100,0.4876,0.985,0.55309963
+CAND_0020876,41.47348229133089,Dev Kumar,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.9452,103,0.4688,0.923,0.5497063
+CAND_0022351,41.46116756609663,Yash Patel,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.6558,125,0.4047,0.913,0.4954174
+CAND_0098709,41.43115030021278,Aadhya Pandey,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.898,124,0.3249,0.782,0.53783846
+CAND_0096801,41.42930722337906,Aisha Gupta,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.991,48,0.5596,0.806,0.5582669
+CAND_0084005,41.40483943617562,Ananya Mehta,Backend Engineer | 6.1+ yrs in data engineering,Backend Engineer,0.7802,105,0.5342,0.87,0.56063604
+CAND_0036042,41.388888752974246,Rahul Kumar,Software Engineer | Backend systems & APIs,Software Engineer,0.5122,21,0.2148,0.8,0.5305585
+CAND_0067609,41.363331615533774,Krishna Chopra,Junior ML Engineer | 4.5 yrs in analytics & ML,Junior ML Engineer,0.545,115,0.583,0.994,0.5568731
+CAND_0041913,41.34063331096213,Pooja Mukherjee,Software Engineer | 7.8+ yrs in data engineering,Software Engineer,0.925,85,0.2264,0.943,0.55520546
+CAND_0093931,41.301755901690576,Dhruv Dalal,Senior Software Engineer | 4.6+ yrs in data engineering,Senior Software Engineer,0.6544,107,0.184,0.829,0.56078666
+CAND_0085222,41.29996665293188,Ishaan Agarwal,Senior Software Engineer | 5.6+ yrs in data engineering,Senior Software Engineer,0.6912,44,0.2497,0.815,0.56605554
+CAND_0040724,41.26901728671109,Anika Sethi,Senior Software Engineer | 5.8+ yrs in data engineering,Senior Software Engineer,0.6422,119,0.3148,0.862,0.5756262
+CAND_0042987,41.26714414671677,Shaurya Patel,.NET Developer | Backend systems & APIs,.NET Developer,0.657,124,0.212,0.807,0.5385819
+CAND_0000547,41.22884693822305,Tanvi Tiwari,Java Developer | Backend systems & APIs,Java Developer,0.6256,166,0.3652,0.797,0.5731847
+CAND_0043427,41.222064738996444,Karan Khanna,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.8792,111,0.5522,0.844,0.5687555
+CAND_0026426,41.205156304423646,Ananya Kapoor,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.3758,23,0.2572,1.0,0.5102938
+CAND_0042421,41.19420476528879,Suresh Dalal,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.626,116,0.2365,0.843,0.54821396
+CAND_0096236,41.16627639596872,Anika Chatterjee,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.4054,23,0.3324,0.845,0.5593263
+CAND_0072948,41.16242081765211,Avni Bhatia,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.6152,90,0.241,0.802,0.55457497
+CAND_0021163,41.13070570936924,Kavya Menon,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.7604,65,0.2526,0.897,0.55829036
+CAND_0092839,41.07648334301016,Yash Chowdary,Analytics Engineer | 7.5+ yrs in data engineering,Analytics Engineer,0.9344,74,0.3092,0.902,0.528733
+CAND_0085745,41.072503071060254,Meera Mittal,Java Developer | Backend systems & APIs,Java Developer,0.5528,182,0.283,0.82,0.573476
+CAND_0081944,41.07037911805998,Ananya Mittal,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.7544,78,0.4101,0.787,0.5589974
+CAND_0033549,41.042147598063416,Sai Iyengar,Senior Software Engineer | 4.1+ yrs in data engineering,Senior Software Engineer,0.4646,148,0.3326,0.91,0.56489396
+CAND_0015760,41.02950174640364,Advik Ghosh,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.785,69,0.4804,0.814,0.5750169
+CAND_0075998,41.00489061238334,Riya Chopra,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.3662,91,0.2352,0.987,0.5406788
+CAND_0021836,40.96066481910466,Ved Kapoor,ML Engineer | 6.5 yrs in analytics & ML,ML Engineer,0.6968,100,0.2184,0.991,0.4960059
+CAND_0098445,40.94613661160104,Kavya Saxena,Data Engineer | 5.0+ yrs in data engineering,Data Engineer,0.769,131,0.3347,0.859,0.57614005
+CAND_0058463,40.92307719364415,Reyansh Saxena,Senior Software Engineer | 7.5+ yrs in data engineering,Senior Software Engineer,0.5836,64,0.3968,0.995,0.5535104
+CAND_0084437,40.92251994601816,Naina Verma,Data Engineer | Data pipelines & analytics,Data Engineer,0.6632,144,0.6574,0.762,0.5467249
+CAND_0064758,40.91745116609379,Nikhil Vora,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.6146,24,0.384,0.768,0.5528525
+CAND_0063232,40.893228486159536,Dhruv Gupta,Data Engineer | 6.6+ yrs in data engineering,Data Engineer,0.4034,24,0.4588,0.931,0.5699314
+CAND_0025889,40.88850847583526,Arnav Ghosh,Data Engineer | 5.4+ yrs in data engineering,Data Engineer,0.8288,26,0.3588,0.779,0.5568689
+CAND_0060538,40.85654974922499,Om Hegde,ML Engineer | 5.2 yrs in analytics & ML,ML Engineer,0.88,90,0.4937,0.815,0.5474479
+CAND_0020350,40.854498158861674,Tanya Reddy,AI Engineer | Applied ML | Building intelligent products,AI Engineer,1.0,72,0.3337,1.0,0.55083454
+CAND_0069503,40.85315111469205,Ishaan Dutta,Computer Vision Engineer | Data Science & ML enthusiast,Computer Vision Engineer,0.766,110,0.5374,0.792,0.501637
+CAND_0054882,40.83785095969292,Ishaan Verma,Senior Software Engineer | 5.2+ yrs in data engineering,Senior Software Engineer,0.6728,107,0.604,0.779,0.5436137
+CAND_0082777,40.81491439162846,Rahul Iyengar,Mobile Developer | Full-stack development,Mobile Developer,0.748,57,0.2908,0.922,0.54903555
+CAND_0096131,40.80819865607574,Shreya Menon,AI Specialist | Building ML-powered solutions,AI Specialist,0.8728,35,0.2272,0.903,0.556877
+CAND_0082624,40.806952686956556,Meera Mehta,Data Engineer | Data pipelines & analytics,Data Engineer,0.4938,118,0.5472,0.775,0.5296562
+CAND_0028134,40.78659906370544,Aarohi Chopra,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.3828,130,0.2512,0.978,0.51764286
+CAND_0014790,40.76857725304279,Dhruv Patel,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.5262,132,0.452,0.824,0.5498642
+CAND_0023458,40.76035418897723,Ira Kumar,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,1.0,84,0.5323,0.911,0.573232
+CAND_0040092,40.74151439627676,Vikram Menon,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.5288,100,0.4148,0.905,0.56707335
+CAND_0023583,40.736311813476256,Anjali Bose,ML Engineer | 4.1 yrs in analytics & ML,ML Engineer,0.85,104,0.2912,1.0,0.561058
+CAND_0044753,40.73394890152839,Deepak Mukherjee,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.786,105,0.2797,0.839,0.5263621
+CAND_0069355,40.7298863580157,Aditya Shetty,Software Engineer | Cloud & DevOps,Software Engineer,0.6472,130,0.5074,0.867,0.56099164
+CAND_0053662,40.70486423374216,Nisha Pandey,Data Engineer | 4.3+ yrs in data engineering,Data Engineer,0.6928,144,0.52,0.978,0.5672271
+CAND_0007281,40.68932775558298,Anil Arora,Software Engineer | Cloud & DevOps,Software Engineer,0.677,57,0.296,0.918,0.58164454
+CAND_0031954,40.68662581161694,Sunil Khanna,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.5974,40,0.2924,0.954,0.56421876
+CAND_0085888,40.67951607307944,Ananya Trivedi,DevOps Engineer | Full-stack development,DevOps Engineer,0.4148,59,0.3376,0.82,0.5691242
+CAND_0062561,40.6787549356598,Suresh Bose,ML Engineer | 5.9 yrs in analytics & ML,ML Engineer,0.522,41,0.636,1.0,0.5509988
+CAND_0092070,40.65615262376175,Krishna Mehta,Business Analyst | Exploring AI & GenAI applications,Business Analyst,0.205,103,0.24,0.8,0.6631899
+CAND_0033303,40.65295743419729,Aadhya Mehta,AI Specialist | Building ML-powered solutions,AI Specialist,0.68,102,0.3828,0.809,0.51793474
+CAND_0064443,40.64295040311054,Pari Sen,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.5424,79,0.3147,0.822,0.5664387
+CAND_0087804,40.64005538217363,Rahul Kapoor,AI Specialist | Data Science & ML enthusiast,AI Specialist,0.6856,89,0.2612,1.0,0.5656254
+CAND_0089381,40.60312301686862,Zara Naidu,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,0.384,20,0.4366,1.0,0.48428553
+CAND_0063381,40.599105779870726,Aarav Bose,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.3164,99,0.328,0.795,0.5464362
+CAND_0076213,40.587793421684296,Ishaan Rao,QA Engineer | Backend systems & APIs,QA Engineer,0.5668,152,0.2456,0.844,0.55596936
+CAND_0098217,40.57618165248178,Kavya Bansal,ML Engineer | 6.4 yrs in analytics & ML,ML Engineer,0.7776,99,0.5796,0.774,0.48744285
+CAND_0070544,40.57590200138789,Arjun Desai,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.817,36,0.612,0.903,0.55783206
+CAND_0001930,40.56468449654184,Rahul Gupta,Senior Software Engineer (ML) | 6.9 yrs in analytics & ML,Senior Software Engineer (ML),0.8036,99,0.7519,0.783,0.5733935
+CAND_0080124,40.5592681686158,Diya Reddy,Data Analyst | Data pipelines & analytics,Data Analyst,0.6526,135,0.3784,0.939,0.517933
+CAND_0043304,40.55847506717644,Aarohi Goyal,Junior ML Engineer | 6.5 yrs in analytics & ML,Junior ML Engineer,0.3884,114,0.6341,1.0,0.5683818
+CAND_0075491,40.55416640069286,Vivaan Mukherjee,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.8424,39,0.4172,1.0,0.58935267
+CAND_0089495,40.54630180700394,Mira Saxena,Senior Software Engineer (ML) | 4.3 yrs in analytics & ML,Senior Software Engineer (ML),0.5544,62,0.7035,0.776,0.55948246
+CAND_0098454,40.53740636884938,Jay Iyengar,AI Specialist | Building ML-powered solutions,AI Specialist,0.8616,19,0.5983,1.0,0.5655418
+CAND_0022870,40.53740636884938,Krishna Menon,AI Specialist | Building ML-powered solutions,AI Specialist,0.802,81,0.5324,0.906,0.5573469
+CAND_0087406,40.5326568604534,Myra Pandey,Senior Data Engineer | 4.7+ yrs in data engineering,Senior Data Engineer,0.619,23,0.2048,0.883,0.55814874
+CAND_0028430,40.53027117701613,Divya Menon,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.704,47,0.3021,0.839,0.55253077
+CAND_0036484,40.52976668360698,Advaith Singh,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.655,115,0.3626,0.757,0.5596488
+CAND_0095933,40.51680921937132,Aanya Shah,Software Engineer | Full-stack development,Software Engineer,0.48,97,0.318,0.802,0.58905345
+CAND_0002770,40.508081668241815,Ritu Khanna,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.91,102,0.2192,0.769,0.54833627
+CAND_0038877,40.505271137736386,Ved Arora,Senior Software Engineer | 5.7+ yrs in data engineering,Senior Software Engineer,0.4978,112,0.6909,0.852,0.5569723
+CAND_0003791,40.50352493455346,Ritu Bansal,ML Engineer | Building ML-powered solutions,ML Engineer,1.0,100,0.7213,1.0,0.5259199
+CAND_0096430,40.5011542763686,Rajesh Pillai,DevOps Engineer | Full-stack development,DevOps Engineer,0.3828,172,0.3588,0.924,0.5294458
+CAND_0058098,40.50073114173673,Ayaan Menon,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.8754,66,0.3377,0.787,0.5457394
+CAND_0045994,40.483184002490304,Arjun Dalal,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.6766,70,0.4685,0.946,0.5169108
+CAND_0010148,40.47598784061431,Tanya Chatterjee,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.555,133,0.6034,0.845,0.54774714
+CAND_0051466,40.46882733406691,Krishna Gupta,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.6376,63,0.6968,0.89,0.5791794
+CAND_0018439,40.4598557410229,Tanvi Khanna,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.4836,53,0.3248,0.922,0.56534106
+CAND_0001493,40.446617067896455,Aadhya Dutta,Data Engineer | 6.2+ yrs in data engineering,Data Engineer,0.711,133,0.3966,0.798,0.54239035
+CAND_0035391,40.444914625320166,Rohan Krishnan,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.6006,122,0.6356,0.764,0.528746
+CAND_0071920,40.43539744653118,Aditya Sen,Content Writer | Generative AI explorer,Content Writer,0.3686,77,0.3812,0.78,0.57396895
+CAND_0099593,40.422851821017815,Nikhil Nair,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.8368,109,0.3952,0.739,0.56414366
+CAND_0065450,40.422827546959,Siya Desai,ML Engineer | Building ML-powered solutions,ML Engineer,1.0,104,0.4516,1.0,0.5409901
+CAND_0075931,40.39889498223097,Pari Pillai,Software Engineer | Data pipelines & analytics,Software Engineer,0.4762,24,0.5652,0.771,0.5498724
+CAND_0017171,40.39421499195092,Ritu Desai,Analytics Engineer | 6.7+ yrs in data engineering,Analytics Engineer,0.6104,27,0.3736,0.856,0.5509497
+CAND_0090234,40.39248626512626,Shaurya Bansal,Senior Software Engineer | 4.3+ yrs in data engineering,Senior Software Engineer,0.5408,39,0.5846,0.945,0.5457721
+CAND_0091772,40.382540338256305,Rohan Bhatia,Software Engineer | Data pipelines & analytics,Software Engineer,0.6774,137,0.3272,0.778,0.5478904
+CAND_0019701,40.378383311269936,Dev Shetty,DevOps Engineer | Full-stack development,DevOps Engineer,0.3906,128,0.2076,0.895,0.49699116
+CAND_0078350,40.37432207629501,Aarav Menon,Mobile Developer | Cloud & DevOps,Mobile Developer,0.536,42,0.2296,0.813,0.5563488
+CAND_0043473,40.35901625765937,Yash Bansal,Java Developer | Full-stack development,Java Developer,0.495,113,0.3113,0.736,0.5672354
+CAND_0092733,40.35786685618488,Arnav Rao,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.5124,31,0.3084,0.944,0.56884146
+CAND_0031703,40.35780088313901,Krishna Banerjee,ML Engineer | 6.8 yrs in analytics & ML,ML Engineer,0.7776,117,0.343,0.948,0.5428018
+CAND_0074322,40.34188193013265,Saanvi Khanna,Mobile Developer | Full-stack development,Mobile Developer,0.449,135,0.3228,0.957,0.54371274
+CAND_0073045,40.320859403277254,Suresh Shetty,DevOps Engineer | Full-stack development,DevOps Engineer,0.6782,85,0.2542,0.917,0.56839275
+CAND_0028318,40.31649301728335,Yash Mishra,Data Scientist | Building ML-powered solutions,Data Scientist,0.5854,86,0.5318,0.886,0.5658898
+CAND_0026344,40.3131267292679,Arnav Pandey,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.789,130,0.5548,0.865,0.51156914
+CAND_0016894,40.30409631154609,Meera Shah,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.9568,96,0.3672,0.891,0.53000224
+CAND_0044890,40.30126782146422,Ananya Bose,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.9024,104,0.5557,0.905,0.57476187
+CAND_0099362,40.28857756425522,Aadhya Rao,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.4058,94,0.2952,0.841,0.5596776
+CAND_0061600,40.28248808613307,Avni Mishra,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.6462,146,0.3114,0.798,0.47688484
+CAND_0015668,40.27605292524762,Meera Agarwal,Software Engineer | Data pipelines & analytics,Software Engineer,0.51,93,0.4742,0.907,0.55649287
+CAND_0054546,40.273812449953226,Pooja Ghosh,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.867,22,0.7148,1.0,0.55205345
+CAND_0018396,40.26932689626259,Siya Patel,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.5842,73,0.5165,0.766,0.5262208
+CAND_0072606,40.256180077326874,Pari Hegde,Java Developer | Full-stack development,Java Developer,0.4936,132,0.1852,1.0,0.54974353
+CAND_0044113,40.250628920326015,Pranav Naidu,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.6502,55,0.4904,1.0,0.5497682
+CAND_0028287,40.250628920326015,Myra Iyengar,Data Scientist | 5.7 yrs in analytics & ML,Data Scientist,0.91,42,0.6191,0.991,0.5636569
+CAND_0069345,40.246038772464075,Sanjay Khanna,QA Engineer | Backend systems & APIs,QA Engineer,0.5452,53,0.2554,0.936,0.5423094
+CAND_0029439,40.24333513059504,Pooja Vora,AI Specialist | 6.4 yrs in analytics & ML,AI Specialist,0.949,28,0.5297,1.0,0.5786761
+CAND_0034562,40.24109124867745,Saanvi Bose,Analytics Engineer | 6.6+ yrs in data engineering,Analytics Engineer,0.4222,113,0.3104,0.919,0.5269092
+CAND_0066179,40.22948249580431,Shaurya Naidu,Senior Software Engineer | 4.2+ yrs in data engineering,Senior Software Engineer,0.6324,37,0.5004,0.908,0.55131865
+CAND_0082942,40.21489931555588,Aditya Vora,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.6042,63,0.3688,1.0,0.5633579
+CAND_0093401,40.21489931555588,Kavya Rao,AI Specialist | 6.0 yrs in analytics & ML,AI Specialist,0.7534,24,0.6099,1.0,0.5527162
+CAND_0025135,40.209342633659865,Ishaan Verma,Data Engineer | 6.1+ yrs in data engineering,Data Engineer,0.6216,133,0.188,0.871,0.548107
+CAND_0021634,40.20844659616232,Zara Mehta,Analytics Engineer | 4.9+ yrs in data engineering,Analytics Engineer,0.5348,125,0.3694,0.973,0.526371
+CAND_0072457,40.20837389126012,Nisha Vora,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.3834,106,0.5654,0.736,0.50913554
+CAND_0064613,40.20271099527843,Vikram Bose,Full Stack Developer | Full-stack development,Full Stack Developer,0.4056,53,0.5478,0.789,0.5630412
+CAND_0054100,40.18743067271758,Aanya Patel,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,1.0,21,0.6044,1.0,0.5710114
+CAND_0034164,40.18608371126204,Aisha Sethi,Data Scientist | Building ML-powered solutions,Data Scientist,0.8784,23,0.4259,1.0,0.55945814
+CAND_0026424,40.17535211684738,Deepak Desai,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.4692,111,0.4776,0.901,0.58285743
+CAND_0071747,40.168328886112576,Manish Tiwari,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.5224,21,0.5725,0.902,0.56604373
+CAND_0077441,40.15977540065705,Ananya Hegde,Software Engineer | Backend systems & APIs,Software Engineer,0.4034,41,0.344,0.885,0.5718713
+CAND_0045475,40.15007842494705,Advaith Vora,ML Engineer | Building ML-powered solutions,ML Engineer,0.811,34,0.5762,0.909,0.47999525
+CAND_0009037,40.120920823549646,Shaurya Pillai,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.3786,154,0.2264,0.699,0.48904908
+CAND_0080315,40.11066132903795,Anil Pillai,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.9,48,0.4702,0.758,0.5291537
+CAND_0065430,40.097878476829166,Dev Singh,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.835,38,0.3122,0.758,0.5363184
+CAND_0080203,40.09141891843729,Nikhil Banerjee,Data Analyst | 2.0+ yrs in data engineering,Data Analyst,0.601,132,0.395,0.917,0.5476539
+CAND_0031221,40.07221927509717,Priya Iyengar,Senior Data Engineer | 7.6+ yrs in data engineering,Senior Data Engineer,0.6196,69,0.38,0.934,0.5785425
+CAND_0027545,40.0699988898662,Advaith Sen,Java Developer | Full-stack development,Java Developer,0.359,138,0.2908,0.966,0.5799723
+CAND_0063537,40.06475959016364,Kiara Verma,.NET Developer | Backend systems & APIs,.NET Developer,0.6222,148,0.298,0.952,0.51103604
+CAND_0032472,40.057119878395184,Aarohi Shah,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.652,141,0.332,0.977,0.56464064
+CAND_0076482,40.04072824253035,Tanvi Chatterjee,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.835,101,0.8403,0.928,0.5193571
+CAND_0073835,40.036173468984444,Avni Iyengar,QA Engineer | Cloud & DevOps,QA Engineer,0.305,114,0.314,0.809,0.5362016
+CAND_0024155,40.02380526167918,Aarohi Menon,QA Engineer | Backend systems & APIs,QA Engineer,0.4854,189,0.2304,0.771,0.5318091
+CAND_0009162,40.016044199408334,Rohan Mittal,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.5408,43,0.4244,0.829,0.52443063
+CAND_0001036,40.01325211863394,Ayaan Kumar,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.6862,68,0.2916,0.837,0.5547518
+CAND_0001707,39.99629705075339,Sanjay Gupta,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.985,108,0.2787,0.976,0.5067936
+CAND_0004848,39.993946019925616,Kabir Desai,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,0.4706,116,0.4925,0.92,0.50356984
+CAND_0000116,39.98940711208402,Divya Gupta,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.5526,22,0.2582,0.886,0.5140321
+CAND_0043904,39.97879215071498,Arjun Pandey,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.664,51,0.3148,0.794,0.5230656
+CAND_0089464,39.97331771651613,Divya Verma,Data Engineer | Data pipelines & analytics,Data Engineer,0.6774,108,0.5472,0.793,0.5220468
+CAND_0034328,39.962267320481686,Pranav Mehta,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.4512,19,0.4044,0.822,0.48495966
+CAND_0074895,39.94967950523375,Ela Mittal,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.4038,142,0.3622,0.762,0.5661648
+CAND_0013384,39.94362692219055,Jay Sen,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.375,42,0.3244,0.784,0.5620409
+CAND_0018888,39.93896189299232,Shreya Trivedi,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.808,19,0.6962,0.876,0.55059314
+CAND_0058606,39.90859858514657,Zara Verma,Analytics Engineer | 5.1+ yrs in data engineering,Analytics Engineer,0.6738,97,0.4187,0.852,0.57249916
+CAND_0000969,39.89092817350567,Dhruv Pillai,AI Specialist | 5.5 yrs in analytics & ML,AI Specialist,0.913,26,0.2,0.917,0.5506253
+CAND_0097037,39.883552693035156,Anil Banerjee,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.826,88,0.3038,1.0,0.5618025
+CAND_0033352,39.86983069780141,Aarohi Dutta,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,0.907,35,0.4068,0.784,0.49147934
+CAND_0018701,39.86910822307508,Advik Khanna,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,0.79,58,0.4802,0.786,0.53882957
+CAND_0011757,39.86308084559571,Kavya Trivedi,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,0.5484,77,0.4514,0.78,0.5513768
+CAND_0069643,39.86062185819753,Manish Mittal,Senior Software Engineer | 7.1+ yrs in data engineering,Senior Software Engineer,0.4448,24,0.4287,0.851,0.57936627
+CAND_0091552,39.858493498072704,Rahul Verma,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.4348,30,0.4824,0.811,0.52509576
+CAND_0082672,39.850225319908496,Aarav Mishra,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.3154,195,0.2276,0.927,0.5555841
+CAND_0049831,39.821689393805414,Ira Kapoor,Computer Vision Engineer | 5.4 yrs in analytics & ML,Computer Vision Engineer,0.9896,66,0.6567,0.918,0.54663414
+CAND_0044664,39.81439239690425,Pranav Dalal,Mobile Developer | Full-stack development,Mobile Developer,0.449,115,0.4704,0.93,0.5739954
+CAND_0061075,39.7973431982379,Sanjay Shah,Data Engineer | 7.5+ yrs in data engineering,Data Engineer,0.7804,77,0.4204,0.928,0.55000913
+CAND_0098288,39.79593404460629,Nikhil Naidu,Junior ML Engineer | 6.7 yrs in analytics & ML,Junior ML Engineer,0.82,116,0.412,0.996,0.5236028
+CAND_0006970,39.79365230431271,Shaurya Dutta,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.4454,82,0.5456,0.919,0.57564914
+CAND_0057162,39.792103603357376,Aadhya Bansal,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.637,73,0.3622,0.8,0.5230645
+CAND_0089747,39.78728008296055,Aarav Chowdary,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.6878,109,0.4808,0.865,0.5792483
+CAND_0066834,39.783429336440555,Arnav Desai,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.802,34,0.2316,0.777,0.5330823
+CAND_0001968,39.776077896213664,Sanjay Chopra,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.5088,29,0.3766,0.853,0.55862993
+CAND_0019650,39.77284975702207,Pranav Reddy,Data Engineer | 3.2+ yrs in data engineering,Data Engineer,0.5502,88,0.5216,0.792,0.57014406
+CAND_0003557,39.76756177937927,Aadhya Verma,ML Engineer | Building ML-powered solutions,ML Engineer,1.0,111,0.4644,0.908,0.55934006
+CAND_0084738,39.7470818748694,Pari Pandey,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.4276,35,0.537,1.0,0.5200021
+CAND_0043829,39.74643328779677,Advaith Joshi,AI Research Engineer | 4.8 yrs in analytics & ML,AI Research Engineer,1.0,19,0.4264,1.0,0.5885122
+CAND_0022599,39.7434684048686,Yash Joshi,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.9092,32,0.3655,0.934,0.5747797
+CAND_0007675,39.74098127473402,Dhruv Trivedi,Senior Data Engineer | 7.1+ yrs in data engineering,Senior Data Engineer,0.8952,53,0.4868,0.765,0.56651056
+CAND_0071839,39.73686188377741,Aryan Gupta,Mobile Developer | Full-stack development,Mobile Developer,0.6764,184,0.2684,0.826,0.5405029
+CAND_0058791,39.73055428271836,Advik Khanna,AI Research Engineer | 4.1 yrs in analytics & ML,AI Research Engineer,0.736,28,0.19,0.999,0.56197953
+CAND_0022608,39.72140540701999,Kiara Malhotra,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.2856,120,0.5208,0.924,0.5772941
+CAND_0031520,39.68895257415734,Atharv Desai,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.3816,71,0.5832,0.835,0.57140076
+CAND_0063862,39.68448171407286,Kavya Kapoor,ML Engineer | Building ML-powered solutions,ML Engineer,1.0,23,0.463,0.798,0.51592004
+CAND_0046543,39.67955664946337,Sanjay Subramanian,Data Engineer | 7.6+ yrs in data engineering,Data Engineer,0.8968,143,0.414,0.808,0.46365857
+CAND_0055263,39.65089932730455,Yash Patel,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.5834,98,0.5061,0.903,0.5059775
+CAND_0098952,39.649398359826456,Dev Sethi,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.8048,102,0.6452,0.781,0.5767553
+CAND_0049808,39.640347871160905,Advik Joshi,Data Analyst | Data pipelines & analytics,Data Analyst,0.6248,96,0.318,0.899,0.5096626
+CAND_0053001,39.62826125109637,Kiara Sharma,Software Engineer | 6.6+ yrs in data engineering,Software Engineer,0.7706,133,0.2394,0.944,0.5232743
+CAND_0033405,39.61270012969551,Sunil Iyengar,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.97,88,0.3702,0.771,0.5161107
+CAND_0040192,39.609296740864664,Vikram Tiwari,Software Engineer | Data pipelines & analytics,Software Engineer,0.5404,119,0.4918,0.747,0.5530783
+CAND_0002637,39.605710565167776,Ved Iyengar,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.887,145,0.3819,0.853,0.5500895
+CAND_0000360,39.591235512739125,Krishna Agarwal,Mobile Developer | Full-stack development,Mobile Developer,0.4878,106,0.194,0.856,0.5166244
+CAND_0081480,39.586475792469244,Sneha Hegde,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,0.9432,77,0.6268,0.762,0.53818965
+CAND_0093839,39.58566913650927,Vihaan Vora,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.6344,98,0.5323,0.946,0.525338
+CAND_0085008,39.58485160656733,Jay Sethi,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.7432,132,0.2068,0.971,0.5420819
+CAND_0080653,39.584170292897056,Ishaan Menon,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.3648,37,0.5898,0.83,0.51892614
+CAND_0014005,39.57947682019131,Amit Bansal,Data Engineer | Data pipelines & analytics,Data Engineer,0.3672,101,0.4265,0.967,0.53958124
+CAND_0047964,39.57387612616379,Yash Sen,Senior Data Engineer | 6.0+ yrs in data engineering,Senior Data Engineer,0.6372,136,0.4002,0.756,0.51248753
+CAND_0071353,39.56095499980632,Vivaan Chopra,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.518,111,0.2368,0.901,0.58120966
+CAND_0074779,39.547055408620174,Naina Gupta,Senior Software Engineer | 5.4+ yrs in data engineering,Senior Software Engineer,0.5078,138,0.282,0.895,0.5640397
+CAND_0036416,39.54282256482771,Priya Saxena,ML Engineer | 5.2 yrs in analytics & ML,ML Engineer,0.82,107,0.439,0.984,0.5240133
+CAND_0024897,39.53771567853831,Divya Kumar,.NET Developer | Full-stack development,.NET Developer,0.2628,123,0.3012,0.82,0.48077095
+CAND_0063500,39.52433169023479,Kiara Bose,Data Engineer | 2.8+ yrs in data engineering,Data Engineer,0.7784,132,0.6568,0.904,0.53300357
+CAND_0090093,39.51455772733838,Diya Bose,Data Scientist | Building ML-powered solutions,Data Scientist,0.6352,69,0.236,0.764,0.50932175
+CAND_0007596,39.5127020578986,Shaurya Gupta,Junior ML Engineer | 4.4 yrs in analytics & ML,Junior ML Engineer,0.925,24,0.4445,0.928,0.5747683
+CAND_0045250,39.5127020578986,Priya Pandey,"Applied ML Engineer | Search, Ranking & Retrieval",Applied ML Engineer,0.877,47,0.4751,0.998,0.5584583
+CAND_0058923,39.49155927049831,Anika Joshi,Backend Engineer | 4.2+ yrs in data engineering,Backend Engineer,0.672,40,0.5028,0.811,0.5608287
+CAND_0011687,39.489519195634564,Shreya Tiwari,Senior NLP Engineer | Production ML at scale | 7.8+ yrs,Senior NLP Engineer,0.9224,36,0.7716,0.799,0.56175196
+CAND_0077504,39.48866269380965,Anil Tiwari,Data Scientist | Building ML-powered solutions,Data Scientist,0.6076,96,0.2266,0.798,0.52693045
+CAND_0013153,39.48799896551695,Nisha Verma,Computer Vision Engineer | Data Science & ML enthusiast,Computer Vision Engineer,0.841,117,0.4268,0.94,0.5042236
+CAND_0043637,39.4827975077852,Ela Menon,Junior ML Engineer | Data Science & ML enthusiast,Junior ML Engineer,0.9648,22,0.3123,1.0,0.52106905
+CAND_0064687,39.47226014227363,Sai Mittal,Senior Data Engineer | 7.1+ yrs in data engineering,Senior Data Engineer,0.4606,50,0.3782,0.894,0.54019505
+CAND_0090584,39.471969226337826,Amit Goyal,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.91,108,0.6796,0.92,0.5110263
+CAND_0041083,39.45485845785027,Pranav Bose,Computer Vision Engineer | 6.2 yrs in analytics & ML,Computer Vision Engineer,0.5054,116,0.6818,0.821,0.5242548
+CAND_0079941,39.454612469642804,Sneha Vora,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.4162,130,0.3096,0.991,0.5150354
+CAND_0085199,39.4542360079801,Avni Sharma,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.97,60,0.2464,1.0,0.5500927
+CAND_0017916,39.44532109047045,Shaurya Tiwari,Software Engineer | Backend systems & APIs,Software Engineer,0.576,19,0.5164,0.898,0.5708571
+CAND_0062948,39.44058543417038,Naina Tiwari,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.5338,119,0.3722,0.941,0.52068007
+CAND_0049978,39.42756888867255,Kabir Arora,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.91,116,0.634,1.0,0.56644416
+CAND_0067828,39.40672929973976,Neha Krishnan,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.662,26,0.66,0.789,0.55018723
+CAND_0057177,39.39898546990158,Riya Reddy,Software Engineer | Cloud & DevOps,Software Engineer,0.4204,188,0.2968,0.924,0.5826465
+CAND_0042596,39.39694932034481,Myra Chowdary,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.7848,37,0.2548,0.829,0.48350686
+CAND_0087778,39.39694932034481,Nikhil Chopra,Data Scientist | Data Science & ML enthusiast,Data Scientist,1.0,20,0.4339,0.809,0.46522748
+CAND_0086801,39.39367808228743,Myra Iyer,Computer Vision Engineer | 6.6 yrs in analytics & ML,Computer Vision Engineer,0.7668,113,0.5528,0.971,0.49752083
+CAND_0075249,39.38978349585137,Ishaan Arora,"Applied ML Engineer | Search, Ranking & Retrieval",Applied ML Engineer,0.835,67,0.6191,0.801,0.5498959
+CAND_0074549,39.38527080252926,Kabir Iyengar,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.3224,132,0.4,0.837,0.55833936
+CAND_0008300,39.373837904559615,Dhruv Goyal,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.646,177,0.302,0.894,0.5319054
+CAND_0054194,39.368992542717976,Avni Vora,Sales Executive | AI enthusiast | Building with LLMs,Sales Executive,0.3634,34,0.064,0.82,0.6110221
+CAND_0044135,39.36457588531595,Vikram Sethi,Computer Vision Engineer | 6.7 yrs in analytics & ML,Computer Vision Engineer,0.4408,105,0.4032,0.973,0.5030111
+CAND_0063908,39.353933298218955,Sai Shetty,.NET Developer | Full-stack development,.NET Developer,0.5654,112,0.4052,0.905,0.5552363
+CAND_0064256,39.35121461701421,Meera Gupta,Junior ML Engineer | 6.4 yrs in analytics & ML,Junior ML Engineer,0.721,24,0.4587,1.0,0.5186579
+CAND_0033219,39.34656803053852,Shreya Goyal,Backend Engineer | 5.5+ yrs in data engineering,Backend Engineer,0.6104,149,0.3145,0.891,0.58300424
+CAND_0094400,39.322062543684865,Ela Ghosh,Computer Vision Engineer | 5.5 yrs in analytics & ML,Computer Vision Engineer,0.6622,73,0.5764,0.762,0.5098134
+CAND_0086114,39.31839510810883,Shaurya Reddy,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.5504,40,0.6264,0.852,0.5445639
+CAND_0014292,39.30832152854156,Anjali Sen,Software Engineer | Data pipelines & analytics,Software Engineer,0.5188,36,0.5082,0.944,0.57179713
+CAND_0098690,39.3034946114729,Anika Rao,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.876,121,0.114,0.936,0.58826345
+CAND_0053545,39.299472897296354,Dev Reddy,Graphic Designer | AI enthusiast | Building with LLMs,Graphic Designer,0.3838,21,0.2968,0.789,0.58180404
+CAND_0043786,39.28575086988609,Saanvi Saxena,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.4136,138,0.4978,0.793,0.52846694
+CAND_0082184,39.283737344967676,Tanvi Pillai,Operations Manager | Exploring AI & GenAI applications,Operations Manager,0.3602,143,0.0432,0.897,0.6156999
+CAND_0018659,39.282635582231734,Nisha Chowdary,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.5358,78,0.338,0.893,0.53829336
+CAND_0028227,39.281939557286805,Neha Mishra,QA Engineer | Backend systems & APIs,QA Engineer,0.4998,123,0.5871,0.978,0.53979546
+CAND_0031885,39.261796806742076,Dhruv Naidu,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.5452,73,0.5244,0.831,0.51326686
+CAND_0042553,39.26139057045254,Amit Mishra,Software Engineer | Cloud & DevOps,Software Engineer,0.4372,165,0.2804,0.79,0.5839217
+CAND_0018454,39.25355079358405,Suresh Saxena,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.6152,30,0.3943,0.957,0.49021265
+CAND_0089709,39.24649441249775,Vihaan Gupta,Software Engineer | Full-stack development,Software Engineer,0.6228,127,0.3722,0.971,0.5684211
+CAND_0046621,39.245080558269784,Aarav Sharma,AI Research Engineer | 6.6 yrs in analytics & ML,AI Research Engineer,0.6442,75,0.4874,0.827,0.55653334
+CAND_0027498,39.24466168406154,Pari Khanna,Software Engineer | Cloud & DevOps,Software Engineer,0.649,143,0.1752,0.966,0.5830363
+CAND_0080465,39.243682923071994,Kabir Goyal,ML Engineer | Data Science & ML enthusiast,ML Engineer,1.0,21,0.7405,1.0,0.5473217
+CAND_0085383,39.23145690861715,Sanjay Hegde,Senior Data Engineer | 6.5+ yrs in data engineering,Senior Data Engineer,0.7712,72,0.5476,0.83,0.56208706
+CAND_0094165,39.221674317732834,Siya Arora,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.66,19,0.6843,0.959,0.58094406
+CAND_0099213,39.219016143488375,Ved Hegde,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.4442,40,0.3308,0.924,0.5663131
+CAND_0074305,39.21160033661626,Neha Kapoor,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.6546,64,0.35,0.814,0.5169548
+CAND_0033350,39.21160033661626,Karan Sen,Data Scientist | Data Science & ML enthusiast,Data Scientist,1.0,31,0.3006,0.811,0.52956617
+CAND_0079002,39.206364060428584,Priya Mukherjee,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.3752,147,0.3256,0.838,0.53338146
+CAND_0071950,39.20094811792813,Aadhya Subramanian,Mobile Developer | Backend systems & APIs,Mobile Developer,0.303,43,0.3144,0.858,0.5636376
+CAND_0052579,39.198443028504194,Ira Patel,Computer Vision Engineer | 3.3 yrs in analytics & ML,Computer Vision Engineer,0.6936,104,0.5108,0.938,0.50059485
+CAND_0093757,39.19461647198091,Neha Saxena,Cloud Engineer | Full-stack development,Cloud Engineer,0.3952,196,0.418,0.981,0.5708669
+CAND_0072688,39.18102502217567,Rajesh Goyal,Data Scientist | 6.9 yrs in analytics & ML,Data Scientist,0.961,23,0.5098,1.0,0.5344094
+CAND_0045671,39.174789532637504,Meera Krishnan,Full Stack Developer | Full-stack development,Full Stack Developer,0.3628,175,0.4982,0.859,0.56702304
+CAND_0069617,39.168746713110096,Manish Dutta,.NET Developer | Cloud & DevOps,.NET Developer,0.5002,138,0.252,0.942,0.4913252
+CAND_0033956,39.16694512975737,Anil Mittal,.NET Developer | Cloud & DevOps,.NET Developer,0.6374,100,0.3448,0.837,0.45262694
+CAND_0080208,39.16150457889432,Naina Desai,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.4396,43,0.4208,0.777,0.5103996
+CAND_0065561,39.1459338087819,Anil Sharma,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.9336,49,0.4618,0.759,0.5041139
+CAND_0094025,39.143021301833784,Anil Bhatia,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.5928,80,0.3318,0.814,0.4824737
+CAND_0018293,39.14128701542131,Divya Joshi,Data Scientist | Building ML-powered solutions,Data Scientist,0.955,77,0.4427,0.986,0.4635306
+CAND_0041233,39.120638738212556,Saanvi Dutta,Data Scientist | 3.1 yrs in analytics & ML,Data Scientist,0.8792,117,0.5425,0.846,0.5518498
+CAND_0070389,39.11496224449169,Pranav Tiwari,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.5962,142,0.6256,0.761,0.50503486
+CAND_0041183,39.11326623027419,Priya Patel,Mobile Developer | Full-stack development,Mobile Developer,0.612,172,0.3416,0.823,0.5475048
+CAND_0068513,39.094716585978,Tanya Joshi,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,1.0,23,0.4329,1.0,0.5296005
+CAND_0016496,39.093386825731265,Sai Kumar,Java Developer | Backend systems & APIs,Java Developer,0.417,30,0.3232,0.986,0.54658794
+CAND_0063622,39.0920857038205,Reyansh Chatterjee,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,0.7296,24,0.2836,0.92,0.48703974
+CAND_0000165,39.091182373553,Suresh Reddy,AI Specialist | Building ML-powered solutions,AI Specialist,0.7084,35,0.7575,0.788,0.52561915
+CAND_0001131,39.091182373553,Aarav Goyal,ML Engineer | Building ML-powered solutions,ML Engineer,0.751,80,0.572,0.764,0.52982074
+CAND_0021491,39.091182373553,Aarohi Hegde,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.796,57,0.7013,0.799,0.53964084
+CAND_0009688,39.08249580251166,Aarav Naidu,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.7928,117,0.3948,0.947,0.5358478
+CAND_0026727,39.080202917759465,Rajesh Banerjee,Data Analyst | Data pipelines & analytics,Data Analyst,0.6218,137,0.5034,0.812,0.4919708
+CAND_0030300,39.07796126268508,Nisha Shetty,Mobile Developer | Full-stack development,Mobile Developer,0.512,120,0.2796,0.808,0.5255056
+CAND_0049540,39.07270798063884,Pranav Iyer,ML Engineer | Data Science & ML enthusiast,ML Engineer,1.0,20,0.4448,1.0,0.52406734
+CAND_0098780,39.07270798063884,Shreya Singh,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.5434,58,0.3176,0.895,0.5374893
+CAND_0075187,39.07203731102388,Priya Patel,.NET Developer | Full-stack development,.NET Developer,0.743,149,0.4052,0.963,0.53724754
+CAND_0085904,39.06309183772127,Ananya Sharma,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.4582,61,0.2214,0.97,0.5582285
+CAND_0024768,39.05699867453248,Pooja Agarwal,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.6218,57,0.366,0.893,0.55571526
+CAND_0077819,39.056403579125835,Vikram Pillai,Mobile Developer | Cloud & DevOps,Mobile Developer,0.5796,27,0.3304,0.829,0.4940955
+CAND_0064888,39.049442131404675,Riya Kumar,ML Engineer | Building ML-powered solutions,ML Engineer,0.9624,21,0.4308,1.0,0.48819515
+CAND_0065514,39.04848557782334,Krishna Chopra,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.775,32,0.6248,0.8,0.52097094
+CAND_0073026,39.04610287755599,Sunil Menon,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.4978,176,0.2252,0.816,0.57488364
+CAND_0016728,39.031103697555004,Ela Malhotra,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.5068,73,0.253,0.941,0.5679946
+CAND_0046132,39.02355588113105,Ishaan Pillai,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.8904,20,0.3252,1.0,0.5770104
+CAND_0043957,39.02260333877053,Meera Pandey,Data Analyst | 6.5+ yrs in data engineering,Data Analyst,0.8686,30,0.4412,0.763,0.53224105
+CAND_0030049,39.02260333877053,Priya Pillai,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.4472,29,0.7136,0.769,0.5011965
+CAND_0053507,39.02024649413344,Nisha Menon,Project Manager | Generative AI explorer,Project Manager,0.3108,227,0.1768,0.792,0.6789568
+CAND_0070463,39.016232970263104,Dev Mehta,Data Scientist | Building ML-powered solutions,Data Scientist,0.73,96,0.4752,1.0,0.516025
+CAND_0013928,39.00466158536863,Kiara Mittal,QA Engineer | Full-stack development,QA Engineer,0.315,143,0.2904,0.911,0.5619736
+CAND_0008615,38.99429619483181,Vikram Gupta,Data Analyst | Data pipelines & analytics,Data Analyst,0.3938,109,0.2216,0.918,0.5329106
+CAND_0018094,38.9808630966222,Pranav Mehta,ML Engineer | 5.2 yrs in analytics & ML,ML Engineer,0.9408,67,0.3203,0.89,0.541078
+CAND_0085191,38.952892119608514,Shaurya Sharma,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.2616,149,0.41,0.779,0.5511496
+CAND_0096142,38.95181011480026,Pranav Sethi,"Applied ML Engineer | Search, Ranking & Retrieval",Applied ML Engineer,0.97,25,0.868,0.773,0.5488632
+CAND_0059017,38.947535569697074,Pooja Mishra,AI Research Engineer | 6.8 yrs in analytics & ML,AI Research Engineer,0.816,76,0.7381,0.998,0.5478356
+CAND_0035376,38.939203402790874,Amit Kumar,Analytics Engineer | 4.0+ yrs in data engineering,Analytics Engineer,0.808,137,0.3619,0.824,0.5270337
+CAND_0022938,38.93298232572597,Aarav Mishra,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.4712,145,0.5009,0.881,0.4928978
+CAND_0029183,38.93244020604005,Yash Bose,Java Developer | Full-stack development,Java Developer,0.472,129,0.32,1.0,0.5908998
+CAND_0061257,38.91940271737875,Advaith Pillai,Senior Engineer | 8.0+ yrs in production systems,Staff Machine Learning Engineer,0.664,60,0.5714,1.0,0.56899107
+CAND_0044871,38.918858750341435,Yash Dalal,Java Developer | Full-stack development,Java Developer,0.3544,197,0.2476,0.826,0.5813796
+CAND_0020694,38.90451736968078,Advik Rao,Data Engineer | 2.0+ yrs in data engineering,Data Engineer,0.6504,140,0.308,0.805,0.5543952
+CAND_0042506,38.901917076583125,Zara Pandey,"Search Engineer | Search, Ranking & Retrieval",Search Engineer,0.6328,24,0.751,0.933,0.57445997
+CAND_0054805,38.89139818507465,Zara Saxena,DevOps Engineer | Full-stack development,DevOps Engineer,0.414,85,0.2564,0.887,0.56436354
+CAND_0036474,38.889498167265344,Kabir Menon,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.6588,64,0.6206,0.958,0.49021012
+CAND_0008295,38.889498167265344,Om Mehta,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.5794,20,0.4712,0.97,0.5336828
+CAND_0094957,38.88735899691029,Sneha Bhatia,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.7622,89,0.4584,0.912,0.4849757
+CAND_0040448,38.88448392151109,Pari Kapoor,QA Engineer | Cloud & DevOps,QA Engineer,0.4002,55,0.3466,0.784,0.49919313
+CAND_0093763,38.87993357181955,Krishna Nair,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.892,22,0.4236,1.0,0.5352643
+CAND_0043523,38.87209367337253,Manish Rao,Java Developer | Backend systems & APIs,Java Developer,0.543,177,0.2632,0.772,0.54351956
+CAND_0075502,38.86926841503384,Manish Bose,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),1.0,118,0.644,0.854,0.5586611
+CAND_0026565,38.86919341369138,Atharv Mittal,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.6944,130,0.3847,0.875,0.5407739
+CAND_0058061,38.86441119784048,Vivaan Mukherjee,Data Engineer | 7.4+ yrs in data engineering,Data Engineer,0.6228,85,0.182,0.978,0.5569482
+CAND_0018613,38.8582742082626,Reyansh Malhotra,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),1.0,58,0.2781,0.956,0.5270318
+CAND_0073096,38.855711902624414,Vikram Sharma,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.3728,117,0.1792,0.847,0.488388
+CAND_0047763,38.854274984860275,Anil Bose,Analytics Engineer | 7.6+ yrs in data engineering,Analytics Engineer,0.8746,123,0.4242,0.84,0.54410374
+CAND_0015057,38.85084878317186,Anil Rao,ML Engineer | 4.6 yrs in analytics & ML,ML Engineer,0.583,22,0.3683,0.951,0.524787
+CAND_0083637,38.85024792542693,Diya Bansal,ML Engineer | Building ML-powered solutions,ML Engineer,0.8052,40,0.4637,0.859,0.5474583
+CAND_0085643,38.849630644223105,Aisha Trivedi,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.604,75,0.4052,0.811,0.53079545
+CAND_0043312,38.84292773782204,Amit Ghosh,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.796,76,0.792,1.0,0.5240928
+CAND_0054795,38.842308632615016,Yash Sen,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.5192,89,0.6038,0.929,0.5472599
+CAND_0071432,38.842255896779044,Shaurya Arora,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.7154,49,0.438,0.837,0.5209063
+CAND_0082765,38.840814715319304,Reyansh Verma,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.7822,48,0.5604,0.915,0.5418126
+CAND_0010103,38.84078856746697,Pranav Iyengar,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.4752,26,0.395,0.962,0.51246977
+CAND_0082685,38.8309608501737,Rohan Menon,QA Engineer | Full-stack development,QA Engineer,0.4036,171,0.2372,0.834,0.5465195
+CAND_0063819,38.82260907876185,Rohan Chopra,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.6718,96,0.4025,0.802,0.54617006
+CAND_0000422,38.82184019888793,Anil Shah,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.95,83,0.5076,0.983,0.5575924
+CAND_0041016,38.81877996212781,Kavya Kapoor,Junior ML Engineer | 5.2 yrs in analytics & ML,Junior ML Engineer,0.715,24,0.4282,1.0,0.5148965
+CAND_0035779,38.81877996212781,Sneha Desai,ML Engineer | 5.5 yrs in analytics & ML,ML Engineer,0.6824,36,0.4428,0.933,0.5141337
+CAND_0085767,38.81877996212781,Manish Kumar,Software Engineer | 5.9+ yrs in data engineering,Software Engineer,0.5662,51,0.345,0.944,0.536459
+CAND_0096655,38.818540031614575,Dhruv Chowdary,Junior ML Engineer | 5.9 yrs in analytics & ML,Junior ML Engineer,0.6212,105,0.2462,0.749,0.50700533
+CAND_0099983,38.817728399719485,Anjali Shah,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.9318,116,0.4431,0.891,0.5450408
+CAND_0064282,38.81214600225886,Ira Mittal,Senior Software Engineer | 6.7+ yrs in data engineering,Senior Software Engineer,0.4026,88,0.3424,0.812,0.60164344
+CAND_0015512,38.8085538025015,Jay Bose,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.57,39,0.202,0.81,0.52188313
+CAND_0081875,38.80396876069508,Tanya Shetty,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.4738,121,0.4252,0.754,0.55940795
+CAND_0033742,38.80360840239529,Anjali Naidu,Software Engineer | Full-stack development,Software Engineer,0.4228,143,0.3244,0.989,0.5910805
+CAND_0025053,38.79575496171333,Jay Pillai,Data Engineer | 4.5+ yrs in data engineering,Data Engineer,0.6352,145,0.4181,0.853,0.529477
+CAND_0012805,38.789695173480126,Nisha Iyer,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.812,23,0.4291,1.0,0.4995005
+CAND_0026208,38.78615646232987,Naina Sethi,Analytics Engineer | 6.6+ yrs in data engineering,Analytics Engineer,0.6116,126,0.2936,0.814,0.53809655
+CAND_0006182,38.77198997344852,Mira Saxena,Software Engineer | Full-stack development,Software Engineer,0.4614,63,0.028,0.789,0.5566559
+CAND_0054829,38.768120431881925,Reyansh Vora,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,0.6256,102,0.5732,0.869,0.5633106
+CAND_0019880,38.76377979391005,Aanya Tiwari,AI Specialist | Data Science & ML enthusiast,AI Specialist,0.7498,66,0.2566,0.909,0.53678924
+CAND_0010435,38.75960424129375,Kiara Saxena,Software Engineer | 6.9+ yrs in data engineering,Software Engineer,0.3176,118,0.2644,0.83,0.56259465
+CAND_0026942,38.75791527649435,Sneha Nair,Junior ML Engineer | Data Science & ML enthusiast,Junior ML Engineer,0.5668,20,0.6829,0.976,0.5350778
+CAND_0094079,38.74377486654772,Sneha Kapoor,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.8732,112,0.2258,0.665,0.5495722
+CAND_0049825,38.738995759970365,Om Chopra,Backend Engineer | 3.2+ yrs in data engineering,Backend Engineer,0.3048,106,0.2696,0.887,0.57440734
+CAND_0082353,38.738930552198134,Rohan Saxena,Java Developer | Backend systems & APIs,Java Developer,0.4828,128,0.146,0.759,0.5069715
+CAND_0080794,38.7285513244076,Vihaan Reddy,AI Research Engineer | 6.2 yrs in analytics & ML,AI Research Engineer,0.4634,70,0.5118,0.982,0.57639
+CAND_0058901,38.727064425983684,Ananya Kumar,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.3726,184,0.293,0.846,0.5488765
+CAND_0029117,38.72373089810333,Nisha Mittal,Senior Software Engineer (ML) | 5.6 yrs in analytics & ML,Senior Software Engineer (ML),0.937,36,0.4016,0.955,0.5225371
+CAND_0045054,38.723672688965536,Pranav Gupta,Data Engineer | 2.1+ yrs in data engineering,Data Engineer,0.3226,124,0.3514,0.97,0.5177669
+CAND_0009846,38.69371507426606,Sneha Kumar,Business Analyst | Exploring AI & GenAI applications,Business Analyst,0.3792,75,0.02,0.784,0.58437294
+CAND_0071974,38.692396478472,Sai Verma,Senior AI Engineer | Production ML at scale | 7.8+ yrs,Senior AI Engineer,0.7056,60,0.8499,1.0,0.5730031
+CAND_0030031,38.692396478472,Anil Joshi,"AI Engineer | ML, NLP, Recommendation Systems",AI Engineer,0.895,24,0.5851,0.962,0.5546071
+CAND_0065786,38.692396478472,Advaith Pandey,AI Specialist | 4.9 yrs in analytics & ML,AI Specialist,0.912,23,0.6856,1.0,0.5796361
+CAND_0078042,38.692396478472,Neha Shah,"Applied ML Engineer | Search, Ranking & Retrieval",Applied ML Engineer,0.52,52,0.8209,1.0,0.5715734
+CAND_0099343,38.686773284199624,Myra Krishnan,Java Developer | Cloud & DevOps,Java Developer,0.4298,152,0.5036,0.741,0.5747124
+CAND_0039777,38.682520680539504,Naina Nair,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.465,70,0.5072,0.758,0.50439954
+CAND_0078790,38.68020604023981,Kavya Pandey,Data Scientist | Building ML-powered solutions,Data Scientist,0.4878,118,0.8212,0.841,0.5051888
+CAND_0073314,38.67957056567245,Vivaan Singh,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.7246,21,0.7626,1.0,0.52532613
+CAND_0020708,38.67491083767637,Kiara Patel,"Search Engineer | ML, NLP, Recommendation Systems",Search Engineer,0.5248,82,0.7948,0.944,0.5635743
+CAND_0032912,38.67362625623502,Rajesh Banerjee,Data Engineer | Data pipelines & analytics,Data Engineer,0.4894,54,0.603,0.764,0.5349691
+CAND_0064953,38.67048364610194,Deepak Chowdary,.NET Developer | Full-stack development,.NET Developer,0.5188,190,0.3524,0.959,0.51879907
+CAND_0056309,38.668551955992655,Priya Pandey,Senior Data Engineer | 8.0+ yrs in data engineering,Senior Data Engineer,0.8046,60,0.3688,0.97,0.528645
+CAND_0020617,38.66810764865585,Aarav Chowdary,Senior Software Engineer | 5.7+ yrs in data engineering,Senior Software Engineer,0.9496,106,0.2789,0.753,0.5856098
+CAND_0099145,38.667090948700384,Sai Arora,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.4896,146,0.3036,0.817,0.53379506
+CAND_0037760,38.659031627680214,Anjali Menon,Mobile Developer | Full-stack development,Mobile Developer,0.4626,36,0.218,0.909,0.5114442
+CAND_0086368,38.65740834657318,Aisha Bhatia,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.5946,124,0.21,0.763,0.5601089
+CAND_0007990,38.647326765111714,Nisha Agarwal,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.4996,132,0.1936,0.615,0.5682408
+CAND_0002342,38.64707758405165,Neha Singh,Full Stack Developer | Full-stack development,Full Stack Developer,0.6658,65,0.3544,0.786,0.57770765
+CAND_0061179,38.64121089065467,Krishna Bansal,Backend Engineer | 4.0+ yrs in data engineering,Backend Engineer,0.5556,129,0.2888,0.904,0.53734314
+CAND_0009232,38.639312342751836,Sai Dutta,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.3588,128,0.2031,0.583,0.54123414
+CAND_0057286,38.63088368960512,Mira Trivedi,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.3036,196,0.1776,0.766,0.58038425
+CAND_0030227,38.63003658036723,Aanya Trivedi,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.5592,65,0.3412,0.757,0.55139446
+CAND_0059044,38.629920004052956,Ayaan Shetty,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.5532,191,0.5708,0.761,0.53953594
+CAND_0013818,38.62910619683323,Sanjay Pandey,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.3642,104,0.2826,0.786,0.5325673
+CAND_0036403,38.626067074673166,Anjali Ghosh,Data Engineer | Data pipelines & analytics,Data Engineer,0.8928,77,0.3023,0.964,0.5423718
+CAND_0077498,38.61556809608764,Aarav Kapoor,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.764,20,0.692,0.961,0.53548896
+CAND_0036604,38.60861614898612,Ayaan Verma,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.7394,111,0.464,0.733,0.5538672
+CAND_0060231,38.60736579676562,Riya Menon,.NET Developer | Full-stack development,.NET Developer,0.595,118,0.268,1.0,0.531358
+CAND_0010000,38.59671685855983,Aanya Desai,AI Research Engineer | 3.2 yrs in analytics & ML,AI Research Engineer,0.9536,97,0.4259,0.798,0.5418738
+CAND_0007631,38.595128932954424,Ishaan Mittal,AI Specialist | Building ML-powered solutions,AI Specialist,0.865,25,0.414,0.775,0.5122509
+CAND_0005895,38.59458159532477,Krishna Tiwari,Analytics Engineer | 5.5+ yrs in data engineering,Analytics Engineer,0.8338,149,0.5252,0.807,0.5433756
+CAND_0082713,38.59309493444262,Deepak Hegde,Cloud Engineer | Full-stack development,Cloud Engineer,0.4592,123,0.5034,0.877,0.56214356
+CAND_0071712,38.58232552065806,Avni Mukherjee,Mobile Developer | Full-stack development,Mobile Developer,0.5222,184,0.2408,0.84,0.53997314
+CAND_0066414,38.55610369309091,Advik Rao,QA Engineer | Full-stack development,QA Engineer,0.4038,99,0.398,0.647,0.5923822
+CAND_0038364,38.55610369309091,Reyansh Singh,Software Engineer | Cloud & DevOps,Software Engineer,0.39,115,0.3216,0.647,0.5933827
+CAND_0070514,38.54798767490146,Anika Banerjee,AI Specialist | Building ML-powered solutions,AI Specialist,0.817,26,0.5144,0.943,0.5326815
+CAND_0006560,38.54720226270966,Zara Dutta,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.4174,136,0.2916,0.706,0.5224762
+CAND_0009184,38.54095575397165,Avni Kapoor,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.68,59,0.3014,0.885,0.5005649
+CAND_0091062,38.53988377849041,Nikhil Singh,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.71,46,0.3264,0.826,0.5335163
+CAND_0046533,38.53432775472698,Vivaan Khanna,Software Engineer | Data pipelines & analytics,Software Engineer,0.5778,60,0.3172,0.809,0.5169741
+CAND_0037075,38.5312542592598,Atharv Malhotra,Backend Engineer | 5.1+ yrs in data engineering,Backend Engineer,0.6164,125,0.3336,0.815,0.5076303
+CAND_0076381,38.52509546459023,Sunil Naidu,Backend Engineer | 7.6+ yrs in data engineering,Backend Engineer,0.8424,24,0.3714,0.764,0.5461328
+CAND_0094390,38.52242588372771,Kavya Chatterjee,Full Stack Developer | Full-stack development,Full Stack Developer,0.5228,98,0.2796,0.692,0.5724474
+CAND_0089406,38.51467157113621,Jay Joshi,Data Scientist | 4.2 yrs in analytics & ML,Data Scientist,0.7352,94,0.4664,1.0,0.59130275
+CAND_0071939,38.508701140877335,Jay Nair,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.835,84,0.3557,0.798,0.48564416
+CAND_0014783,38.49260253792955,Sai Kumar,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.7612,138,0.4001,0.83,0.52668047
+CAND_0078002,38.4824688768791,Reyansh Sharma,"Machine Learning Engineer | Search, Ranking & Retrieval",Machine Learning Engineer,0.79,55,0.6062,1.0,0.5671875
+CAND_0052887,38.481536036259364,Siya Mittal,.NET Developer | Cloud & DevOps,.NET Developer,0.308,96,0.5076,1.0,0.5165521
+CAND_0059215,38.48046675023847,Aarohi Ghosh,Mobile Developer | Full-stack development,Mobile Developer,0.5396,59,0.345,0.967,0.5423013
+CAND_0009974,38.47651360989939,Manish Reddy,Data Engineer | Data pipelines & analytics,Data Engineer,0.5126,136,0.3288,0.846,0.5073595
+CAND_0051049,38.476076001641374,Aisha Mukherjee,Analytics Engineer | 6.2+ yrs in data engineering,Analytics Engineer,0.7772,126,0.3776,0.715,0.53593355
+CAND_0001575,38.4698028795923,Ananya Ghosh,Data Engineer | Data pipelines & analytics,Data Engineer,0.4408,94,0.3918,1.0,0.5411567
+CAND_0050176,38.46631807832473,Kiara Chatterjee,Data Analyst | Data pipelines & analytics,Data Analyst,0.543,132,0.4539,0.958,0.54902256
+CAND_0072315,38.45914675921233,Naina Tiwari,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.5878,36,0.2916,0.797,0.5781327
+CAND_0063299,38.44985336084574,Neha Hegde,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.394,124,0.0404,0.904,0.5874695
+CAND_0020392,38.4460413732663,Rajesh Verma,QA Engineer | Full-stack development,QA Engineer,0.4414,128,0.4456,0.88,0.5715476
+CAND_0037912,38.44320752976396,Ved Bansal,Data Analyst | 5.7+ yrs in data engineering,Data Analyst,0.3836,130,0.362,1.0,0.5654897
+CAND_0087056,38.438253374274126,Anil Mehta,QA Engineer | Backend systems & APIs,QA Engineer,0.3978,94,0.2512,0.906,0.5535344
+CAND_0036724,38.43798326241945,Avni Gupta,Software Engineer | Data pipelines & analytics,Software Engineer,0.4748,148,0.6448,0.965,0.5112343
+CAND_0033445,38.42557004037734,Ved Bhatia,ML Engineer | 6.8 yrs in analytics & ML,ML Engineer,0.7834,20,0.3764,1.0,0.5070541
+CAND_0001086,38.42515573469596,Kabir Shetty,Senior Software Engineer | 8.0+ yrs in data engineering,Senior Software Engineer,0.9504,141,0.5006,0.961,0.5611849
+CAND_0030784,38.42055321197396,Ved Mukherjee,Data Scientist | 4.4 yrs in analytics & ML,Data Scientist,0.5494,22,0.5575,1.0,0.5184216
+CAND_0052485,38.415812291851054,Nikhil Rao,Analytics Engineer | 7.6+ yrs in data engineering,Analytics Engineer,0.6812,144,0.4553,0.914,0.5162381
+CAND_0041528,38.411261022086116,Amit Rao,Mobile Developer | Backend systems & APIs,Mobile Developer,0.3988,141,0.3332,0.818,0.5362771
+CAND_0006255,38.408335520067475,Reyansh Tiwari,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.64,44,0.3704,0.954,0.5191038
+CAND_0015784,38.40810408666273,Ela Pillai,Data Engineer | 7.4+ yrs in data engineering,Data Engineer,0.4732,97,0.4628,0.632,0.56985295
+CAND_0065299,38.40734571167223,Ishaan Naidu,Software Engineer | Data pipelines & analytics,Software Engineer,0.745,46,0.4244,0.879,0.54155564
+CAND_0055403,38.40695154196889,Yash Joshi,Mobile Developer | Full-stack development,Mobile Developer,0.5758,181,0.5062,0.887,0.52673185
+CAND_0012680,38.40432623304879,Ritu Kumar,Java Developer | Cloud & DevOps,Java Developer,0.5062,46,0.2822,0.817,0.53541183
+CAND_0088815,38.39539522311933,Zara Saxena,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.5112,19,0.4596,0.994,0.56027806
+CAND_0002254,38.38398247680762,Dev Singh,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.4006,103,0.2672,0.656,0.48203525
+CAND_0037305,38.379656498575756,Manish Tiwari,QA Engineer | Cloud & DevOps,QA Engineer,0.4284,136,0.3704,0.864,0.5308548
+CAND_0043014,38.3651374344653,Neha Khanna,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.4246,98,0.2876,0.814,0.48754928
+CAND_0026505,38.36239535356027,Aditya Sen,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.6754,34,0.2116,0.874,0.54515326
+CAND_0010541,38.36124560872083,Meera Krishnan,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.7696,99,0.4496,0.853,0.5862645
+CAND_0007228,38.36085068648618,Suresh Trivedi,Software Engineer | Cloud & DevOps,Software Engineer,0.5646,116,0.26,0.774,0.55529606
+CAND_0012279,38.36020884666182,Sai Shah,Graphic Designer | AI enthusiast | Building with LLMs,Graphic Designer,0.351,178,0.196,0.827,0.5783372
+CAND_0022127,38.35003930793254,Deepak Rao,Computer Vision Engineer | Data Science & ML enthusiast,Computer Vision Engineer,0.3816,98,0.7524,0.614,0.5372374
+CAND_0079780,38.335978347148476,Myra Sharma,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.36,65,0.2442,0.79,0.52210665
+CAND_0034999,38.33555965503093,Priya Vora,Mobile Developer | Full-stack development,Mobile Developer,0.3884,20,0.036,0.759,0.52069086
+CAND_0002969,38.33291493797135,Diya Goyal,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.521,89,0.354,0.855,0.53276664
+CAND_0022463,38.327074323335424,Kavya Arora,Junior ML Engineer | 6.5 yrs in analytics & ML,Junior ML Engineer,0.744,22,0.4938,0.933,0.5376939
+CAND_0023669,38.32429077767635,Vivaan Bose,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.4784,111,0.2268,0.958,0.5090656
+CAND_0005724,38.318334023830246,Divya Khanna,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.409,124,0.3884,0.964,0.5263207
+CAND_0012840,38.318190268462125,Kiara Agarwal,Junior ML Engineer | 3.7 yrs in analytics & ML,Junior ML Engineer,1.0,23,0.2,1.0,0.56431067
+CAND_0043249,38.317491870534084,Ananya Mehta,Data Engineer | 2.7+ yrs in data engineering,Data Engineer,0.4328,46,0.4116,0.791,0.5485829
+CAND_0047521,38.3165387814131,Manish Mittal,Junior ML Engineer | 4.4 yrs in analytics & ML,Junior ML Engineer,0.8656,38,0.5778,1.0,0.56944484
+CAND_0007460,38.3165387814131,Anika Sethi,"AI Engineer | ML, NLP, Recommendation Systems",AI Engineer,0.865,25,0.5604,1.0,0.5741279
+CAND_0046064,38.31615929063584,Saanvi Naidu,"Senior NLP Engineer | LLMs, RAG, Vector Search | ex-Top Tech",Senior NLP Engineer,1.0,50,0.7256,0.903,0.5712264
+CAND_0098198,38.315527020045,Kavya Sen,Data Analyst | 5.5+ yrs in data engineering,Data Analyst,0.3658,118,0.41,1.0,0.5509032
+CAND_0088978,38.31536803597538,Ira Arora,Backend Engineer | 7.8+ yrs in data engineering,Backend Engineer,0.4312,72,0.3259,0.924,0.5299135
+CAND_0068596,38.31506964813331,Kavya Sethi,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,1.0,38,0.4964,0.916,0.53757477
+CAND_0032690,38.31215295498291,Kavya Saxena,Senior Software Engineer | 5.8+ yrs in data engineering,Senior Software Engineer,0.5196,33,0.4798,0.828,0.56975776
+CAND_0030454,38.3118491275163,Kavya Mishra,Mobile Developer | Cloud & DevOps,Mobile Developer,0.4468,110,0.439,0.924,0.5303389
+CAND_0066690,38.311274370528686,Advik Sen,ML Engineer | 4.8 yrs in analytics & ML,ML Engineer,0.808,19,0.5575,0.98,0.52961296
+CAND_0073450,38.31000863372334,Rahul Hegde,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.968,42,0.3536,0.769,0.5680028
+CAND_0026129,38.30138564922592,Aanya Tiwari,Software Engineer | Cloud & DevOps,Software Engineer,0.4932,24,0.3932,0.847,0.57075393
+CAND_0030061,38.2988868996084,Atharv Reddy,Data Analyst | Data pipelines & analytics,Data Analyst,0.424,83,0.4176,0.818,0.48518056
+CAND_0075439,38.29867364984021,Pooja Mehta,Machine Learning Engineer | Applied ML | Building intelligent products,Machine Learning Engineer,0.793,39,0.6964,1.0,0.5585492
+CAND_0093382,38.29816408857068,Ved Menon,QA Engineer | Backend systems & APIs,QA Engineer,0.44,62,0.2666,0.806,0.54391754
+CAND_0007574,38.293640200109905,Manish Iyer,QA Engineer | Backend systems & APIs,QA Engineer,0.5846,79,0.4154,0.838,0.5421592
+CAND_0033775,38.28692446455718,Om Pillai,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.8894,93,0.3132,0.832,0.5294976
+CAND_0060054,38.277075755260825,Aisha Kapoor,"AI Engineer | ML, NLP, Recommendation Systems",AI Engineer,0.5558,90,0.5596,0.823,0.5771139
+CAND_0043228,38.27484036115401,Kiara Sen,Applied ML Engineer | Applied ML | Building intelligent products,Applied ML Engineer,0.7688,24,0.5324,1.0,0.5533923
+CAND_0001116,38.27060217851886,Sai Sethi,Data Analyst | 2.6+ yrs in data engineering,Data Analyst,0.3636,41,0.3109,0.989,0.5660406
+CAND_0046973,38.26997339883212,Aarav Desai,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.7956,136,0.2968,0.745,0.49057204
+CAND_0092651,38.26617474445456,Pooja Mishra,Senior Software Engineer | 3.0+ yrs in data engineering,Senior Software Engineer,0.5352,51,0.2659,0.901,0.5938502
+CAND_0067579,38.26255282043068,Vihaan Sen,Software Engineer | Cloud & DevOps,Software Engineer,0.3282,142,0.4936,0.905,0.53661144
+CAND_0067063,38.26236467016396,Anil Chopra,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.414,119,0.304,0.809,0.49206862
+CAND_0058381,38.260325795761,Rahul Patel,Junior ML Engineer | 4.6 yrs in analytics & ML,Junior ML Engineer,0.94,83,0.2566,1.0,0.50283504
+CAND_0017090,38.2576721526601,Pari Agarwal,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.6724,40,0.4516,0.857,0.5582565
+CAND_0061225,38.238079874258396,Riya Hegde,Senior Data Engineer | 6.0+ yrs in data engineering,Senior Data Engineer,0.8608,63,0.4692,0.741,0.5796455
+CAND_0029024,38.23420537999247,Rohan Mehta,Software Engineer | 5.2+ yrs in data engineering,Software Engineer,0.6352,37,0.4709,0.929,0.54025537
+CAND_0022537,38.233625410004116,Mira Desai,Analytics Engineer | 3.1+ yrs in data engineering,Analytics Engineer,0.9584,133,0.2198,0.946,0.5282125
+CAND_0073051,38.22949844207023,Meera Kapoor,Software Engineer | Backend systems & APIs,Software Engineer,0.3886,51,0.2384,0.824,0.5681547
+CAND_0084819,38.22854085836808,Krishna Shah,"Search Engineer | Search, Ranking & Retrieval",Search Engineer,0.997,37,0.7318,1.0,0.5659739
+CAND_0017859,38.22548062160796,Pooja Nair,Software Engineer | Data pipelines & analytics,Software Engineer,0.7098,76,0.654,0.979,0.5069766
+CAND_0085087,38.22479124198198,Anika Agarwal,Frontend Engineer | Full-stack development,Frontend Engineer,0.3632,104,0.3988,0.878,0.5460291
+CAND_0025263,38.22122406609093,Dev Krishnan,Data Analyst | Data pipelines & analytics,Data Analyst,0.5694,19,0.3154,1.0,0.49580187
+CAND_0084220,38.213775861814845,Yash Naidu,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.5966,99,0.3009,0.921,0.5205337
+CAND_0022274,38.20899508561071,Advaith Mukherjee,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.6704,20,0.5791,0.747,0.5519747
+CAND_0010902,38.19666501731412,Anika Sethi,Software Engineer | Data pipelines & analytics,Software Engineer,0.525,84,0.2937,1.0,0.5285449
+CAND_0002344,38.19639583296028,Krishna Menon,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.6456,66,0.7702,0.933,0.5377562
+CAND_0043951,38.196167086029405,Amit Mishra,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.5458,118,0.3076,0.924,0.5485758
+CAND_0014999,38.1948686964101,Advaith Pillai,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.5874,22,0.276,0.867,0.522208
+CAND_0037068,38.19102218615794,Naina Rao,.NET Developer | Backend systems & APIs,.NET Developer,0.5912,113,0.062,0.871,0.48975098
+CAND_0079387,38.18443620457809,Sneha Arora,AI Engineer | Applied ML | Building intelligent products,AI Engineer,0.7512,51,0.7346,1.0,0.5842533
+CAND_0072917,38.16943500061797,Pooja Krishnan,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.92,108,0.5081,0.64,0.56408274
+CAND_0093414,38.16164781674355,Karan Dutta,Software Engineer | Cloud & DevOps,Software Engineer,0.458,57,0.4744,0.832,0.5884434
+CAND_0037980,38.156657792197564,Reyansh Chowdary,Senior Engineer | Information Retrieval at scale,Senior Applied Scientist,1.0,79,0.5896,0.793,0.55267465
+CAND_0063183,38.1539528392304,Nisha Subramanian,DevOps Engineer | Full-stack development,DevOps Engineer,0.608,145,0.3376,1.0,0.52458155
+CAND_0077691,38.15158159037123,Aisha Patel,.NET Developer | Full-stack development,.NET Developer,0.392,99,0.53,0.883,0.52144665
+CAND_0007775,38.14806201759826,Vihaan Dutta,.NET Developer | Full-stack development,.NET Developer,0.5858,50,0.2428,0.91,0.51339734
+CAND_0054815,38.147358819108526,Deepak Gupta,Java Developer | Full-stack development,Java Developer,0.4904,38,0.3964,0.841,0.56376964
+CAND_0098657,38.14159065377526,Meera Gupta,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.6208,40,0.3436,1.0,0.5165675
+CAND_0070653,38.13376094391628,Meera Khanna,AI Specialist | Building ML-powered solutions,AI Specialist,0.8344,59,0.034,0.799,0.5499443
+CAND_0013393,38.126356602510334,Sneha Bansal,ML Engineer | 5.3 yrs in analytics & ML,ML Engineer,0.5916,87,0.3668,0.842,0.5672162
+CAND_0016782,38.12428543694073,Mira Dalal,Data Engineer | Data pipelines & analytics,Data Engineer,0.9632,138,0.5364,0.907,0.50024307
+CAND_0085881,38.123116381311924,Diya Khanna,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.3,103,0.0728,0.967,0.52988684
+CAND_0075821,38.119365543865065,Rahul Gupta,Software Engineer | Cloud & DevOps,Software Engineer,0.4084,188,0.352,0.921,0.53306675
+CAND_0074312,38.11899846357703,Shaurya Joshi,Mobile Developer | Cloud & DevOps,Mobile Developer,0.571,97,0.224,0.871,0.50729316
+CAND_0026230,38.107949759699416,Pooja Goyal,.NET Developer | Full-stack development,.NET Developer,0.3608,74,0.484,0.955,0.53923804
+CAND_0024878,38.10623168904294,Aanya Shetty,AI Specialist | Building ML-powered solutions,AI Specialist,0.82,20,0.5036,1.0,0.568269
+CAND_0067315,38.10394376365662,Tanya Agarwal,Software Engineer | Backend systems & APIs,Software Engineer,0.417,103,0.3244,0.65,0.57152635
+CAND_0053830,38.10023939236224,Deepak Dalal,Software Engineer | Full-stack development,Software Engineer,0.3882,154,0.3352,0.709,0.5918196
+CAND_0070625,38.08764368463354,Ela Tiwari,Data Engineer | Data pipelines & analytics,Data Engineer,0.8374,114,0.2868,0.743,0.5179978
+CAND_0092226,38.08615992820993,Jay Malhotra,Software Engineer | Backend systems & APIs,Software Engineer,0.5814,81,0.5108,0.963,0.57222724
+CAND_0081030,38.083603499093975,Manish Trivedi,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.8196,119,0.5504,1.0,0.5645765
+CAND_0005847,38.07696583470892,Sanjay Shah,Senior Software Engineer | 5.5+ yrs in data engineering,Senior Software Engineer,0.5346,145,0.2023,0.989,0.57066417
+CAND_0005311,38.07380658475532,Naina Tiwari,AI Research Engineer | 5.7 yrs in analytics & ML,AI Research Engineer,1.0,40,0.7241,0.795,0.58535683
+CAND_0061550,38.07268168015518,Rajesh Mittal,ML Engineer | 5.3 yrs in analytics & ML,ML Engineer,1.0,107,0.548,0.86,0.52881074
+CAND_0054453,38.06825448101612,Manish Krishnan,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.4164,112,0.3481,0.864,0.5155356
+CAND_0049796,38.06697874233565,Anika Kumar,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.4542,84,0.214,1.0,0.54909945
+CAND_0064744,38.06629350011059,Meera Dutta,QA Engineer | Cloud & DevOps,QA Engineer,0.3468,143,0.1876,0.92,0.56666774
+CAND_0070453,38.06577053931958,Ishaan Agarwal,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.5054,86,0.2094,0.859,0.5304491
+CAND_0076163,38.06491275956112,Nikhil Mittal,NLP Engineer | Applied ML | Building intelligent products,NLP Engineer,0.7752,36,0.8006,1.0,0.5507488
+CAND_0064904,38.06259346151035,Karan Trivedi,"AI Engineer | ML, NLP, Recommendation Systems",AI Engineer,0.976,90,0.7162,0.796,0.5605424
+CAND_0024990,38.061852522801,Aarav Mehta,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,0.6376,23,0.6778,0.965,0.526618
+CAND_0004886,38.0606062680044,Aditya Joshi,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.484,149,0.2696,0.826,0.54941005
+CAND_0033627,38.053066194320074,Priya Bansal,QA Engineer | Full-stack development,QA Engineer,0.4284,142,0.026,0.799,0.5652511
+CAND_0030556,38.041824472427656,Pari Vora,Software Engineer | 7.8+ yrs in data engineering,Software Engineer,0.9312,90,0.2527,1.0,0.5475012
+CAND_0020963,38.03885718105942,Saanvi Verma,QA Engineer | Cloud & DevOps,QA Engineer,0.5122,69,0.2404,0.81,0.49908188
+CAND_0001819,38.03191691403015,Ritu Hegde,ML Engineer | 4.4 yrs in analytics & ML,ML Engineer,0.7576,52,0.7243,0.751,0.5534476
+CAND_0004131,38.030394641402275,Vivaan Bose,Junior ML Engineer | Data Science & ML enthusiast,Junior ML Engineer,0.755,98,0.6822,0.618,0.5565696
+CAND_0044428,38.028626558044884,Arnav Bose,Data Scientist | Building ML-powered solutions,Data Scientist,0.6904,55,0.4598,0.758,0.5220987
+CAND_0046525,38.01619739738345,Tanvi Mukherjee,Senior Machine Learning Engineer | Building AI-native search & ranking systems,Senior Machine Learning Engineer,1.0,23,0.685,0.778,0.5805388
+CAND_0086012,38.0131130478839,Ananya Vora,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.828,47,0.3912,0.838,0.5584128
+CAND_0087204,38.007946997115305,Aadhya Hegde,QA Engineer | Full-stack development,QA Engineer,0.566,154,0.2172,0.874,0.54897696
+CAND_0059304,38.004763992159404,Vivaan Mishra,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.4132,115,0.2836,0.739,0.5230949
+CAND_0071821,38.004190625983085,Amit Naidu,Computer Vision Engineer | 6.8 yrs in analytics & ML,Computer Vision Engineer,0.4062,54,0.2,1.0,0.5471507
+CAND_0081307,38.00152265794612,Tanya Pillai,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.5152,138,0.2946,0.854,0.54581106
+CAND_0000665,37.994064448164984,Pari Bhatia,Senior Software Engineer | 6.2+ yrs in data engineering,Senior Software Engineer,0.4728,75,0.5584,0.95,0.53630716
+CAND_0071412,37.992637530597264,Ela Iyer,Data Analyst | 7.6+ yrs in data engineering,Data Analyst,0.6656,110,0.365,0.756,0.5432012
+CAND_0099818,37.99122996852609,Meera Rao,DevOps Engineer | Full-stack development,DevOps Engineer,0.5338,102,0.3116,0.801,0.53388906
+CAND_0077609,37.98366462448331,Sai Mishra,Mobile Developer | Full-stack development,Mobile Developer,0.4884,84,0.07,0.971,0.5527372
+CAND_0086998,37.9812441349132,Sunil Shah,Software Engineer | Backend systems & APIs,Software Engineer,0.3624,30,0.302,0.958,0.5587199
+CAND_0085992,37.97547525555692,Sneha Hegde,Analytics Engineer | 4.5+ yrs in data engineering,Analytics Engineer,0.3208,139,0.4484,1.0,0.54934996
+CAND_0073007,37.974508602985196,Ayaan Saxena,AI Specialist | 5.8 yrs in analytics & ML,AI Specialist,0.8472,39,0.5011,0.905,0.58317345
+CAND_0058407,37.973929906306424,Myra Desai,Senior Software Engineer | 6.7+ yrs in data engineering,Senior Software Engineer,0.6936,59,0.427,0.757,0.57137406
+CAND_0048626,37.968889489713796,Arnav Shetty,Analytics Engineer | 6.7+ yrs in data engineering,Analytics Engineer,0.3676,88,0.4356,0.787,0.5220617
+CAND_0060315,37.964871762989354,Naina Sharma,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),1.0,102,0.3844,0.862,0.5741837
+CAND_0044804,37.96280633602719,Mira Dutta,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.752,44,0.353,0.823,0.53387064
+CAND_0073982,37.95825106593191,Divya Chowdary,Data Scientist | 7.0 yrs in analytics & ML,Data Scientist,0.526,30,0.5012,0.854,0.4849714
+CAND_0008677,37.95779699552373,Aryan Chopra,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.7206,55,0.2148,0.786,0.55880857
+CAND_0043860,37.95283441555486,Pranav Sharma,Junior ML Engineer | 6.1 yrs in analytics & ML,Junior ML Engineer,0.9688,20,0.4831,1.0,0.5743684
+CAND_0042543,37.947792121802564,Anika Rao,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.3426,150,0.3392,0.928,0.5234997
+CAND_0064020,37.94729933324213,Ela Chowdary,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.952,20,0.4144,0.891,0.5820046
+CAND_0045299,37.9455632883062,Ayaan Pillai,Mobile Developer | Cloud & DevOps,Mobile Developer,0.5124,28,0.3336,0.921,0.51104933
+CAND_0043125,37.94094067789907,Tanya Sen,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.5696,84,0.466,0.859,0.53656596
+CAND_0086670,37.94094067789907,Kavya Tiwari,QA Engineer | Cloud & DevOps,QA Engineer,0.5212,37,0.302,0.877,0.53128064
+CAND_0037424,37.93849222659231,Atharv Sen,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.86,107,0.4026,0.646,0.55101955
+CAND_0033143,37.93037763219607,Pranav Nair,Senior Software Engineer | 4.6+ yrs in data engineering,Senior Software Engineer,0.4912,50,0.4152,0.901,0.52458715
+CAND_0017967,37.92536587156876,Vihaan Rao,Software Engineer | 7.0+ yrs in data engineering,Software Engineer,0.498,114,0.3363,0.786,0.53535074
+CAND_0080129,37.91298277487469,Anjali Pillai,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.3472,125,0.2844,0.783,0.49770117
+CAND_0040099,37.912202175113485,Ela Chowdary,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.638,43,0.2882,1.0,0.48814997
+CAND_0068964,37.91127868907831,Avni Malhotra,ML Engineer | 4.8 yrs in analytics & ML,ML Engineer,0.8344,36,0.2,0.947,0.4961345
+CAND_0043668,37.91089381495091,Ayaan Pillai,QA Engineer | Full-stack development,QA Engineer,0.5168,32,0.4016,0.863,0.5331711
+CAND_0000302,37.90830023438655,Shreya Shah,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.4834,173,0.31,0.846,0.543766
+CAND_0037726,37.90354165093786,Manish Menon,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.5032,46,0.3876,0.831,0.5280084
+CAND_0028329,37.89992600578471,Kavya Trivedi,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.6702,105,0.222,0.73,0.5518683
+CAND_0014456,37.899298995200056,Kiara Gupta,Software Engineer | 3.4+ yrs in data engineering,Software Engineer,0.5828,37,0.2756,0.774,0.5527408
+CAND_0007412,37.898982664095115,Pranav Shah,"Applied ML Engineer | ML, NLP, Recommendation Systems",Applied ML Engineer,1.0,57,0.3858,0.963,0.57173485
+CAND_0027801,37.898982664095115,Anil Mittal,"NLP Engineer | ML, NLP, Recommendation Systems",NLP Engineer,1.0,64,0.7224,0.915,0.559662
+CAND_0032831,37.88678458352929,Dev Patel,Senior Data Engineer | 8.0+ yrs in data engineering,Senior Data Engineer,0.7136,128,0.5752,0.853,0.5748352
+CAND_0072362,37.88007599226561,Ved Shah,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.7542,51,0.4276,0.859,0.51510453
+CAND_0074128,37.877248104446025,Om Dalal,Data Analyst | Data pipelines & analytics,Data Analyst,0.5444,97,0.4743,0.977,0.51251936
+CAND_0019333,37.87395290951884,Riya Mukherjee,.NET Developer | Backend systems & APIs,.NET Developer,0.7668,64,0.3088,0.77,0.5230901
+CAND_0042426,37.86743029280266,Tanvi Iyer,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.5388,148,0.2488,0.762,0.557672
+CAND_0057736,37.86213471849468,Deepak Dutta,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,0.792,23,0.2,1.0,0.5172847
+CAND_0046459,37.86071038406399,Rohan Patel,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.835,67,0.2904,0.856,0.5597841
+CAND_0009307,37.85683059482587,Shreya Singh,Data Engineer | Data pipelines & analytics,Data Engineer,0.6544,35,0.572,0.765,0.5160428
+CAND_0000943,37.84496080329753,Aadhya Mehta,Cloud Engineer | Full-stack development,Cloud Engineer,0.4012,77,0.3768,0.594,0.57113564
+CAND_0051820,37.84395015807243,Saanvi Khanna,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.442,72,0.2988,0.87,0.58366007
+CAND_0022838,37.84331935006083,Ritu Chopra,Analytics Engineer | 3.3+ yrs in data engineering,Analytics Engineer,0.6596,111,0.2659,0.744,0.54687965
+CAND_0026913,37.83073440866376,Tanya Pillai,AI Specialist | Data Science & ML enthusiast,AI Specialist,0.817,112,0.4571,0.902,0.5468446
+CAND_0098286,37.83073307677834,Mira Goyal,DevOps Engineer | Full-stack development,DevOps Engineer,0.4516,117,0.3196,0.974,0.5554777
+CAND_0050748,37.82948077913354,Aisha Shah,Java Developer | Full-stack development,Java Developer,0.7552,35,0.4508,0.919,0.5780598
+CAND_0011319,37.82603388114176,Divya Rao,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.7518,119,0.3064,0.939,0.47887117
+CAND_0096942,37.81911218531109,Aryan Ghosh,Frontend Engineer | Full-stack development,Frontend Engineer,0.3676,26,0.072,0.788,0.5548426
+CAND_0015528,37.81455719424326,Aisha Reddy,Applied ML Engineer | Applied ML | Building intelligent products,Applied ML Engineer,0.745,60,0.5391,0.865,0.5624132
+CAND_0048930,37.81188169794619,Riya Malhotra,Senior Software Engineer | 4.5+ yrs in data engineering,Senior Software Engineer,0.6248,113,0.4246,0.654,0.5645927
+CAND_0051890,37.809659606847546,Jay Dutta,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.7266,61,0.2906,0.792,0.53592885
+CAND_0079064,37.808578507519194,Sai Saxena,"Senior Data Scientist | ML, NLP, Recommendation Systems",Senior Data Scientist,0.9088,63,0.5362,0.924,0.58331
+CAND_0071981,37.799847693723265,Siya Malhotra,Data Engineer | Data pipelines & analytics,Data Engineer,0.51,34,0.5162,0.892,0.554713
+CAND_0052744,37.77883971564229,Naina Chowdary,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),1.0,23,0.516,0.91,0.52887625
+CAND_0049668,37.765025293067836,Krishna Agarwal,Data Analyst | 6.7+ yrs in data engineering,Data Analyst,0.7504,47,0.5781,0.849,0.5369309
+CAND_0027016,37.764178618544506,Karan Gupta,.NET Developer | Full-stack development,.NET Developer,0.4784,148,0.3296,0.98,0.46777272
+CAND_0000600,37.75154126466579,Shreya Singh,Software Engineer | Cloud & DevOps,Software Engineer,0.5868,126,0.1784,0.974,0.5689943
+CAND_0025883,37.74613901895565,Saanvi Bhatia,Java Developer | Full-stack development,Java Developer,0.604,52,0.056,0.77,0.5726626
+CAND_0076251,37.742906813961966,Atharv Pandey,"Search Engineer | Search, Ranking & Retrieval",Search Engineer,0.5436,61,0.4706,0.905,0.5468426
+CAND_0088378,37.73724205575727,Kabir Chatterjee,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.754,109,0.5723,0.702,0.585382
+CAND_0055626,37.73551678894363,Saanvi Chatterjee,Java Developer | Cloud & DevOps,Java Developer,0.4026,83,0.4936,0.823,0.52612394
+CAND_0028228,37.73398359676593,Priya Mittal,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.5432,38,0.5498,0.923,0.5620389
+CAND_0033962,37.72984257190603,Priya Mittal,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.6848,118,0.4462,0.768,0.5462972
+CAND_0042881,37.72952651253688,Vihaan Trivedi,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.41,112,0.2594,0.875,0.5406458
+CAND_0004277,37.729482058604226,Priya Verma,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.358,23,0.232,0.917,0.48346964
+CAND_0009477,37.72361119536038,Naina Mehta,Mobile Developer | Full-stack development,Mobile Developer,0.6408,191,0.3372,0.919,0.602368
+CAND_0074735,37.72058058447417,Ananya Arora,"Applied ML Engineer | ML, NLP, Recommendation Systems",Applied ML Engineer,0.8648,79,0.822,1.0,0.5858677
+CAND_0066035,37.714821494460054,Vikram Reddy,Data Scientist | Building ML-powered solutions,Data Scientist,0.7446,23,0.4488,0.868,0.5555084
+CAND_0039499,37.712562609391284,Shreya Ghosh,Java Developer | Cloud & DevOps,Java Developer,0.3698,188,0.3384,0.64,0.5468055
+CAND_0054409,37.70561721340853,Ved Naidu,Data Engineer | Data pipelines & analytics,Data Engineer,0.3896,32,0.4892,0.967,0.5307894
+CAND_0071985,37.70447749309226,Ela Bose,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.375,126,0.2656,0.603,0.49778503
+CAND_0031116,37.703756028375224,Dhruv Mishra,Software Engineer | Cloud & DevOps,Software Engineer,0.4184,153,0.2152,0.905,0.55155647
+CAND_0037939,37.69982645148523,Aarohi Iyengar,QA Engineer | Cloud & DevOps,QA Engineer,0.4856,114,0.4892,0.766,0.5338099
+CAND_0085682,37.697281542665465,Ishaan Saxena,.NET Developer | Backend systems & APIs,.NET Developer,0.5106,133,0.5414,0.737,0.53554565
+CAND_0032823,37.69712283409929,Aryan Saxena,Business Analyst | Generative AI explorer,Business Analyst,0.2994,170,0.022,0.814,0.6164053
+CAND_0089836,37.69519764176256,Vivaan Pillai,.NET Developer | Backend systems & APIs,.NET Developer,0.4914,128,0.1892,0.853,0.5024806
+CAND_0042669,37.687641484135874,Nisha Mehta,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.393,111,0.3096,0.93,0.54996765
+CAND_0034316,37.68684049775868,Advik Goyal,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.7416,61,0.3968,0.847,0.53753585
+CAND_0015101,37.686169186405195,Neha Rao,Mobile Developer | Full-stack development,Mobile Developer,0.6408,23,0.4304,0.83,0.5201809
+CAND_0029614,37.679286190687826,Tanvi Reddy,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.3738,111,0.7206,0.965,0.56002426
+CAND_0005421,37.67900567542414,Divya Trivedi,Junior ML Engineer | 3.9 yrs in analytics & ML,Junior ML Engineer,0.6372,68,0.3417,0.985,0.55332017
+CAND_0073204,37.67900567542414,Naina Agarwal,Senior Software Engineer (ML) | 3.4 yrs in analytics & ML,Senior Software Engineer (ML),0.7762,24,0.4056,1.0,0.54930127
+CAND_0079703,37.67869516025878,Vihaan Nair,Data Analyst | 7.5+ yrs in data engineering,Data Analyst,0.8198,97,0.2456,0.76,0.5402292
+CAND_0093154,37.67134060810822,Aisha Chatterjee,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.5472,32,0.2775,0.822,0.558801
+CAND_0010025,37.66562297676709,Siya Kapoor,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.7862,90,0.2256,0.759,0.5641336
+CAND_0099461,37.656983844528426,Ayaan Kumar,Software Engineer | Data pipelines & analytics,Software Engineer,0.4246,51,0.5934,0.905,0.57488483
+CAND_0092757,37.6540129412397,Siya Ghosh,Java Developer | Cloud & DevOps,Java Developer,0.5964,193,0.414,0.751,0.56312394
+CAND_0065535,37.65019754474544,Ela Ghosh,Data Analyst | 7.2+ yrs in data engineering,Data Analyst,0.7032,111,0.38,1.0,0.5276053
+CAND_0085525,37.6413964287572,Krishna Sharma,Software Engineer | 5.3+ yrs in data engineering,Software Engineer,0.5868,92,0.3947,0.808,0.5542481
+CAND_0002839,37.63509294358482,Neha Kumar,Accountant | Exploring AI & GenAI applications,Accountant,0.353,223,0.038,0.781,0.58913445
+CAND_0072670,37.63284207685012,Myra Subramanian,ML Engineer | Building ML-powered solutions,ML Engineer,1.0,21,0.3988,0.902,0.503006
+CAND_0064458,37.630209990147556,Dhruv Chowdary,AI Specialist | 3.2 yrs in analytics & ML,AI Specialist,0.431,89,0.6271,0.93,0.52389324
+CAND_0019585,37.630209990147556,Atharv Malhotra,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.8564,66,0.6476,0.924,0.5238435
+CAND_0076284,37.6281649063037,Nikhil Shetty,Data Engineer | Data pipelines & analytics,Data Engineer,0.9522,132,0.6184,0.821,0.51171464
+CAND_0066308,37.62427386000247,Kavya Desai,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.3604,98,0.282,0.772,0.5502094
+CAND_0011924,37.60967636094768,Neha Saxena,Senior Data Engineer | 6.1+ yrs in data engineering,Senior Data Engineer,0.8536,134,0.387,0.588,0.5536808
+CAND_0067775,37.5960007412961,Vihaan Malhotra,Software Engineer | Full-stack development,Software Engineer,0.3984,110,0.215,0.491,0.5470212
+CAND_0074339,37.58740636350476,Rajesh Banerjee,ML Engineer | Building ML-powered solutions,ML Engineer,0.76,92,0.4994,0.83,0.5332295
+CAND_0086414,37.58267658934489,Pranav Pillai,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.5518,126,0.17,0.888,0.5010282
+CAND_0082382,37.579676309339284,Reyansh Iyengar,Data Engineer | Data pipelines & analytics,Data Engineer,0.5538,68,0.7075,0.845,0.5343404
+CAND_0079614,37.57950756684613,Riya Kapoor,DevOps Engineer | Cloud & DevOps,DevOps Engineer,0.3792,111,0.2668,0.828,0.5014868
+CAND_0023184,37.57847183748798,Arjun Singh,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.3862,52,0.4734,0.82,0.55797327
+CAND_0076035,37.57818248024934,Neha Goyal,AI Specialist | Data Science & ML enthusiast,AI Specialist,1.0,87,0.3935,0.791,0.5409227
+CAND_0029135,37.57047002734889,Yash Bose,AI Specialist | 5.8 yrs in analytics & ML,AI Specialist,0.5612,117,0.2959,0.817,0.53382504
+CAND_0074465,37.569451912207946,Ela Chopra,Software Engineer | Cloud & DevOps,Software Engineer,0.5526,188,0.2568,0.789,0.5695647
+CAND_0006091,37.56574716273571,Nikhil Nair,Java Developer | Backend systems & APIs,Java Developer,0.4918,47,0.032,0.77,0.55123186
+CAND_0092182,37.55938597490342,Dev Mukherjee,Project Manager | AI enthusiast | Building with LLMs,Project Manager,0.4224,53,0.2064,0.86,0.59411585
+CAND_0059142,37.54810929298678,Divya Verma,Senior Software Engineer | 2.8+ yrs in data engineering,Senior Software Engineer,0.7624,125,0.3775,0.729,0.564428
+CAND_0035350,37.54579108403439,Rajesh Kumar,Data Analyst | Data pipelines & analytics,Data Analyst,0.553,77,0.4464,0.948,0.5221629
+CAND_0020681,37.535311695721326,Nikhil Naidu,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.5222,158,0.396,0.939,0.538229
+CAND_0046711,37.534338282211394,Kabir Shetty,DevOps Engineer | Full-stack development,DevOps Engineer,0.4788,113,0.3172,0.65,0.557832
+CAND_0055088,37.528934399217825,Kiara Banerjee,Software Engineer | Data pipelines & analytics,Software Engineer,0.4626,135,0.425,1.0,0.543754
+CAND_0079284,37.523283363950675,Ishaan Dutta,Machine Learning Engineer | Applied ML | Building intelligent products,Machine Learning Engineer,0.662,65,0.4832,1.0,0.5282278
+CAND_0047095,37.52119675466953,Jay Mukherjee,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.7612,38,0.4075,0.813,0.566514
+CAND_0063549,37.517464655551244,Diya Verma,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.4382,109,0.1252,0.952,0.5728109
+CAND_0032680,37.51739005774248,Saanvi Mishra,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.492,147,0.2068,0.785,0.5870868
+CAND_0094619,37.51564324613306,Sai Malhotra,Accountant | Generative AI explorer,Accountant,0.3962,141,0.012,0.801,0.6146492
+CAND_0059604,37.514876777064956,Avni Subramanian,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.7702,90,0.4465,0.91,0.5235288
+CAND_0085985,37.502546697223636,Reyansh Sethi,Full Stack Developer | Full-stack development,Full Stack Developer,0.3766,175,0.1496,0.826,0.5644119
+CAND_0015097,37.4972169513711,Om Trivedi,Senior Software Engineer (ML) | 6.0 yrs in analytics & ML,Senior Software Engineer (ML),0.706,41,0.4422,0.761,0.5401499
+CAND_0023821,37.49366227459401,Rohan Agarwal,Sales Executive | AI enthusiast | Building with LLMs,Sales Executive,0.384,86,0.02,0.671,0.57224053
+CAND_0092568,37.47222086823948,Yash Bhatia,AI Specialist | Building ML-powered solutions,AI Specialist,0.4496,87,0.3524,0.827,0.51722413
+CAND_0002876,37.46449604035893,Rahul Chowdary,Software Engineer | Data pipelines & analytics,Software Engineer,0.828,140,0.4128,0.852,0.52958345
+CAND_0074317,37.463112602957374,Deepak Sharma,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.8344,68,0.583,0.859,0.53587806
+CAND_0019389,37.46161348234674,Dhruv Reddy,Content Writer | AI enthusiast | Building with LLMs,Content Writer,0.3486,159,0.2764,0.8,0.52027375
+CAND_0063441,37.44644712374241,Dev Singh,Mobile Developer | Full-stack development,Mobile Developer,0.4494,47,0.2088,0.778,0.52170366
+CAND_0009953,37.43997214805972,Deepak Vora,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.4306,54,0.4693,0.872,0.4833415
+CAND_0039501,37.4369593943327,Anjali Chowdary,Mobile Developer | Full-stack development,Mobile Developer,0.4726,82,0.4272,0.984,0.53496546
+CAND_0043629,37.43574876745033,Nisha Bose,Data Engineer | 3.4+ yrs in data engineering,Data Engineer,0.5616,66,0.2872,0.773,0.57674026
+CAND_0015543,37.42734640126435,Reyansh Pillai,ML Engineer | Building ML-powered solutions,ML Engineer,0.7152,23,0.397,1.0,0.53889126
+CAND_0085050,37.421513836568955,Advik Kapoor,Backend Engineer | 4.7+ yrs in data engineering,Backend Engineer,0.8116,143,0.2712,0.875,0.5448398
+CAND_0078499,37.41985423625507,Sanjay Rao,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.634,71,0.4577,0.801,0.5040803
+CAND_0050504,37.41908055289633,Rajesh Ghosh,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.878,72,0.5917,0.753,0.55437875
+CAND_0072218,37.41780075922581,Kavya Gupta,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.79,59,0.2,0.819,0.51491255
+CAND_0006561,37.41001753686182,Manish Menon,.NET Developer | Full-stack development,.NET Developer,0.44,104,0.3444,0.624,0.54801905
+CAND_0044043,37.409518150217316,Ayaan Krishnan,Cloud Engineer | Full-stack development,Cloud Engineer,0.4942,81,0.42,0.782,0.55921113
+CAND_0011976,37.40718965953999,Advaith Mukherjee,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.5266,46,0.3336,0.843,0.52849805
+CAND_0064366,37.407127068489686,Aditya Verma,Java Developer | Backend systems & APIs,Java Developer,0.3926,125,0.4226,1.0,0.5471424
+CAND_0070162,37.40324092631329,Riya Arora,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.4006,65,0.4397,0.723,0.53220683
+CAND_0084032,37.40266460966337,Nikhil Ghosh,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.4112,37,0.6156,0.873,0.51368934
+CAND_0088751,37.39668397369629,Aryan Iyengar,QA Engineer | Cloud & DevOps,QA Engineer,0.4528,46,0.3178,0.972,0.54469734
+CAND_0086788,37.388774179333545,Pooja Menon,Backend Engineer | 2.5+ yrs in data engineering,Backend Engineer,0.3808,97,0.2768,0.645,0.5235953
+CAND_0032578,37.38426056107108,Suresh Mittal,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.6922,120,0.1412,1.0,0.55311716
+CAND_0025574,37.383540676352254,Aditya Goyal,Data Engineer | 2.3+ yrs in data engineering,Data Engineer,0.4338,105,0.4808,0.923,0.5238782
+CAND_0086036,37.3770058221556,Aditya Chopra,Operations Manager | Generative AI explorer,Operations Manager,0.3168,135,0.2788,0.898,0.6215023
+CAND_0008980,37.369649942718375,Naina Singh,Data Analyst | 4.3+ yrs in data engineering,Data Analyst,0.508,57,0.6226,0.883,0.51178706
+CAND_0025512,37.366602429719606,Anika Reddy,Project Manager | AI enthusiast | Building with LLMs,Project Manager,0.3702,61,0.01,0.761,0.62274426
+CAND_0008077,37.364802284105075,Tanya Agarwal,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.3924,75,0.401,0.762,0.51998645
+CAND_0070449,37.36354714092709,Dev Menon,Senior Software Engineer | 5.5+ yrs in data engineering,Senior Software Engineer,0.8442,26,0.4432,0.757,0.5487946
+CAND_0061655,37.36309779808689,Mira Banerjee,"Machine Learning Engineer | ML, NLP, Recommendation Systems",Machine Learning Engineer,0.985,25,0.34,1.0,0.55070305
+CAND_0086022,37.359535075035005,Dhruv Naidu,"Senior Applied Scientist | LLMs, RAG, Vector Search | ex-Top Tech",Senior Applied Scientist,0.904,61,0.7061,0.951,0.56175375
+CAND_0036437,37.359535075035005,Arjun Joshi,"Search Engineer | Search, Ranking & Retrieval",Search Engineer,0.925,32,0.4884,1.0,0.5492343
+CAND_0037566,37.359535075035005,Ritu Nair,"Machine Learning Engineer | Search, Ranking & Retrieval",Machine Learning Engineer,1.0,56,0.8232,1.0,0.56730735
+CAND_0069078,37.355580857428826,Om Rao,Data Engineer | Data pipelines & analytics,Data Engineer,0.6326,33,0.4002,0.942,0.49873978
+CAND_0080768,37.350548328840986,Aryan Shetty,Senior Software Engineer | 4.7+ yrs in data engineering,Senior Software Engineer,0.6552,21,0.6404,0.961,0.55563134
+CAND_0022869,37.34749950137471,Krishna Sethi,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.4398,30,0.261,0.796,0.49626774
+CAND_0068351,37.344998950497725,Aadhya Iyer,Senior Engineer | Search & Discovery Infrastructure,Lead AI Engineer,1.0,65,0.2,1.0,0.6050887
+CAND_0074538,37.3361395258047,Neha Sharma,Senior Software Engineer | 2.3+ yrs in data engineering,Senior Software Engineer,0.4042,99,0.3148,0.946,0.56122303
+CAND_0030815,37.329009108064625,Deepak Singh,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.7888,70,0.3975,0.847,0.47051686
+CAND_0031323,37.328521006925264,Atharv Agarwal,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.4648,166,0.2112,0.811,0.4722884
+CAND_0028094,37.32742351735026,Zara Bansal,.NET Developer | Cloud & DevOps,.NET Developer,0.5096,173,0.542,0.816,0.51384467
+CAND_0045166,37.32562760364724,Arjun Dalal,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.6544,121,0.426,0.721,0.55575377
+CAND_0005883,37.318902834593636,Ayaan Sen,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,0.82,68,0.5694,1.0,0.527758
+CAND_0068464,37.31282965117902,Avni Chatterjee,.NET Developer | Cloud & DevOps,.NET Developer,0.374,50,0.2016,0.764,0.54240906
+CAND_0058956,37.30954559598451,Ishaan Mishra,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.5442,135,0.31,0.788,0.5811834
+CAND_0014773,37.30752479706157,Ishaan Sen,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.8524,46,0.5853,0.911,0.52139425
+CAND_0048379,37.30083465856738,Tanya Banerjee,Backend Engineer | 6.5+ yrs in data engineering,Backend Engineer,0.7692,42,0.5132,0.921,0.5362081
+CAND_0016301,37.29888094465091,Advaith Chowdary,.NET Developer | Full-stack development,.NET Developer,0.391,58,0.2716,0.921,0.53656864
+CAND_0026362,37.29627712504392,Rajesh Naidu,Data Scientist | Building ML-powered solutions,Data Scientist,1.0,29,0.3206,0.897,0.51460505
+CAND_0072091,37.29627712504392,Riya Arora,ML Engineer | Building ML-powered solutions,ML Engineer,0.874,51,0.4512,0.948,0.5313729
+CAND_0072263,37.293409233476645,Karan Verma,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.7056,29,0.5448,1.0,0.52581483
+CAND_0014470,37.28726383525019,Avni Dutta,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.563,175,0.3824,0.834,0.5280664
+CAND_0026953,37.28342722907344,Suresh Banerjee,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.4844,117,0.096,0.971,0.55470264
+CAND_0032089,37.28225095795913,Naina Khanna,ML Engineer | Building ML-powered solutions,ML Engineer,0.6072,94,0.4086,0.95,0.5564666
+CAND_0028422,37.27912924347945,Rahul Sharma,Junior ML Engineer | 5.5 yrs in analytics & ML,Junior ML Engineer,0.6676,31,0.6361,0.83,0.5543585
+CAND_0029608,37.27796791921299,Anika Bhatia,DevOps Engineer | Full-stack development,DevOps Engineer,0.447,101,0.03,0.963,0.53158957
+CAND_0095373,37.27695450138253,Vihaan Arora,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.369,72,0.2668,0.889,0.52309024
+CAND_0079550,37.27197900232269,Pari Sharma,AI Specialist | Data Science & ML enthusiast,AI Specialist,0.6636,21,0.7545,1.0,0.53514796
+CAND_0037421,37.2718096030818,Sai Rao,Mobile Developer | Cloud & DevOps,Mobile Developer,0.3762,19,0.17,0.74,0.53502166
+CAND_0067401,37.27145461831501,Manish Dalal,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.8096,130,0.3051,0.816,0.53628564
+CAND_0001121,37.26043962710064,Ela Pillai,Frontend Engineer | Full-stack development,Frontend Engineer,0.3936,106,0.3752,0.804,0.57217956
+CAND_0091299,37.2587087819578,Anil Dalal,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.2756,190,0.374,0.751,0.56345046
+CAND_0062628,37.25869286997609,Aarohi Banerjee,Mobile Developer | Full-stack development,Mobile Developer,0.385,91,0.014,0.686,0.51306045
+CAND_0025923,37.25397787154521,Tanya Chatterjee,Senior Software Engineer (ML) | 5.0 yrs in analytics & ML,Senior Software Engineer (ML),0.7914,58,0.3398,0.688,0.5571897
+CAND_0047260,37.252379773830576,Dhruv Krishnan,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.812,89,0.3623,0.924,0.46706495
+CAND_0088089,37.252379773830576,Amit Naidu,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.554,39,0.3251,0.969,0.51714134
+CAND_0047668,37.25102031925859,Shreya Dutta,Full Stack Developer | Full-stack development,Full Stack Developer,0.4848,19,0.038,0.902,0.56536067
+CAND_0045127,37.249627178249874,Ira Khanna,Graphic Designer | AI enthusiast | Building with LLMs,Graphic Designer,0.391,137,0.05,0.773,0.56124616
+CAND_0054703,37.246228687642926,Sai Shetty,Computer Vision Engineer | Data Science & ML enthusiast,Computer Vision Engineer,0.901,105,0.3005,0.977,0.51638716
+CAND_0080340,37.246028840784135,Ved Patel,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.4188,47,0.3288,0.699,0.52355516
+CAND_0016309,37.24588002318925,Ved Chowdary,Software Engineer | Full-stack development,Software Engineer,0.4494,21,0.342,0.768,0.5733565
+CAND_0073181,37.243774242657196,Zara Khanna,Java Developer | Full-stack development,Java Developer,0.7218,63,0.3364,0.747,0.5896392
+CAND_0058608,37.242104409481925,Rahul Hegde,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.3964,104,0.5406,0.609,0.47315833
+CAND_0039920,37.239071676916474,Arjun Trivedi,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.564,105,0.012,0.759,0.56679714
+CAND_0008918,37.23795002889082,Ved Subramanian,AI Specialist | Building ML-powered solutions,AI Specialist,0.4664,107,0.512,0.88,0.5469612
+CAND_0030946,37.23555102255433,Diya Goyal,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,0.796,57,0.5488,1.0,0.51172733
+CAND_0046010,37.229656349644486,Rajesh Verma,Software Engineer | 5.1+ yrs in data engineering,Software Engineer,0.5678,123,0.3149,0.705,0.5706217
+CAND_0090347,37.22415628120254,Karan Ghosh,Java Developer | Backend systems & APIs,Java Developer,0.383,105,0.0612,1.0,0.55309516
+CAND_0070525,37.22151087834115,Ved Kumar,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.7806,21,0.416,1.0,0.51692724
+CAND_0029611,37.21618439180245,Sanjay Pandey,Computer Vision Engineer | Data Science & ML enthusiast,Computer Vision Engineer,0.3912,39,0.3068,0.908,0.4889852
+CAND_0013358,37.214133200877136,Shreya Rao,Junior ML Engineer | Data Science & ML enthusiast,Junior ML Engineer,0.696,22,0.5202,0.912,0.4928859
+CAND_0061862,37.208758154421496,Kabir Joshi,Content Writer | Exploring AI & GenAI applications,Content Writer,0.4024,215,0.3164,0.759,0.57330954
+CAND_0040141,37.20391492394931,Nikhil Dalal,Backend Engineer | 2.5+ yrs in data engineering,Backend Engineer,0.9568,115,0.4436,0.875,0.5556761
+CAND_0024620,37.20280822223312,Avni Rao,"AI Engineer | ML, NLP, Recommendation Systems",AI Engineer,1.0,64,0.2012,0.789,0.57054853
+CAND_0069261,37.19425412156113,Riya Chatterjee,Senior Data Engineer | 4.1+ yrs in data engineering,Senior Data Engineer,0.5578,105,0.6585,0.572,0.5534239
+CAND_0066018,37.18883919518086,Ved Iyer,Full Stack Developer | Backend systems & APIs,Full Stack Developer,0.5266,21,0.4332,0.921,0.545743
+CAND_0024594,37.187121199021085,Aadhya Iyer,Data Analyst | 3.6+ yrs in data engineering,Data Analyst,0.4852,26,0.3674,0.792,0.5174068
+CAND_0007972,37.18539883676274,Ayaan Rao,Frontend Engineer | Full-stack development,Frontend Engineer,0.4364,83,0.3557,0.704,0.5528219
+CAND_0058415,37.18024683135875,Manish Dutta,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.6896,104,0.5392,0.798,0.54994786
+CAND_0006766,37.17173268324378,Manish Subramanian,Senior Software Engineer | 6.4+ yrs in data engineering,Senior Software Engineer,0.606,52,0.5892,0.975,0.59014535
+CAND_0089598,37.16730091398537,Suresh Arora,Cloud Engineer | Full-stack development,Cloud Engineer,0.3518,148,0.4328,0.818,0.57124275
+CAND_0067633,37.15241945062381,Kiara Subramanian,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.7048,88,0.341,0.885,0.53848755
+CAND_0057389,37.15166154967959,Deepak Reddy,Java Developer | Backend systems & APIs,Java Developer,0.2632,119,0.3848,0.973,0.5495439
+CAND_0039809,37.14225314754134,Rahul Desai,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.8692,64,0.6182,0.975,0.5504985
+CAND_0037387,37.14225314754134,Aadhya Vora,Analytics Engineer | 3.1+ yrs in data engineering,Analytics Engineer,0.7798,31,0.6424,0.943,0.5742319
+CAND_0051936,37.13832382092959,Neha Hegde,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,1.0,23,0.4426,1.0,0.56340265
+CAND_0034963,37.13637668674762,Naina Patel,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.4578,47,0.008,0.925,0.5024102
+CAND_0033155,37.121151314470275,Arjun Rao,"Backend Engineer | SQL, Spark, Cloud",Backend Engineer,0.8756,141,0.6104,0.948,0.5509831
+CAND_0032216,37.12084525598101,Rahul Shetty,ML Engineer | Building ML-powered solutions,ML Engineer,0.7664,52,0.5076,0.823,0.4995683
+CAND_0014189,37.11456640767032,Advik Mukherjee,Cloud Engineer | Full-stack development,Cloud Engineer,0.3228,109,0.3588,0.741,0.5517118
+CAND_0097802,37.112891652450934,Suresh Iyer,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.5466,61,0.2894,0.929,0.4956141
+CAND_0026340,37.10183854032778,Arnav Dalal,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.402,58,0.3395,0.752,0.53356445
+CAND_0098736,37.09973865444977,Saanvi Shetty,Software Engineer | Full-stack development,Software Engineer,0.3986,114,0.204,0.763,0.5691212
+CAND_0052328,37.09237397936138,Vikram Banerjee,"Recommendation Systems Engineer | Search, Ranking & Retrieval",Recommendation Systems Engineer,1.0,76,0.7826,0.817,0.5242927
+CAND_0060636,37.08830122262162,Aditya Mukherjee,Analytics Engineer | 7.5+ yrs in data engineering,Analytics Engineer,0.4876,75,0.022,0.928,0.5612705
+CAND_0053076,37.088109340251755,Myra Khanna,ML Engineer | 4.8 yrs in analytics & ML,ML Engineer,0.675,117,0.334,0.699,0.51001567
+CAND_0031390,37.07074339974341,Anika Chatterjee,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.6162,38,0.4905,0.977,0.5457735
+CAND_0019292,37.070707318417995,Ira Pillai,Java Developer | Backend systems & APIs,Java Developer,0.3902,130,0.4753,0.996,0.55189645
+CAND_0008873,37.06840919888246,Sneha Tiwari,Data Engineer | 6.4+ yrs in data engineering,Data Engineer,0.7128,116,0.3095,0.967,0.5738748
+CAND_0049881,37.06693811735954,Saanvi Verma,Software Engineer | 6.7+ yrs in data engineering,Software Engineer,0.7336,96,0.2554,0.925,0.5564783
+CAND_0040820,37.06573781183615,Ayaan Vora,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.405,76,0.7214,0.933,0.56287587
+CAND_0038368,37.065217168664695,Suresh Reddy,ML Engineer | 5.4 yrs in analytics & ML,ML Engineer,0.8078,87,0.5856,0.702,0.5777837
+CAND_0097273,37.05699706876163,Deepak Ghosh,Operations Manager | Generative AI explorer,Operations Manager,0.362,170,0.1456,0.758,0.6157349
+CAND_0099825,37.04410335625959,Vihaan Mukherjee,Junior ML Engineer | 5.7 yrs in analytics & ML,Junior ML Engineer,0.7934,105,0.42,0.951,0.49722356
+CAND_0051593,37.043893795736274,Rahul Pillai,AI Specialist | Data Science & ML enthusiast,AI Specialist,0.936,108,0.3744,0.811,0.5692481
+CAND_0044301,37.04191622909828,Diya Saxena,Mobile Developer | Backend systems & APIs,Mobile Developer,0.4304,152,0.2092,0.92,0.56268525
+CAND_0009509,37.03206539081381,Advaith Saxena,DevOps Engineer | Backend systems & APIs,DevOps Engineer,0.4164,79,0.066,0.957,0.5481763
+CAND_0074595,37.026020376307955,Nisha Trivedi,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.6202,121,0.386,0.796,0.54004216
+CAND_0059678,37.02427032208969,Yash Banerjee,HR Manager | Generative AI explorer,HR Manager,0.3096,258,0.058,0.799,0.66257745
+CAND_0077443,37.021532885998106,Amit Chowdary,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.8018,121,0.4932,0.67,0.4863658
+CAND_0096916,37.015703124861744,Naina Verma,Software Engineer | Data pipelines & analytics,Software Engineer,0.7274,89,0.458,0.706,0.49597928
+CAND_0025855,37.01219406812443,Tanya Iyengar,Software Engineer | Data pipelines & analytics,Software Engineer,0.5036,59,0.317,0.988,0.5544552
+CAND_0073294,37.009171348924724,Om Chowdary,Accountant | Exploring AI & GenAI applications,Accountant,0.3144,81,0.232,0.777,0.56551784
+CAND_0000805,37.006105814507364,Pari Chowdary,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.234,128,0.289,0.897,0.5336404
+CAND_0010408,36.9930606489707,Vikram Sen,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,1.0,75,0.6879,0.938,0.53151286
+CAND_0082281,36.99177939871897,Tanvi Verma,QA Engineer | Full-stack development,QA Engineer,0.4018,110,0.19,1.0,0.5665218
+CAND_0025628,36.988517610509376,Dev Mehta,Data Analyst | Data pipelines & analytics,Data Analyst,0.5086,113,0.3445,0.788,0.49810064
+CAND_0004520,36.98774143192409,Sneha Goyal,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.4876,55,0.298,0.796,0.50898397
+CAND_0036915,36.98643894753633,Dhruv Agarwal,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.6332,112,0.4049,0.654,0.4643048
+CAND_0056813,36.979225202042045,Ananya Mukherjee,Frontend Engineer | Full-stack development,Frontend Engineer,0.3642,65,0.3381,0.877,0.5904243
+CAND_0040955,36.97112147097473,Ritu Shah,Junior ML Engineer | 6.6 yrs in analytics & ML,Junior ML Engineer,1.0,45,0.4712,0.754,0.52769357
+CAND_0047037,36.9705585259092,Yash Menon,Mobile Developer | Full-stack development,Mobile Developer,0.611,54,0.2288,0.887,0.5427908
+CAND_0022073,36.96977807603251,Krishna Patel,.NET Developer | Backend systems & APIs,.NET Developer,0.4852,192,0.4844,0.971,0.5250056
+CAND_0095184,36.96790279728217,Ira Dutta,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.6202,99,0.4848,0.712,0.56584835
+CAND_0036486,36.96743127262862,Shaurya Pandey,Full Stack Developer | Full-stack development,Full Stack Developer,0.4784,66,0.2442,0.797,0.59600747
+CAND_0040722,36.96185043397212,Aditya Banerjee,.NET Developer | Cloud & DevOps,.NET Developer,0.4022,54,0.3418,0.787,0.51817334
+CAND_0086133,36.95847851085354,Dhruv Pandey,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.816,55,0.456,0.949,0.54133576
+CAND_0020406,36.95320750680231,Shreya Goyal,Mobile Developer | Full-stack development,Mobile Developer,0.6276,104,0.2472,0.785,0.5677347
+CAND_0074731,36.95111302981689,Vikram Naidu,Data Scientist | Data Science & ML enthusiast,Data Scientist,1.0,99,0.6144,0.728,0.51290673
+CAND_0091934,36.95027517029769,Reyansh Mukherjee,Software Engineer | Backend systems & APIs,Software Engineer,0.5664,90,0.2088,0.573,0.5697492
+CAND_0085968,36.949132587702955,Ananya Kumar,Data Analyst | Data pipelines & analytics,Data Analyst,0.9408,100,0.3711,0.568,0.5070395
+CAND_0054859,36.944870010492195,Aryan Singh,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.601,78,0.416,0.816,0.53181225
+CAND_0067442,36.942209771100245,Saanvi Desai,QA Engineer | Cloud & DevOps,QA Engineer,0.4272,106,0.6184,0.818,0.55201495
+CAND_0047542,36.94193351626075,Anil Nair,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.3508,63,0.5308,0.936,0.5600307
+CAND_0078579,36.94147373726152,Priya Pandey,Data Scientist | 4.7 yrs in analytics & ML,Data Scientist,0.865,49,0.4732,1.0,0.50762904
+CAND_0087134,36.939961572567526,Aadhya Arora,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.438,132,0.3432,0.731,0.5539808
+CAND_0025839,36.93316833089055,Riya Gupta,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.7636,149,0.4016,0.846,0.5179076
+CAND_0086081,36.93212460961872,Advaith Malhotra,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.6574,101,0.186,0.856,0.56506133
+CAND_0007009,36.929984023430826,Anika Pillai,"Recommendation Systems Engineer | ML, NLP, Recommendation Systems",Recommendation Systems Engineer,0.73,88,0.6816,0.928,0.51775116
+CAND_0027691,36.929984023430826,Ayaan Goyal,"NLP Engineer | ML, NLP, Recommendation Systems",NLP Engineer,0.422,76,0.7123,1.0,0.54056954
+CAND_0079074,36.92941500237895,Diya Tiwari,Full Stack Developer | Cloud & DevOps,Full Stack Developer,0.3698,94,0.3722,0.959,0.52920437
+CAND_0057701,36.92791796530838,Sai Kapoor,"Recommendation Systems Engineer | Search, Ranking & Retrieval",Recommendation Systems Engineer,0.835,36,0.6975,0.761,0.5329735
+CAND_0081251,36.92463238938133,Pooja Ghosh,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.404,83,0.112,0.988,0.5388253
+CAND_0065052,36.92373607644575,Myra Trivedi,AI Specialist | Data Science & ML enthusiast,AI Specialist,0.7112,56,0.3752,0.693,0.55143315
+CAND_0078546,36.91828565964114,Advik Rao,Data Engineer | 5.7+ yrs in data engineering,Data Engineer,0.2812,143,0.557,0.799,0.55606514
+CAND_0084460,36.91826359980456,Arnav Gupta,Senior Software Engineer (ML) | 5.6 yrs in analytics & ML,Senior Software Engineer (ML),0.6912,115,0.4853,0.73,0.5095786
+CAND_0081727,36.913889813442935,Ved Trivedi,Full Stack Developer | Full-stack development,Full Stack Developer,0.53,135,0.2592,0.802,0.5464833
+CAND_0018672,36.908099824763106,Karan Nair,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.9136,53,0.2205,0.849,0.54617345
+CAND_0028871,36.90696498633445,Aryan Shetty,Data Analyst | 3.6+ yrs in data engineering,Data Analyst,0.4756,57,0.216,0.885,0.52629745
+CAND_0008712,36.90221339934275,Vikram Ghosh,Java Developer | Cloud & DevOps,Java Developer,0.6974,21,0.4016,0.708,0.5680771
+CAND_0064897,36.89851902930972,Rajesh Reddy,Frontend Engineer | Full-stack development,Frontend Engineer,0.3632,76,0.2536,0.644,0.58678997
+CAND_0051763,36.89626891298777,Siya Patel,Software Engineer | Cloud & DevOps,Software Engineer,0.6798,42,0.094,0.934,0.5711094
+CAND_0015695,36.89581994258553,Jay Banerjee,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.6536,31,0.338,0.753,0.5065036
+CAND_0028793,36.895679454931084,Myra Dutta,"Search Engineer | ML, NLP, Recommendation Systems",Search Engineer,1.0,63,0.8532,1.0,0.57202834
+CAND_0083852,36.895679454931084,Reyansh Banerjee,Data Scientist | Building ML-powered solutions,Data Scientist,1.0,19,0.7576,1.0,0.5574835
+CAND_0039383,36.895679454931084,Riya Malhotra,Applied ML Engineer | Applied ML | Building intelligent products,Applied ML Engineer,0.9104,88,0.6357,0.99,0.5649626
+CAND_0079386,36.894040070210814,Vikram Shah,Data Scientist | Data Science & ML enthusiast,Data Scientist,0.6968,51,0.623,0.823,0.5846569
+CAND_0089976,36.893049296974525,Amit Iyengar,Java Developer | Full-stack development,Java Developer,0.3524,172,0.032,0.976,0.585551
+CAND_0052712,36.88870314801068,Anil Chopra,AI Research Engineer | 3.1 yrs in analytics & ML,AI Research Engineer,0.859,19,0.6162,1.0,0.54847014
+CAND_0092706,36.88825402984035,Karan Kumar,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.9752,19,0.6344,1.0,0.5733087
+CAND_0010257,36.88825402984035,Ira Shetty,Senior Data Scientist | Applied ML | Building intelligent products,Senior Data Scientist,1.0,33,0.661,0.951,0.56801575
+CAND_0009556,36.887508559052144,Kavya Dutta,Mobile Developer | Cloud & DevOps,Mobile Developer,0.385,33,0.3248,0.863,0.54846525
+CAND_0063949,36.88629889067293,Amit Arora,Mobile Developer | Cloud & DevOps,Mobile Developer,0.4622,113,0.4048,0.76,0.52900004
+CAND_0000273,36.88545750549014,Vikram Kumar,ML Engineer | 5.8 yrs in analytics & ML,ML Engineer,0.8396,39,0.3974,1.0,0.5647664
+CAND_0061264,36.880464986879694,Mira Arora,Full Stack Developer | Full-stack development,Full Stack Developer,0.473,147,0.3584,0.612,0.5469855
+CAND_0045576,36.87409215949773,Neha Nair,Frontend Engineer | Cloud & DevOps,Frontend Engineer,0.3824,111,0.2972,0.629,0.51604295
+CAND_0057783,36.86478777913867,Dhruv Verma,Software Engineer | 4.2+ yrs in data engineering,Software Engineer,0.6108,137,0.3684,0.629,0.5539653
+CAND_0021442,36.86081579815051,Shaurya Joshi,AI Specialist | 3.9 yrs in analytics & ML,AI Specialist,0.6712,43,0.3292,0.912,0.55545676
+CAND_0027197,36.85671811231446,Reyansh Goyal,Graphic Designer | Generative AI explorer,Graphic Designer,0.4198,132,0.014,0.933,0.5703815
+CAND_0081846,36.85157480114109,Arjun Khanna,"Lead AI Engineer | LLMs, RAG, Vector Search | ex-Top Tech",Lead AI Engineer,0.8776,43,0.5953,1.0,0.5849722
+CAND_0023207,36.84977356598323,Kabir Tiwari,Frontend Engineer | Full-stack development,Frontend Engineer,0.351,94,0.3404,0.774,0.5623306
+CAND_0014672,36.84441466221245,Arnav Naidu,Cloud Engineer | Cloud & DevOps,Cloud Engineer,0.4622,116,0.5924,1.0,0.5028273
+CAND_0045472,36.8352425714197,Aanya Krishnan,Frontend Engineer | Full-stack development,Frontend Engineer,0.3746,115,0.2644,1.0,0.5755306
+CAND_0053527,36.83242150494,Krishna Iyer,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,1.0,19,0.4144,1.0,0.48326033
+CAND_0073917,36.83242150494,Aarav Trivedi,Data Scientist | 5.8 yrs in analytics & ML,Data Scientist,0.9096,78,0.477,1.0,0.52523947
+CAND_0092341,36.83223130153588,Reyansh Rao,Full Stack Developer | Full-stack development,Full Stack Developer,0.304,187,0.2612,0.787,0.58559334
+CAND_0013665,36.826643443575996,Nisha Joshi,Senior Software Engineer (ML) | Building ML-powered solutions,Senior Software Engineer (ML),0.6712,29,0.4479,1.0,0.56995296
+CAND_0046349,36.82154473842662,Atharv Sharma,Senior Data Engineer | 5.2+ yrs in data engineering,Senior Data Engineer,0.9144,76,0.3745,0.809,0.54900116
+CAND_0016912,36.81724837175599,Ayaan Mittal,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.8322,130,0.5856,0.904,0.53036
+CAND_0086973,36.80757861824759,Divya Sethi,QA Engineer | Backend systems & APIs,QA Engineer,0.3928,115,0.3352,0.823,0.55849206
+CAND_0001419,36.803213763914215,Advaith Joshi,HR Manager | Generative AI explorer,HR Manager,0.318,214,0.1708,0.864,0.63384557
+CAND_0053669,36.802266466531535,Riya Khanna,Java Developer | Cloud & DevOps,Java Developer,0.4854,44,0.3174,0.93,0.56169534
+CAND_0024630,36.80074081268753,Nikhil Dalal,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,1.0,79,0.4471,0.839,0.57679284
+CAND_0072971,36.79649056384015,Ishaan Agarwal,Java Developer | Backend systems & APIs,Java Developer,0.3444,188,0.3144,0.573,0.5721778
+CAND_0022126,36.793672617762795,Aanya Arora,Backend Engineer | 5.0+ yrs in data engineering,Backend Engineer,0.5782,143,0.6541,0.969,0.546515
+CAND_0002743,36.79012225144129,Rajesh Banerjee,Senior Software Engineer | 5.7+ yrs in data engineering,Senior Software Engineer,0.4882,69,0.4048,0.657,0.55156004
+CAND_0059258,36.78644122956387,Sneha Khanna,QA Engineer | Cloud & DevOps,QA Engineer,0.362,33,0.4644,0.813,0.53547025
+CAND_0066855,36.78217322068021,Vihaan Nair,Software Engineer | Data pipelines & analytics,Software Engineer,0.821,94,0.3972,0.72,0.5537447
+CAND_0004853,36.77866166022296,Karan Arora,"Data Analyst | SQL, Spark, Cloud",Data Analyst,0.5268,55,0.242,0.818,0.52063024
+CAND_0051109,36.77405523234506,Dhruv Khanna,Data Analyst | Data pipelines & analytics,Data Analyst,0.9284,85,0.2501,0.966,0.48513484
+CAND_0099527,36.77197876873685,Manish Nair,QA Engineer | Full-stack development,QA Engineer,0.6566,102,0.234,0.768,0.5581019
+CAND_0003575,36.76897091413387,Zara Malhotra,Data Scientist | Building ML-powered solutions,Data Scientist,0.7364,24,0.517,0.972,0.5582084
+CAND_0037153,36.76753982936137,Shreya Kumar,QA Engineer | Cloud & DevOps,QA Engineer,0.4318,99,0.4412,0.987,0.54435766
+CAND_0056936,36.76649916015078,Zara Iyer,Senior Data Engineer | 7.8+ yrs in data engineering,Senior Data Engineer,0.6456,112,0.3892,0.938,0.50100434
+CAND_0085901,36.75983551540733,Manish Bansal,Civil Engineer | Generative AI explorer,Civil Engineer,0.473,67,0.256,0.758,0.6318793
+CAND_0090456,36.756726581999,Rajesh Sethi,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.6772,58,0.3452,0.953,0.54620266
+CAND_0022357,36.75634734459792,Aanya Mukherjee,Mobile Developer | Cloud & DevOps,Mobile Developer,0.6348,35,0.5164,0.975,0.4705544
+CAND_0033929,36.75413101672809,Siya Goyal,Data Engineer | Data pipelines & analytics,Data Engineer,0.707,43,0.2747,0.942,0.5441786
+CAND_0047302,36.750858216866355,Rahul Naidu,Software Engineer | Data pipelines & analytics,Software Engineer,0.7928,109,0.3644,0.604,0.5393011
+CAND_0068393,36.74134749995365,Pranav Rao,Junior ML Engineer | Building ML-powered solutions,Junior ML Engineer,0.9968,112,0.4677,0.612,0.5105579
+CAND_0068780,36.73706736994057,Divya Chowdary,Frontend Engineer | Full-stack development,Frontend Engineer,0.5712,73,0.2684,0.732,0.5690961
+CAND_0061118,36.73557086920809,Atharv Singh,Software Engineer | 4.6+ yrs in data engineering,Software Engineer,0.788,24,0.5486,0.921,0.57742554
+CAND_0000390,36.7352306012836,Sanjay Khanna,Backend Engineer | 6.6+ yrs in data engineering,Backend Engineer,0.5376,84,0.0644,0.814,0.5403216
+CAND_0017857,36.73501040197163,Atharv Pandey,Business Analyst | 8.2+ yrs experience,Business Analyst,0.382,62,0.506,0.826,0.56506515
+CAND_0073055,36.73355114821954,Anika Dutta,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.611,74,0.2816,0.878,0.49129272
+CAND_0085954,36.73206167053438,Ritu Kumar,Senior Data Engineer | 6.5+ yrs in data engineering,Senior Data Engineer,0.805,136,0.4168,0.561,0.55944246
+CAND_0058688,36.72794387768118,Anjali Kapoor,AI Engineer | Applied ML | Building intelligent products,AI Engineer,0.6496,79,0.6232,0.834,0.5512616
+CAND_0081963,36.723757902287545,Myra Mittal,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.9104,115,0.4696,0.573,0.56038547
+CAND_0034529,36.7232074372345,Yash Menon,Computer Vision Engineer | Data Science & ML enthusiast,Computer Vision Engineer,0.443,99,0.3563,0.723,0.48171875
+CAND_0074537,36.71859287590583,Karan Iyengar,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.7784,28,0.32,0.944,0.55268013
+CAND_0054102,36.71755297305018,Vihaan Banerjee,Senior Data Engineer | 7.6+ yrs in data engineering,Senior Data Engineer,0.5162,86,0.5154,0.753,0.5519723
+CAND_0065881,36.71057549483961,Meera Iyer,Cloud Engineer | Backend systems & APIs,Cloud Engineer,0.7384,93,0.42,0.669,0.5282413
+CAND_0057192,36.70785516532055,Kiara Bansal,Data Engineer | Data pipelines & analytics,Data Engineer,0.5042,58,0.3572,0.875,0.52929497
+CAND_0063376,36.70705235118361,Ritu Verma,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.6952,50,0.2336,1.0,0.58162224
+CAND_0059105,36.70622815911476,Ela Sharma,.NET Developer | Backend systems & APIs,.NET Developer,0.5248,165,0.2322,0.943,0.510055
+CAND_0080302,36.70326391103917,Tanya Ghosh,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.523,115,0.42,0.871,0.52380383
+CAND_0040887,36.70297778452407,Meera Kumar,"Machine Learning Engineer | Search, Ranking & Retrieval",Machine Learning Engineer,1.0,22,0.6195,1.0,0.54147756
+CAND_0036184,36.70297778452407,Riya Chopra,Recommendation Systems Engineer | Applied ML | Building intelligent products,Recommendation Systems Engineer,1.0,20,0.6416,1.0,0.5194289
+CAND_0093912,36.70297778452407,Advik Sethi,"Senior Data Scientist | Search, Ranking & Retrieval",Senior Data Scientist,1.0,35,0.7316,1.0,0.5288841
+CAND_0052682,36.70297778452407,Ira Mukherjee,NLP Engineer | Applied ML | Building intelligent products,NLP Engineer,0.94,79,0.7278,1.0,0.5187972
+CAND_0054475,36.698167387725455,Dhruv Trivedi,"Analytics Engineer | SQL, Spark, Cloud",Analytics Engineer,0.3604,36,0.2124,0.999,0.5143927
+CAND_0028527,36.69738026381576,Ela Gupta,AI Specialist | 5.4 yrs in analytics & ML,AI Specialist,0.865,21,0.4776,1.0,0.57892495
+CAND_0082910,36.67624740420367,Aanya Kumar,AI Specialist | 4.9 yrs in analytics & ML,AI Specialist,0.718,60,0.2,0.899,0.5451197
+CAND_0050251,36.6761144897831,Kabir Pillai,.NET Developer | Cloud & DevOps,.NET Developer,0.5362,88,0.4972,0.749,0.48500353
+CAND_0031752,36.668837271448346,Vihaan Menon,ML Engineer | Building ML-powered solutions,ML Engineer,0.685,19,0.6344,0.953,0.49964374
+CAND_0082138,36.66785294509465,Suresh Patel,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.6912,114,0.3384,0.79,0.5474204
+CAND_0021454,36.6663537097695,Pari Sharma,Senior Data Engineer | 4.0+ yrs in data engineering,Senior Data Engineer,0.777,20,0.342,0.645,0.56695557
+CAND_0078927,36.66368406347014,Anika Shetty,Analytics Engineer | 2.1+ yrs in data engineering,Analytics Engineer,0.7008,19,0.261,0.791,0.53254956
+CAND_0024947,36.65697552036616,Naina Kumar,AI Research Engineer | 6.1 yrs in analytics & ML,AI Research Engineer,0.7722,90,0.5442,0.64,0.5626154
+CAND_0067853,36.65618662848234,Kabir Mittal,Software Engineer | Backend systems & APIs,Software Engineer,0.514,187,0.362,0.936,0.53334606
+CAND_0072009,36.65344034818032,Pooja Arora,DevOps Engineer | Full-stack development,DevOps Engineer,0.5794,58,0.2278,0.854,0.5786067
+CAND_0004628,36.65242710151569,Kavya Bose,AI Research Engineer | Data Science & ML enthusiast,AI Research Engineer,0.772,90,0.4979,1.0,0.57249856
+CAND_0042973,36.65151504559871,Saanvi Iyengar,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.738,124,0.4,0.753,0.5112941
+CAND_0047276,36.64927267727695,Zara Rao,Backend Engineer | 5.5+ yrs in data engineering,Backend Engineer,0.856,85,0.683,0.886,0.53380704
+CAND_0007630,36.64492108045795,Aadhya Shah,.NET Developer | Backend systems & APIs,.NET Developer,0.5752,136,0.473,0.804,0.5407659
+CAND_0073961,36.64403910261521,Aarav Mehta,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.698,105,0.3012,0.825,0.5412612
+CAND_0002604,36.641586411264576,Suresh Subramanian,"Senior Software Engineer | SQL, Spark, Cloud",Senior Software Engineer,0.5532,134,0.2823,0.99,0.5411137
+CAND_0094799,36.64121358854384,Tanvi Chopra,Backend Engineer | 6.1+ yrs in data engineering,Backend Engineer,0.494,79,0.476,0.599,0.55321693
+CAND_0055625,36.63668324341178,Divya Gupta,Frontend Engineer | Full-stack development,Frontend Engineer,0.4872,29,0.2016,0.821,0.5241415
+CAND_0083250,36.63304079881675,Vikram Kumar,Data Engineer | Data pipelines & analytics,Data Engineer,0.4104,20,0.2609,0.966,0.5331867
+CAND_0077837,36.632767141359125,Zara Bansal,Senior Data Engineer | 4.8+ yrs in data engineering,Senior Data Engineer,0.603,21,0.2908,0.615,0.5488781
+CAND_0027559,36.62940230996475,Ananya Desai,DevOps Engineer | Full-stack development,DevOps Engineer,0.4716,33,0.118,1.0,0.52706873
+CAND_0034882,36.62436011178029,Zara Kumar,Software Engineer | Backend systems & APIs,Software Engineer,0.442,198,0.2412,0.951,0.56934935
+CAND_0047539,36.621725544539615,Atharv Saxena,Mobile Developer | Cloud & DevOps,Mobile Developer,0.4424,21,0.542,0.782,0.5508002
+CAND_0016659,36.618267451598236,Priya Dalal,ML Engineer | Data Science & ML enthusiast,ML Engineer,0.6368,24,0.4517,1.0,0.48881364
+CAND_0011704,36.61423261353841,Ira Krishnan,Software Engineer | Full-stack development,Software Engineer,0.3956,41,0.2612,0.771,0.57928336
+CAND_0048774,36.61146256790568,Pooja Kumar,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.38,69,0.332,0.758,0.5250107
+CAND_0005568,36.60663339276117,Rajesh Mishra,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.3612,27,0.2684,0.96,0.5339968
+CAND_0061827,36.60087744210722,Aditya Kapoor,Frontend Engineer | Full-stack development,Frontend Engineer,0.529,111,0.2628,0.673,0.5951582
+CAND_0056533,36.600761513487534,Nisha Shah,Cloud Engineer | Full-stack development,Cloud Engineer,0.445,97,0.2184,0.777,0.57382584
+CAND_0091899,36.59858814376601,Aditya Iyer,Senior Software Engineer (ML) | 5.8 yrs in analytics & ML,Senior Software Engineer (ML),0.7396,77,0.4415,0.971,0.5740061
+CAND_0033577,36.598419268589026,Ayaan Sethi,Mechanical Engineer | Exploring AI & GenAI applications,Mechanical Engineer,0.4364,24,0.1892,0.831,0.64753366
+CAND_0027346,36.597864047339584,Neha Sharma,Data Analyst | Data pipelines & analytics,Data Analyst,0.8544,127,0.4504,0.892,0.53621453
+CAND_0005088,36.59703387393612,Aryan Saxena,Data Engineer | 6.8+ yrs in data engineering,Data Engineer,0.8556,135,0.3077,0.793,0.5693084
+CAND_0006066,36.59279881747417,Reyansh Bose,Senior Data Engineer | Data pipelines & analytics,Senior Data Engineer,0.597,40,0.3808,0.972,0.5352753
+CAND_0075656,36.59030402153824,Shreya Sharma,Analytics Engineer | Data pipelines & analytics,Analytics Engineer,0.5286,67,0.24,0.904,0.47544122
+CAND_0099630,36.589984743710254,Divya Malhotra,Senior Data Engineer | 4.9+ yrs in data engineering,Senior Data Engineer,0.535,65,0.2068,0.724,0.5585024
+CAND_0091527,36.58966884106252,Om Iyengar,Software Engineer | 2.4+ yrs in data engineering,Software Engineer,0.453,116,0.4683,0.863,0.5410253
+CAND_0086324,36.585232219967196,Ayaan Khanna,Java Developer | Backend systems & APIs,Java Developer,0.38,75,0.2168,0.598,0.53030515
+CAND_0019123,36.58482962207352,Krishna Mittal,Java Developer | Full-stack development,Java Developer,0.3032,135,0.3432,0.978,0.5665032
+CAND_0014858,36.58358995801666,Avni Tiwari,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,0.9336,30,0.55,0.804,0.58638597
+CAND_0046526,36.58197749765727,Tanya Bose,ML Engineer | 5.5 yrs in analytics & ML,ML Engineer,0.6512,100,0.2756,0.569,0.554283
+CAND_0027181,36.58127422489604,Aditya Rao,Mobile Developer | Backend systems & APIs,Mobile Developer,0.414,175,0.3128,0.956,0.5648608
+CAND_0051201,36.57903749616982,Ritu Sharma,Operations Manager | Generative AI explorer,Operations Manager,0.3614,142,0.032,0.565,0.61480576
+CAND_0005538,36.576734681424824,Aryan Goyal,Senior Engineer | 5.9+ yrs in production systems,Senior AI Engineer,1.0,29,0.7396,1.0,0.61159736
+CAND_0040713,36.57059707400604,Vikram Joshi,Cloud Engineer | Full-stack development,Cloud Engineer,0.4094,124,0.3032,0.581,0.542976
+CAND_0071382,36.55623482065412,Tanvi Gupta,Data Analyst | 7.6+ yrs in data engineering,Data Analyst,0.7006,134,0.2756,0.73,0.53975147
+CAND_0074198,36.555784385352766,Pari Desai,Java Developer | Cloud & DevOps,Java Developer,0.425,130,0.2888,0.676,0.5022224
+CAND_0072547,36.554844848683466,Rahul Mishra,Senior Software Engineer (ML) | Data Science & ML enthusiast,Senior Software Engineer (ML),0.7568,107,0.4128,0.7,0.5303367
+CAND_0097228,36.55075233885254,Rohan Tiwari,.NET Developer | Full-stack development,.NET Developer,0.3902,119,0.2728,0.806,0.5299355
+CAND_0046300,36.54353632311012,Advaith Tiwari,Project Manager | Exploring AI & GenAI applications,Project Manager,0.4502,97,0.016,0.541,0.66523135
+CAND_0033179,36.542688895041984,Yash Subramanian,AI Research Engineer | 6.9 yrs in analytics & ML,AI Research Engineer,0.7648,24,0.3348,1.0,0.58067125
+CAND_0009200,36.52145448969954,Amit Chopra,AI Specialist | 5.7 yrs in analytics & ML,AI Specialist,0.754,112,0.7072,0.819,0.5779276
+CAND_0022070,36.51598324704578,Kavya Trivedi,Frontend Engineer | Backend systems & APIs,Frontend Engineer,0.5028,181,0.3788,0.957,0.5543673
+CAND_0052843,36.509946875886314,Zara Tiwari,"Senior Data Engineer | SQL, Spark, Cloud",Senior Data Engineer,0.706,116,0.2024,0.952,0.5624579
+CAND_0062363,36.503167346982586,Om Mukherjee,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.7034,19,0.5847,0.578,0.5527084
+CAND_0066652,36.502255957537294,Anil Reddy,Graphic Designer | Exploring AI & GenAI applications,Graphic Designer,0.3174,132,0.2348,0.846,0.568641
+CAND_0071321,36.50181389111982,Anil Shah,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.6158,103,0.4602,0.799,0.56115115
+CAND_0099751,36.5009407744102,Dev Sharma,Junior ML Engineer | 5.5 yrs in analytics & ML,Junior ML Engineer,0.3722,54,0.439,0.85,0.5394772
+CAND_0039587,36.49913493896792,Ayaan Shah,Data Engineer | Data pipelines & analytics,Data Engineer,0.62,24,0.552,0.658,0.52068317
+CAND_0055039,36.496919664373756,Aadhya Menon,Full Stack Developer | Full-stack development,Full Stack Developer,0.53,43,0.1672,0.8,0.56617767
+CAND_0048383,36.49489641201417,Kabir Bose,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.515,33,0.322,0.927,0.48939094
+CAND_0061591,36.492701341918234,Sunil Pandey,"Software Engineer | SQL, Spark, Cloud",Software Engineer,0.5992,121,0.4596,0.668,0.5149766
+CAND_0001314,36.49152641710942,Ishaan Banerjee,Senior Data Engineer | 6.9+ yrs in data engineering,Senior Data Engineer,0.3882,124,0.4158,0.942,0.54925466
+CAND_0054318,36.4904642777585,Yash Goyal,AI Research Engineer | Building ML-powered solutions,AI Research Engineer,1.0,19,0.549,1.0,0.57083404
+CAND_0073138,36.48418863764128,Kabir Menon,Backend Engineer | Data pipelines & analytics,Backend Engineer,0.7472,83,0.198,0.75,0.54654765
+CAND_0077418,36.484008018473624,Aanya Banerjee,Senior Software Engineer | Data pipelines & analytics,Senior Software Engineer,0.365,99,0.606,0.579,0.5413494
+CAND_0023640,36.48261910940995,Aisha Dutta,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.525,57,0.2788,0.675,0.5605639
+CAND_0055333,36.47978624717317,Vikram Trivedi,QA Engineer | Backend systems & APIs,QA Engineer,0.566,131,0.2216,0.599,0.5089185
+CAND_0042100,36.47812333761309,Siya Trivedi,Machine Learning Engineer | Applied ML | Building intelligent products,Machine Learning Engineer,0.8346,84,0.5376,1.0,0.5563444
+CAND_0061696,36.477444059223544,Myra Malhotra,Senior Software Engineer (ML) | 3.5 yrs in analytics & ML,Senior Software Engineer (ML),0.9752,73,0.7248,0.984,0.56863207
+CAND_0048058,36.4714417731556,Naina Gupta,Data Engineer | 3.6+ yrs in data engineering,Data Engineer,0.456,140,0.3091,0.984,0.5389271
+CAND_0017648,36.47135150278662,Arnav Mishra,AI Specialist | 4.0 yrs in analytics & ML,AI Specialist,0.9096,82,0.5468,0.941,0.5633558
+CAND_0015578,36.470697912522354,Ved Singh,"AI Engineer | ML, NLP, Recommendation Systems",AI Engineer,0.85,75,0.6304,1.0,0.5689557
+CAND_0048469,36.46959740496275,Rahul Menon,Computer Vision Engineer | Building ML-powered solutions,Computer Vision Engineer,1.0,105,0.2,0.884,0.54471624
+CAND_0065396,36.46054340585991,Amit Verma,AI Specialist | Building ML-powered solutions,AI Specialist,0.748,42,0.4012,0.575,0.5626204
+CAND_0092989,36.45618431710384,Naina Sharma,Data Scientist | Building ML-powered solutions,Data Scientist,0.967,21,0.342,1.0,0.51552653
+CAND_0072232,36.455337321994634,Anika Mittal,ML Engineer | 4.0 yrs in analytics & ML,ML Engineer,0.9552,33,0.4651,0.845,0.5511502
+CAND_0023335,36.45320927949523,Rohan Khanna,Data Engineer | 4.1+ yrs in data engineering,Data Engineer,0.3638,39,0.4107,0.806,0.5658084
+CAND_0039121,36.45099775140934,Aanya Gupta,"Data Engineer | SQL, Spark, Cloud",Data Engineer,0.4786,135,0.478,0.624,0.5295177

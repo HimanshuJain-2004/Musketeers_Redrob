@@ -1,0 +1,11 @@
+# Environment Variables
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Data Files (Ensure you don't accidentally push the 487MB candidates list)
+candidates.jsonl

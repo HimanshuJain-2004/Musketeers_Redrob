@@ -1,0 +1,417 @@
+# Work Completed So Far
+
+## 1. JD Parser
+
+### Objective
+
+Convert the unstructured Job Description into a structured format that can be used for candidate evaluation.
+
+### Input
+
+```text
+job_description.docx
+```
+
+### File Developed
+
+```text
+preprocessing/jd_parser.py
+```
+
+### Output Generated
+
+```text
+artifacts/jd_requirements.json
+```
+
+### Functionality
+
+* Reads the job description from a DOCX file.
+* Extracts:
+
+  * Role
+  * Experience range
+  * Must-have skills
+  * Preferred skills
+  * Target job titles
+  * Preferred locations
+  * Preferred domains
+  * Company preferences
+  * Negative/disqualifying signals
+* Stores all extracted requirements in a structured JSON format.
+
+### Importance
+
+Acts as the blueprint for evaluating all candidates against the job requirements.
+
+---
+
+## 2. Candidate Feature Engineering
+
+### Objective
+
+Convert 100,000 raw candidate profiles into machine-learning-ready numerical features.
+
+### Input
+
+```text
+candidates.jsonl
+jd_requirements.json
+```
+
+### File Developed
+
+```text
+feature_engineering/candidate_feature_generator.py
+```
+
+### Output Generated
+
+```text
+artifacts/candidate_features.parquet
+```
+
+### Features Generated
+
+* candidate_id
+* years_exp
+* experience_score
+* skill_match_count
+* skill_coverage
+* title_score
+* education_score
+* location_score
+* product_company_score
+* consulting_penalty
+* retrieval_score
+
+### Functionality
+
+* Compares candidate profiles against JD requirements.
+* Evaluates skills, experience, titles, education, location, and domain relevance.
+* Converts raw profile data into structured numerical features.
+
+### Importance
+
+Provides the core candidate-fit features used for ranking and machine learning.
+
+---
+
+## 3. Behavioral Feature Engineering
+
+### Objective
+
+Convert Redrob behavioral signals into recruitability and hiring-readiness features.
+
+### Input
+
+```text
+candidates.jsonl
+(redrob_signals section)
+```
+
+### File Developed
+
+```text
+behavioral/behavior_engine.py
+```
+
+### Output Generated
+
+```text
+artifacts/behavior_features.parquet
+```
+
+### Features Generated
+
+* availability_score
+* recruitability_score
+* market_demand_score
+* trust_score
+* technical_credibility_score
+* mobility_score
+* days_since_active
+* notice_period_days
+* github_activity_score
+* avg_assessment_score
+
+### Functionality
+
+* Analyzes candidate activity, responsiveness, trustworthiness, and technical credibility.
+* Generates behavioral indicators reflecting real-world hiring likelihood.
+
+### Importance
+
+Prevents inactive or unresponsive candidates from ranking highly despite strong resumes.
+
+---
+
+## 4. Embedding Generation
+
+### Objective
+
+Generate semantic representations of both the Job Description and candidate profiles.
+
+### Files Developed
+
+```text
+embeddings/generate_jd_embedding.py
+embeddings/generate_candidate_embeddings.py
+```
+
+### Outputs Generated
+
+```text
+artifacts/jd_embedding.npy
+artifacts/candidate_embeddings.npy
+```
+
+### Model Used
+
+```text
+sentence-transformers/all-MiniLM-L6-v2
+```
+
+### Functionality
+
+* Converts the Job Description into a 384-dimensional embedding vector.
+* Converts all 100,000 candidate profiles into semantic embedding vectors.
+* Captures meaning and context beyond keyword matching.
+
+### Importance
+
+Allows semantic comparison between candidates and the JD, helping identify strong matches even when exact keywords are absent.
+
+---
+
+## 5. Semantic Matching
+
+### Objective
+
+Compute semantic similarity between candidate profiles and the Job Description.
+
+### File Developed
+
+```text
+semantic_matching/semantic_matcher.py
+```
+
+### Output Generated
+
+```text
+artifacts/semantic_scores.parquet
+```
+
+### Features Generated
+
+* candidate_id
+* semantic_score
+
+### Functionality
+
+* Loads candidate and JD embeddings.
+* Computes cosine similarity between each candidate embedding and the JD embedding.
+* Generates a semantic relevance score for every candidate.
+
+### Importance
+
+Identifies candidates whose experience aligns with the JD conceptually, not just through keyword overlap.
+
+---
+
+## Current Status
+
+```text
+✓ JD Parser Completed
+✓ jd_requirements.json Generated
+
+✓ Candidate Feature Engineering Completed
+✓ candidate_features.parquet Generated
+
+✓ Behavioral Feature Engineering Completed
+✓ behavior_features.parquet Generated
+
+✓ Embedding Generation Completed
+✓ candidate_embeddings.npy Generated
+✓ jd_embedding.npy Generated
+
+✓ Semantic Matching Completed
+✓ semantic_scores.parquet Generated
+```
+
+## Deliverables Completed
+
+```text
+artifacts/
+│
+├── jd_requirements.json
+├── candidate_features.parquet
+├── behavior_features.parquet
+├── candidate_embeddings.npy
+├── jd_embedding.npy
+└── semantic_scores.parquet
+```
+
+## Final Outcome
+
+All candidate, behavioral, and semantic features have been successfully generated and are ready for merging into a unified feature matrix:
+
+```text
+X = merge(
+    candidate_features,
+    behavior_features,
+    semantic_scores
+)
+```
+
+This merged dataset will be used by the ML ranking pipeline to identify and rank the top candidates for the role.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Work Completed So Far
+
+## 1. JD Parser
+
+**File:** `preprocessing/jd_parser.py`
+
+**Output:** `artifacts/jd_requirements.json`
+
+**Purpose:**
+
+* Extracted role, experience range, skills, locations, domains, and hiring preferences from the Job Description.
+* Converted the JD into a structured format for candidate evaluation.
+
+---
+
+## 2. Candidate Feature Engineering
+
+**File:** `feature_engineering/candidate_feature_generator.py`
+
+**Output:** `artifacts/candidate_features.parquet`
+
+**Features Generated:**
+
+* experience_score
+* skill_coverage
+* title_score
+* education_score
+* location_score
+* product_company_score
+* consulting_penalty
+* retrieval_score
+
+**Purpose:**
+
+* Converted 100,000 candidate profiles into structured numerical features for ranking.
+
+---
+
+## 3. Behavioral Feature Engineering
+
+**File:** `behavioral/behavior_engine.py`
+
+**Output:** `artifacts/behavior_features.parquet`
+
+**Features Generated:**
+
+* availability_score
+* recruitability_score
+* market_demand_score
+* trust_score
+* technical_credibility_score
+* mobility_score
+
+**Purpose:**
+
+* Evaluated candidate activity, responsiveness, trustworthiness, and hiring readiness.
+
+---
+
+## 4. Embedding Generation
+
+**Files:**
+
+* `embeddings/generate_jd_embedding.py`
+* `embeddings/generate_candidate_embeddings.py`
+
+**Outputs:**
+
+* `artifacts/jd_embedding.npy`
+* `artifacts/candidate_embeddings.npy`
+
+**Model Used:**
+
+* `all-MiniLM-L6-v2`
+
+**Purpose:**
+
+* Generated semantic vector representations of the JD and all candidate profiles.
+
+---
+
+## 5. Semantic Matching
+
+**File:** `semantic_matching/semantic_matcher.py`
+
+**Output:** `artifacts/semantic_scores.parquet`
+
+**Purpose:**
+
+* Computed cosine similarity between JD and candidate embeddings.
+* Generated a semantic relevance score for every candidate.
+
+---
+
+## Deliverables Generated
+
+```text
+artifacts/
+├── jd_requirements.json
+├── candidate_features.parquet
+├── behavior_features.parquet
+├── candidate_embeddings.npy
+├── jd_embedding.npy
+└── semantic_scores.parquet
+```
+
+## Final Outcome
+
+All feature engineering, behavioral scoring, embedding generation, and semantic matching tasks have been completed.
+
+The generated outputs are ready to be merged into:
+
+```text
+X = merge(
+    candidate_features,
+    behavior_features,
+    semantic_scores
+)
+```
+
+for the final ML ranking pipeline.

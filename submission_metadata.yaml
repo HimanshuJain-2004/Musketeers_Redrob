@@ -1,0 +1,54 @@
+team_name: "Musketeers"
+
+primary_contact:
+  name: "Bhavit Mittal"
+  email: "123102183@nitkkr.ac.in"
+  phone: "+91-9116939936"
+
+team_members:
+  - name: "Bhavit Mittal"
+    email: "123102183@nitkkr.ac.in"
+    role: "Backend Engineer"
+  - name: "Himanshu Jain"
+    email: "himanshujain102004@gmail.com"
+    role: "ML Engineer"
+  - name: "Piyush Jaiswal"
+    email: "123102166@nitkkr.ac.in"
+    role: "Data Engineer"
+  - name: "Gur Simarjeet Singh"
+    email: "123106082@nitkkr.ac.in"
+    role: "Data Scientist"
+
+github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+sandbox_link: "https://colab.research.google.com/drive/1MibwyA3-A6kKgGC9QF_50VfctgLi7-ks?usp=sharing"
+
+reproduce_command: "python JAINWIN/ranking_engine.py"
+
+compute:
+  platform: "Windows 11"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11.x"
+  os: "Windows"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 60
+
+ai_tools_used:
+  - "Gemini"
+  - "Claude" # If used previously
+  - "GitHub Copilot" # If used
+
+ai_usage_summary: |
+  We used Gemini for extensive architectural code review, analyzing hackathon specifications, debugging pipeline issues, and formulating the submission metadata. AI was strictly used as a development assistant; no candidate data was fed into any hosted LLM APIs during the actual inference and ranking steps, which run entirely locally on CPU.
+
+methodology_summary: |
+  Our pipeline is a multi-phase, locally executable machine learning system. Phase 1 extracts candidate features, calculating semantic similarities against the JD and deriving behavioral signals. Phase 2 utilizes an ensemble of ExtraTrees, LGBM, and XGBoost regressor models to predict technical fit scores, alongside a dedicated classifier to explicitly identify and filter out honeypot profiles. Phase 3 executes the final ranking, applying a hard threshold against honeypot probabilities (<0.5) and extracting the top 100. Deterministic reasoning strings are automatically generated based on the top candidate skills and engagement signals without relying on external LLMs.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

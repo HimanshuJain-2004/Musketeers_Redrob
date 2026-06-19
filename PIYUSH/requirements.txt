@@ -1,0 +1,10 @@
+openai
+python-dotenv
+python-docx
+pandas
+pyarrow
+tqdm
+sentence-transformers
+torch
+numpy
+tqdm
