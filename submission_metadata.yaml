@@ -19,7 +19,7 @@ team_members:
     email: "123106082@nitkkr.ac.in"
     role: "Data Scientist"
 
-github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+github_repo: "https://github.com/HimanshuJain-2004/Musketeers_Redrob.git"
 sandbox_link: "https://colab.research.google.com/drive/1MibwyA3-A6kKgGC9QF_50VfctgLi7-ks?usp=sharing"
 
 reproduce_command: "python JAINWIN/ranking_engine.py"
