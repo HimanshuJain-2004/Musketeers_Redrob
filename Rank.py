@@ -107,8 +107,17 @@ def main(input_file=None):
     df['predicted_score'] = regressor.predict(X.values if hasattr(regressor, 'feature_names_in_') == False else X)
     df['honeypot_probability'] = classifier.predict_proba(X.values if hasattr(classifier, 'feature_names_in_') == False else X)[:, 1]
     
-    print("Filtering honeypots (Probability < 0.5)...")
-    clean_df = df[df["honeypot_probability"] < 0.5].copy()
+    if len(df) <= 100:
+        print(f"Total candidates is {len(df)} (<= 100). Skipping honeypot filtering to rank all available candidates.")
+        clean_df = df.copy()
+    else:
+        print("Filtering honeypots (Probability < 0.5)...")
+        clean_df = df[df["honeypot_probability"] < 0.5].copy()
+        if len(clean_df) < 100:
+            needed = 100 - len(clean_df)
+            print(f"Honeypot filtering left only {len(clean_df)} candidates. Backfilling with {needed} highest-scoring honeypots to reach 100.")
+            honeypots = df[df["honeypot_probability"] >= 0.5].sort_values(by=["predicted_score", "candidate_id"], ascending=[False, True])
+            clean_df = pd.concat([clean_df, honeypots.head(needed)])
     
     print("Sorting by predicted score...")
     clean_df = clean_df.sort_values(by=["predicted_score", "candidate_id"], ascending=[False, True])
