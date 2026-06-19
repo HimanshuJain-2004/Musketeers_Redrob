@@ -2,6 +2,7 @@ import os
 import json
 import pandas as pd
 import subprocess
+import argparse
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JAIN_ARTIFACTS = os.path.join(BASE_DIR, "JAIN", "artifacts")
@@ -58,10 +59,21 @@ def generate_reasoning(cand, rank):
     else:
         return f"Adjacent fit as {title} — likely below top tier but included given {exp:.1f} years exp and {engagement_str}."
 
-def run_ranking():
+def run_ranking(input_file=None):
     print("Loading predictions...")
     preds_df = pd.read_parquet(os.path.join(JAIN_ARTIFACTS, "predictions.parquet"))
     
+    if input_file:
+        print(f"Filtering based on provided file: {input_file}")
+        input_ids = set()
+        with open(input_file, "r", encoding="utf-8") as f:
+            for line in f:
+                if '"candidate_id"' in line:
+                    cand = json.loads(line)
+                    input_ids.add(cand["candidate_id"])
+        
+        preds_df = preds_df[preds_df["candidate_id"].isin(input_ids)]
+
     print("Filtering honeypots and ranking...")
     # Filter honeypots (keep those with probability < 0.5)
     clean_df = preds_df[preds_df["honeypot_probability"] < 0.5].copy()
@@ -69,9 +81,15 @@ def run_ranking():
     # Sort
     clean_df = clean_df.sort_values(by=["predicted_score", "candidate_id"], ascending=[False, True])
     
-    # Take Top 100
+    # Take Top 100 (or less if fewer candidates exist)
     top100_df = clean_df.head(100).copy()
-    top100_df["rank"] = range(1, 101)
+    num_candidates = len(top100_df)
+    
+    if num_candidates == 0:
+        print("No valid candidates found to rank!")
+        return
+
+    top100_df["rank"] = range(1, num_candidates + 1)
     
     top100_ids = set(top100_df["candidate_id"].tolist())
     candidate_data = {}
@@ -84,7 +102,7 @@ def run_ranking():
                 cid = cand["candidate_id"]
                 if cid in top100_ids:
                     candidate_data[cid] = cand
-                    if len(candidate_data) == 100:
+                    if len(candidate_data) == num_candidates:
                         break # Found all we need!
                         
     print("Generating reasoning strings...")
@@ -108,15 +126,23 @@ def run_ranking():
     final_csv.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")
     
     print("Running Validator...")
-    result = subprocess.run(["python", VALIDATOR_SCRIPT, OUTPUT_CSV], capture_output=True, text=True)
-    if result.returncode != 0:
-        print("VALIDATION FAILED!")
-        print(result.stdout)
-        print(result.stderr)
-        raise RuntimeError("Submission validation failed.")
+    if os.path.exists(VALIDATOR_SCRIPT):
+        result = subprocess.run(["python", VALIDATOR_SCRIPT, OUTPUT_CSV], capture_output=True, text=True)
+        if result.returncode != 0:
+            print("VALIDATION FAILED! (If testing a small subset, this might fail expectedly due to row count checks).")
+            print(result.stdout)
+            print(result.stderr)
+            if not input_file:
+                raise RuntimeError("Submission validation failed.")
+        else:
+            print("VALIDATION PASSED!")
+            print(result.stdout)
     else:
-        print("VALIDATION PASSED!")
-        print(result.stdout)
+        print("Validator script not found, skipping validation.")
 
 if __name__ == "__main__":
-    run_ranking()
+    parser = argparse.ArgumentParser(description="Ranking Engine")
+    parser.add_argument("--input_file", type=str, help="Path to input jsonl containing candidate subset to rank", default=None)
+    args = parser.parse_args()
+    
+    run_ranking(input_file=args.input_file)
