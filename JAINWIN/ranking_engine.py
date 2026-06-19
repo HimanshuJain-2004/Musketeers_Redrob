@@ -44,13 +44,13 @@ def generate_reasoning(cand, rank):
     skill_str = "no core AI skills listed"
     if len(matched_ai_skills) > 0:
         top_skills = matched_ai_skills[:2]
-        skill_str = f"strong in {', '.join(top_skills)} (out of {len(matched_ai_skills)} AI skills)"
+        skill_str = f"strong in {', '.join(top_skills)}"
         
     engagement_str = f"response rate {response_rate:.2f}"
-    if notice > 60:
-        engagement_str += f", high notice period ({notice} days)"
-    elif notice <= 30:
-        engagement_str += ", available immediately/sub-30 days"
+    # if notice > 60:
+    #     engagement_str += f", high notice period ({notice} days)"
+    # elif notice <= 30:
+    #     engagement_str += ", available immediately/sub-30 days"
         
     if rank <= 10:
         return f"{title} with {exp:.1f} years experience; {skill_str}; {engagement_str} and {loc}-based."

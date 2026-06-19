@@ -9,52 +9,31 @@ PIYUSH_ARTIFACTS = os.path.join(BASE_DIR, "PIYUSH", "artifacts")
 JAIN_ARTIFACTS = os.path.join(BASE_DIR, "JAIN", "artifacts")
 MODELS_DIR = os.path.join(JAIN_ARTIFACTS, "models")
 CANDIDATES_JSONL_MAIN = os.path.join(BASE_DIR, "candidates.jsonl")
-OUTPUT_CSV = os.path.join(BASE_DIR, "final_ranked_candidates.csv")
+OUTPUT_CSV = os.path.join(BASE_DIR, "team_musketeers.csv")
 #hello
-AI_SKILLS_KEYWORDS = {
-    "machine learning", "deep learning", "nlp", "computer vision", 
-    "llm", "generative ai", "rag", "pytorch", "tensorflow", 
-    "vector database", "pinecone", "weaviate", "qdrant", "milvus", 
-    "opensearch", "faiss", "bge", "e5", "sentence-transformers", 
-    "openai", "lora", "qlora", "peft", "xgboost", "lightgbm", "catboost"
+FEATURE_NAME_MAP = {
+    'years_exp': 'Years of Experience',
+    'experience_score': 'Senior-level Experience',
+    'skill_match_count': 'Skill Match',
+    'skill_coverage': 'Skill Coverage',
+    'title_score': 'Title Relevance',
+    'education_score': 'Educational Background',
+    'location_score': 'Location Alignment',
+    'product_company_score': 'Product Company Experience',
+    'consulting_penalty': 'Consulting Background',
+    'retrieval_score': 'Resume Relevance',
+    'availability_score': 'Availability',
+    'recruitability_score': 'Recruitability',
+    'market_demand_score': 'Market Demand',
+    'trust_score': 'Trust Score',
+    'technical_credibility_score': 'Technical Credibility',
+    'mobility_score': 'Mobility',
+    'days_since_active': 'Recent Platform Activity',
+    'notice_period_days': 'Notice Period',
+    'github_activity_score': 'GitHub Activity',
+    'avg_assessment_score': 'Behavioral Assessment Score',
+    'semantic_score': 'Semantic Job Description Match'
 }
-
-def generate_reasoning(cand, rank):
-    profile = cand.get("profile", {})
-    title = profile.get("current_title", "Candidate")
-    exp = profile.get("years_of_experience", 0)
-    loc = profile.get("location", "Unknown Location")
-    
-    # Analyze Skills
-    raw_skills = cand.get("skills", [])
-    matched_ai_skills = []
-    for skill in raw_skills:
-        skill_name = skill.get("name", "").lower()
-        if any(keyword in skill_name for keyword in AI_SKILLS_KEYWORDS):
-            matched_ai_skills.append(skill.get("name"))
-    
-    # Analyze Signals
-    signals = cand.get("redrob_signals", {})
-    response_rate = signals.get("recruiter_response_rate", 0)
-    notice = signals.get("notice_period_days", 0)
-    
-    skill_str = "no core AI skills listed"
-    if len(matched_ai_skills) > 0:
-        top_skills = matched_ai_skills[:2]
-        skill_str = f"strong in {', '.join(top_skills)} (out of {len(matched_ai_skills)} AI skills)"
-        
-    engagement_str = f"response rate {response_rate:.2f}"
-    if notice > 60:
-        engagement_str += f", high notice period ({notice} days)"
-    elif notice <= 30:
-        engagement_str += ", available immediately/sub-30 days"
-        
-    if rank <= 10:
-        return f"{title} with {exp:.1f} years experience; {skill_str}; {engagement_str} and {loc}-based."
-    elif rank <= 90:
-        return f"{exp:.1f} years applied experience; {skill_str}; matches profile requirements with {engagement_str}."
-    else:
-        return f"Adjacent fit as {title} — likely below top tier but included given {exp:.1f} years exp and {engagement_str}."
 
 def main(input_file=None):
     print("Loading precomputed features from PIYUSH artifacts...")
@@ -148,13 +127,33 @@ def main(input_file=None):
                         if len(missing_ids.intersection(candidate_raw_data.keys())) == len(missing_ids):
                             break
                             
-    print("Generating reasoning explanations...")
+    print("Generating professional reasoning explanations using Z-scores...")
+    mean_vals = df[feature_cols].mean()
+    std_vals = df[feature_cols].std().fillna(1).replace(0, 1) # avoid div by zero / NaN for single row
+    
     reasoning_list = []
     for idx, row in top_df.iterrows():
         cid = row["candidate_id"]
         rank = row["rank"]
-        cand = candidate_raw_data.get(cid, {})
-        reasoning = generate_reasoning(cand, rank)
+        
+        # Calculate top 3 features for this candidate based on z-scores
+        orig_row = df[df["candidate_id"] == cid].iloc[0]
+        z_scores = (orig_row[feature_cols] - mean_vals) / std_vals
+        top_3 = z_scores.sort_values(ascending=False).head(3).index.tolist()
+        feats = [FEATURE_NAME_MAP.get(f, f.replace('_', ' ').title()) for f in top_3]
+        
+        # Extract raw candidate properties
+        c = candidate_raw_data.get(cid, {})
+        profile = c.get('profile', {})
+        years = profile.get('years_of_experience', 'several')
+        title = profile.get('current_title', 'Professional')
+        loc = profile.get('location', 'their location')
+        
+        skills = c.get('skills', [])
+        top_skills = [s['name'] for s in skills[:3]]
+        skills_str = ", ".join(top_skills) if top_skills else "relevant tools"
+        
+        reasoning = f"Standout applicant driven by {years} years of experience as a {title}, strong technical match ({skills_str}) in {loc}. Ranked highly due to outstanding {feats[0]}, {feats[1]}, and {feats[2]}."
         reasoning_list.append(reasoning)
         
     top_df["reasoning"] = reasoning_list

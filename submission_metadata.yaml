@@ -20,9 +20,9 @@ team_members:
     role: "Data Scientist"
 
 github_repo: "https://github.com/HimanshuJain-2004/Musketeers_Redrob.git"
-sandbox_link: "https://colab.research.google.com/drive/1MibwyA3-A6kKgGC9QF_50VfctgLi7-ks?usp=sharing"
+sandbox_link: "https://colab.research.google.com/drive/1zcFMnETOqNdsXaNGLv2kxg2v4FbQutes?usp=sharing"
 
-reproduce_command: "python JAINWIN/ranking_engine.py"
+reproduce_command: "!python rank.py --input_file sample_candidates_100.jsonl"
 
 compute:
   platform: "Windows 11"
@@ -37,14 +37,11 @@ compute:
 
 ai_tools_used:
   - "Gemini"
-  - "Claude" # If used previously
-  - "GitHub Copilot" # If used
 
 ai_usage_summary: |
-  We used Gemini for extensive architectural code review, analyzing hackathon specifications, debugging pipeline issues, and formulating the submission metadata. AI was strictly used as a development assistant; no candidate data was fed into any hosted LLM APIs during the actual inference and ranking steps, which run entirely locally on CPU.
-
+ We used Gemini extensively during our initial phase for zero-shot, recruiter-style labeling on a 1,500 candidate training sample to generate ground-truth scores. We also utilized Gemini and coding assistants for pipeline architecture design, Pandas dataframe manipulation, and generating Python scripts for our ExtraTreesRegressor benchmarking and final string reasoning generation.
 methodology_summary: |
-  Our pipeline is a multi-phase, locally executable machine learning system. Phase 1 extracts candidate features, calculating semantic similarities against the JD and deriving behavioral signals. Phase 2 utilizes an ensemble of ExtraTrees, LGBM, and XGBoost regressor models to predict technical fit scores, alongside a dedicated classifier to explicitly identify and filter out honeypot profiles. Phase 3 executes the final ranking, applying a hard threshold against honeypot probabilities (<0.5) and extracting the top 100. Deterministic reasoning strings are automatically generated based on the top candidate skills and engagement signals without relying on external LLMs.
+  We built a hybrid machine-learning pipeline optimizing for real-world recruiter logic while strictly adhering to the 5-minute offline CPU constraint. First, we sampled 1,500 diverse candidates and used LLMs offline to evaluate their fit against the JD, generating composite recruiter scores and identifying honeypots. We then trained an ExtraTreesRegressor on these LLM-generated labels using precomputed embeddings, semantic scores, and behavioral features. For the final top 100 ranking, the ExtraTrees model scored the candidates entirely offline. Finally, a custom streaming JSONL parser dynamically extracted raw, unscaled candidate data (e.g., actual skills, years of experience) to generate human-readable, fact-based reasoning strings for our final submission.
 
 declarations:
   read_submission_spec: true
