@@ -1,67 +1,70 @@
 # India Runs Data and AI Challenge - Team Musketeers
 
-This repository contains the end-to-end pipeline for the AI Challenge, encompassing data preprocessing, model training, and final ranking & reasoning generation for the top 100 candidate submissions.
+This repository contains the end-to-end pipeline for the AI Challenge, encompassing data preprocessing, model training, and final ranking & reasoning generation for the candidate submissions.
 
-The repository is modularized into three core phases owned by different pipeline components: **PIYUSH**, **JAIN**, and **JAINWIN**.
+The repository is modularized into three core phases: **feature_engineering**, **modeling**, and **reasoning**, all orchestrated by a single root execution script.
 
 ---
 
-## 🏗️ Phase 1: PIYUSH (Data Preprocessing & Feature Engineering)
-**Directory**: `PIYUSH/`
+## 🏗️ Phase 1: feature_engineering (Data Preprocessing)
+**Directory**: `feature_engineering/`
 
-The PIYUSH module handles the initial raw data ingestion, candidate sampling, and complex feature extraction required to build a structured training dataset.
+The feature_engineering module handles the initial raw data ingestion, candidate sampling, and complex feature extraction required to build a structured training dataset.
 
 **Key Components:**
-- **Candidate Parsing:** Extracts semantic information from `candidates.jsonl`.
-- **Semantic Matching:** Generates embeddings and similarity scores (`semantic_scores.parquet`) between candidate resumes and the target Job Description (`jd_requirements.json`).
-- **Behavioral Scoring:** Processes `redrob_signals` to calculate behavioral and reliability metrics (`behavior_features.parquet`).
-- **Feature Store:** Outputs the finalized, merged features (`candidate_features.parquet`) ready for modeling.
+- Extracts semantic information and generates embeddings between candidate resumes and target job descriptions.
+- Processes behavioral signals to calculate reliability metrics.
+- Outputs the finalized, merged features (`feature_engineering/artifacts/merged_features.parquet`) ready for modeling and inference.
 
 ---
 
-## 🤖 Phase 2: JAIN (Model Training & Inference)
-**Directory**: `JAIN/`
+## 🤖 Phase 2: modeling (Model Training & Inference)
+**Directory**: `modeling/`
 
-The JAIN module is responsible for the core Machine Learning architecture, specifically optimizing for accurate candidate scoring and honeypot detection.
+The modeling module is responsible for the core Machine Learning architecture, specifically optimizing for highly generalizable, accurate candidate scoring using a regularized XGBoost Regressor.
 
 **Key Components:**
-- **Honeypot Classifier:** Trains a robust model to filter out invalid or low-effort applications (`train_honeypot_classifier.py`).
-- **Comprehensive Benchmarking:** Evaluates multiple regressors and rankers (RandomForest, LightGBM, CatBoost, HistGradientBoosting) alongside a deeply tuned `CustomEnsemble` composed of ExtraTrees, LGBM, and XGBoost (`comprehensive_benchmarking.py`).
-- **Full Dataset Prediction:** Executes inference across the entire 100k candidate pool using the globally optimal model (`full_dataset_prediction.py`), outputting raw scores and honeypot probabilities into `predictions.parquet`.
+- **Training Script (`modeling/training/train_xgboost_model.py`):** Trains the core XGBoost Regressor against 70 heavily curated features to predict candidate performance.
+- **Methodology & Experiments:** The `labeling/`, `prompts/`, `sampling/`, and `evaluation/` directories contain the exact methodology used to generate ground truth labels via LLMs, sample the data, and rigorously benchmark different model architectures before arriving at the final XGBoost solution.
+- **Model Artifacts:** The trained weights are stored as `xgboost_ranking_model.pkl` and the input schema as `model_feature_schema.json` within the `artifacts/` folder.
 
 ---
 
-## 🏆 Phase 3: JAINWIN (Final Ranking & Reasoning)
-**Directory**: `JAINWIN/`
+## 🏆 Phase 3: reasoning (Advanced Candidate Profiling)
+**Directory**: `reasoning/`
 
-The JAINWIN module (formerly BHAVIT) handles the final business logic, enforcing the competition rules, filtering out honeypots, and constructing the official hackathon submission.
+The reasoning module generates dynamic, professional, recruiter-ready justification text for each ranked candidate.
 
 **Key Components:**
-- **Ranking Engine:** Loads the full predictions, automatically drops candidate profiles with a high honeypot probability, and ranks the remaining candidates to extract the elite Top 100 (`ranking_engine.py`).
-- **Reasoning Generation:** Dynamically interrogates the raw `candidates.jsonl` data to craft human-readable, highly professional recruiter-style reasoning strings based on the candidate's actual top 3 technical drivers and traits.
-- **Submission Output:** Outputs the completely compliant, strictly validated hackathon file (`team_musketeers.csv`).
+- **Adaptive Generation:** Dynamically profiles candidates by mapping their absolute scores against pool percentiles to classify the pool quality (e.g., `NORMAL`, `OUTLIER`, `WEAK`).
+- **Contextual Reasoning:** Crafts human-readable strings explaining exactly why a candidate was ranked highly based on their top technical traits and experience levels.
 
 ---
 
-## 🚀 How to Run the Pipeline
+## 🚀 Execution Engine: `Rank.py`
 
-1. **Extract Features (PIYUSH):** Run the extraction scripts inside the PIYUSH directory to generate the initial parquet artifacts.
-2. **Train Models (JAIN):** 
-   ```bash
-   python JAIN/training/train_honeypot_classifier.py
-   python JAIN/training/comprehensive_benchmarking.py
-   ```
-3. **Run Inference (JAIN):**
-   ```bash
-   python JAIN/inference/full_dataset_prediction.py
-   ```
-4. **Generate Final Submission (JAINWIN):**
-   ```bash
-   python JAINWIN/ranking_engine.py
-   ```
-   *This automatically creates `JAINWIN/artifacts/team_musketeers.csv` and executes the hackathon's `validate_submission.py` to guarantee compliance.*
+The entire pipeline has been unified into a single, robust execution script: **`Rank.py`**.
+
+`Rank.py` automatically handles:
+1. Loading the XGBoost model and candidate features.
+2. Scoring the candidates using the `xgboost_ranking_model.pkl`.
+3. Validating the top predictions by verifying their performance across the entire 70-feature space (automatically swapping out mathematically "weak" candidates for well-rounded ones).
+4. Generating dynamic reasoning via the `reasoning` module.
+5. Outputting the completely compliant, strictly validated hackathon file: `team_musketeers.csv`.
+
+### How to Run:
+To generate the final submission CSV from the candidates list, simply run:
+```bash
+python Rank.py
+```
+*(You can also rank subsets by passing `--input_file <your_subset.jsonl>`)*
+
+To validate the final submission against the competition rules:
+```bash
+python validate_submission.py team_musketeers.csv
+```
 
 ---
 
 ## 📂 Project Structure Note
-> All raw, unstructured instruction files, previous specs, and loose `.docx` / `.txt` files have been moved into the `archive/` directory to maintain a clean root environment for final auditing.
+> All old experimental scripts, previous checkpoints, and raw unstructured files have been moved into the `archive/` directory to maintain a clean root environment for final auditing.

@@ -6,10 +6,19 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.pytest_cache/
+
+# IDEs and Editor files
+.vscode/
+.idea/
+.DS_Store
 
 # Large Data Files (Ensure you don't accidentally push the 487MB candidates list)
 candidates.jsonl
 *.npy
+
+# Temporary and archived files
+archive/
 test_keys.py
 *keys.json
 keys.py

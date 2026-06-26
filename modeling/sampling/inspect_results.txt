@@ -1,0 +1,298 @@
+================================================================================
+CANDIDATE ID: CAND_0098846
+Current Title: AI Engineer | Years Exp: 7.6
+Headline: AI Engineer | Search, Ranking & Retrieval
+Summary: Machine learning engineer with 7.6 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I've been the de-facto ML lead on a small team, shipping models across NLP and recsys. Along the way I've gotten comfortable with the operational side — A/B testing, drift monitoring, retraining schedules. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+Skills: ['YOLO', 'Kubeflow', 'Hugging Face Transformers', 'Hadoop', 'PEFT', 'QLoRA', 'Machine Learning', 'MLOps', 'Qdrant', 'Haystack', 'LlamaIndex', 'TensorFlow', 'Recommendation Systems', 'Speech Recognition', 'Photoshop', 'Azure', 'BentoML', 'TTS']
+Education: [{'institution': 'IIT Kanpur', 'degree': 'Ph.D', 'field_of_study': 'Machine Learning', 'start_year': 2009, 'end_year': 2013, 'grade': '7.56 CGPA', 'tier': 'tier_1'}]
+Career History:
+ - Title: AI Engineer at upGrad (25 mos)
+   Desc: Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+ - Title: Machine Learning Engineer at Meesho (20 mos)
+   Desc: Built and operated production ML pipelines using MLflow for experiment tracking, Kubeflow for orchestration, and our internal feature store. My main project was a churn prediction model that's now used by the customer success team to prioritize outreach. Designed the model monitoring stack: data drift detection, prediction distribution checks, and alerting. Mentored a junior engineer through their first end-to-end ML project last year.
+ - Title: Search Engineer at Swiggy (19 mos)
+   Desc: Implemented a RAG-based customer support chatbot integrated with our existing ticketing system. Built the document ingestion pipeline (chunking, embedding via OpenAI embeddings, storing in Pinecone) and the answer-generation layer (initially GPT-4, then a fine-tuned smaller model for cost control). Designed the evaluation framework with both automatic metrics (BLEU, ROUGE) and human-in-the-loop quality scores. Deployment cut average ticket resolution time by 31% for the supported categories.
+ - Title: Search Engineer at Google (26 mos)
+   Desc: Built and operated production ML pipelines using MLflow for experiment tracking, Kubeflow for orchestration, and our internal feature store. My main project was a churn prediction model that's now used by the customer success team to prioritize outreach. Designed the model monitoring stack: data drift detection, prediction distribution checks, and alerting. Mentored a junior engineer through their first end-to-end ML project last year.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0093912
+Current Title: Senior Data Scientist | Years Exp: 5.3
+Headline: Senior Data Scientist | Search, Ranking & Retrieval
+Summary: Machine learning engineer with 5.3 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I care a lot about evaluation rigor — too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+Skills: ['Feature Engineering', 'SAP', 'CNN', 'Milvus', 'Embeddings', 'Recommendation Systems', 'Vector Search', 'Haystack', 'Sales', 'Learning to Rank', 'Elasticsearch', 'FastAPI', 'Forecasting']
+Education: [{'institution': 'RV College of Engineering', 'degree': 'B.Sc', 'field_of_study': 'Computer Science', 'start_year': 2013, 'end_year': 2017, 'grade': '6.52 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: Senior Data Scientist at Razorpay (27 mos)
+   Desc: Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+ - Title: Search Engineer at Flipkart (19 mos)
+   Desc: Developed a semantic search feature for an internal knowledge base of ~500K documents. Used sentence-transformers (all-MiniLM-L6-v2 initially, later upgraded to bge-base) with FAISS for fast nearest-neighbor retrieval. Designed the query expansion module that handles vocabulary mismatch between user queries and document terms. Reported search-relevance improvement of 35% over the prior Elasticsearch BM25 setup, validated through human relevance judgments.
+ - Title: AI Engineer at Apple (16 mos)
+   Desc: Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0093547
+Current Title: Senior Machine Learning Engineer | Years Exp: 2.9
+Headline: Senior Machine Learning Engineer | Building AI-native search & ranking systems
+Summary: Senior AI engineer with 6.3 years of hands-on experience building production ML systems, with a focus on search, retrieval, and ranking. Most recently, I rebuilt the candidate-JD matching pipeline from scratch, taking it from 0.72 to 0.91 NDCG@10, handling peak QPS of 8K with sub-200ms p95. My day-to-day work spans embedding model selection and fine-tuning, hybrid retrieval architecture, learning-to-rank, behavioral-signal integration, and the offline/online evaluation that ties it all together. I've shipped systems in both early-stage product companies and at larger scale, and I've spent enough time on both that I know which tradeoffs apply where. I believe most ranking problems are solved by careful feature engineering and rigorous eval, not by bigger models. Currently exploring my next move — looking for senior IC or tech-lead roles where I can own the intelligence layer end-to-end.
+Skills: ['LLMs', 'RAG', 'Python', 'QLoRA', 'Kubeflow', 'PEFT', 'GANs', 'Machine Learning', 'Diffusion Models', 'PyTorch', 'Haystack', 'Milvus', 'FAISS', 'Learning to Rank', 'TensorFlow', 'Apache Flink', 'scikit-learn', 'SEO', 'Weaviate', 'Reinforcement Learning', 'Information Retrieval']
+Education: [{'institution': 'UC Berkeley', 'degree': 'M.S.', 'field_of_study': 'Data Science', 'start_year': 2017, 'end_year': 2022, 'grade': '8.43 CGPA', 'tier': 'tier_1'}]
+Career History:
+ - Title: Senior Machine Learning Engineer at PhonePe (22 mos)
+   Desc: Owned the end-to-end ranking pipeline at a recommendations-heavy consumer product: candidate sourcing → embedding generation (using a fine-tuned BGE-large) → Pinecone retrieval → learning-to-rank re-scoring (XGBoost) → behavioral-signal integration. The hardest part wasn't the ML — it was the evaluation: building offline metrics that actually predicted what the recommendation would do to live engagement. After three iterations we landed on a calibration approach using simulated A/B tests that has held up over the last 18 months.
+ - Title: Senior Machine Learning Engineer at Sarvam AI (43 mos)
+   Desc: Fine-tuned LLaMA-2-7B and Mistral-7B variants using LoRA and QLoRA for domain-specific candidate-JD matching. Built the data curation pipeline that generated 200K high-quality preference pairs from recruiter labels, plus the eval harness using both ranking metrics and human-quality scores. Deployed the model via BentoML on Kubernetes with sub-200ms p95 latency by quantizing to INT8 and batching at the request level. Cost per inference dropped from $0.04 with GPT-3.5-fallback to under $0.001.
+ - Title: Lead AI Engineer at Aganitha (9 mos)
+   Desc: Fine-tuned LLaMA-2-7B and Mistral-7B variants using LoRA and QLoRA for domain-specific candidate-JD matching. Built the data curation pipeline that generated 200K high-quality preference pairs from recruiter labels, plus the eval harness using both ranking metrics and human-quality scores. Deployed the model via BentoML on Kubernetes with sub-200ms p95 latency by quantizing to INT8 and batching at the request level. Cost per inference dropped from $0.04 with GPT-3.5-fallback to under $0.001.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0061175
+Current Title: AI Research Engineer | Years Exp: 6.7
+Headline: AI Research Engineer | Building ML-powered solutions
+Summary: Data scientist / ML engineer with 6.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+Skills: ['Python', 'Milvus', 'Recommendation Systems', 'Vector Search', 'LlamaIndex', 'Azure', 'MLOps', 'Data Science', 'TTS', 'Speech Recognition', 'Qdrant', 'Sales', 'Sentence Transformers']
+Education: [{'institution': 'Symbiosis International', 'degree': 'M.E.', 'field_of_study': 'Machine Learning', 'start_year': 2009, 'end_year': 2014, 'grade': '90%', 'tier': 'tier_3'}]
+Career History:
+ - Title: AI Research Engineer at Haptik (24 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ - Title: Junior ML Engineer at Mad Street Den (24 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ - Title: Data Scientist at Haptik (32 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0039308
+Current Title: AI Research Engineer | Years Exp: 5.6
+Headline: AI Research Engineer | 5.6 yrs in analytics & ML
+Summary: Data scientist / ML engineer with 5.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+Skills: ['SEO', 'ASR', 'Time Series', 'GANs', 'TTS', 'Haystack', 'LangChain', 'Kafka', 'Forecasting', 'Information Retrieval', 'Project Management', 'Python', 'OpenSearch', 'Reinforcement Learning', 'Feature Engineering']
+Education: [{'institution': 'Delhi College of Engineering', 'degree': 'Ph.D', 'field_of_study': 'Commerce', 'start_year': 2012, 'end_year': 2015, 'grade': '8.93 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: AI Research Engineer at BYJU'S (38 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ - Title: Computer Vision Engineer at Dream11 (28 mos)
+   Desc: Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0060257
+Current Title: AI Specialist | Years Exp: 5.8
+Headline: AI Specialist | Building ML-powered solutions
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+Skills: ['Recommendation Systems', 'Diffusion Models', 'BigQuery', 'Terraform', 'Vector Search', 'Milvus', 'Prompt Engineering', 'GANs', 'Data Science', 'SQL', 'LangChain', 'Next.js', 'OpenSearch', 'Weaviate', 'Feature Engineering', 'MLflow']
+Education: [{'institution': 'Thapar University', 'degree': 'M.Tech', 'field_of_study': 'Mechanical Engineering', 'start_year': 2006, 'end_year': 2010, 'grade': '82%', 'tier': 'tier_2'}, {'institution': 'Bharati Vidyapeeth', 'degree': 'M.E.', 'field_of_study': 'Statistics', 'start_year': 2002, 'end_year': 2007, 'grade': '91%', 'tier': 'tier_3'}]
+Career History:
+ - Title: AI Specialist at Paytm (39 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+ - Title: AI Research Engineer at CRED (30 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0006354
+Current Title: Data Scientist | Years Exp: 4.5
+Headline: Data Scientist | Building ML-powered solutions
+Summary: Data scientist / ML engineer with 4.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+Skills: ['YOLO', 'Rust', 'LangChain', 'PEFT', 'MLOps', 'Information Retrieval', 'MLflow', 'Elasticsearch', 'Forecasting', 'Python', 'scikit-learn', 'CI/CD', 'GANs', 'LLMs', 'SEO', 'Pinecone', 'AWS']
+Education: [{'institution': 'KIIT University', 'degree': 'M.Tech', 'field_of_study': 'Mechanical Engineering', 'start_year': 2005, 'end_year': 2009, 'grade': '9.23 CGPA', 'tier': 'tier_3'}]
+Career History:
+ - Title: Data Scientist at Tech Mahindra (15 mos)
+   Desc: Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+ - Title: Computer Vision Engineer at Saarthi.ai (27 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ - Title: AI Research Engineer at Razorpay (10 mos)
+   Desc: Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0015057
+Current Title: ML Engineer | Years Exp: 4.6
+Headline: ML Engineer | 4.6 yrs in analytics & ML
+Summary: Data scientist / ML engineer with 4.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+Skills: ['Sentence Transformers', 'Figma', 'Computer Vision', 'Vector Search', 'Spark', 'Embeddings', 'PEFT', 'Tailwind', 'MLflow', 'Image Classification', 'Speech Recognition', 'Semantic Search', 'QLoRA', 'OpenCV', 'Qdrant', 'CNN']
+Education: [{'institution': 'Jadavpur University', 'degree': 'M.S.', 'field_of_study': 'Machine Learning', 'start_year': 2006, 'end_year': 2010, 'grade': '8.94 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: ML Engineer at Meesho (39 mos)
+   Desc: Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+ - Title: Junior ML Engineer at Wysa (15 mos)
+   Desc: Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0030827
+Current Title: Senior Data Scientist | Years Exp: 5.4
+Headline: Senior Data Scientist | Search, Ranking & Retrieval
+Summary: Machine learning engineer with 5.4 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+Skills: ['Hugging Face Transformers', 'NLP', 'Recommendation Systems', 'FAISS', 'Reinforcement Learning', 'CSS', 'LlamaIndex', 'TTS', 'Qdrant', 'BM25', 'Sentence Transformers', 'Semantic Search', 'Object Detection', 'Learning to Rank', 'LangChain', 'Prompt Engineering']
+Education: [{'institution': 'Jadavpur University', 'degree': 'M.S.', 'field_of_study': 'Computer Engineering', 'start_year': 2009, 'end_year': 2013, 'grade': '7.64 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: Senior Data Scientist at Freshworks (27 mos)
+   Desc: Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+ - Title: NLP Engineer at Glance (37 mos)
+   Desc: Developed a semantic search feature for an internal knowledge base of ~500K documents. Used sentence-transformers (all-MiniLM-L6-v2 initially, later upgraded to bge-base) with FAISS for fast nearest-neighbor retrieval. Designed the query expansion module that handles vocabulary mismatch between user queries and document terms. Reported search-relevance improvement of 35% over the prior Elasticsearch BM25 setup, validated through human relevance judgments.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0044222
+Current Title: AI Engineer | Years Exp: 7.7
+Headline: AI Engineer | ML, NLP, Recommendation Systems
+Summary: Machine learning engineer with 7.7 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor — too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+Skills: ['Vector Search', 'LlamaIndex', 'OpenSearch', 'Java', 'Qdrant', 'Feature Engineering', 'Time Series', 'Weaviate', 'Content Writing', 'NLP', 'BM25', 'Deep Learning', 'LangChain', 'Hugging Face Transformers', 'Fine-tuning LLMs', 'ASR', 'Diffusion Models', 'QLoRA', 'Hadoop']
+Education: [{'institution': 'IISc Bangalore', 'degree': 'M.Sc', 'field_of_study': 'Machine Learning', 'start_year': 2017, 'end_year': 2021, 'grade': '7.28 CGPA', 'tier': 'tier_1'}]
+Career History:
+ - Title: AI Engineer at PolicyBazaar (49 mos)
+   Desc: Developed a semantic search feature for an internal knowledge base of ~500K documents. Used sentence-transformers (all-MiniLM-L6-v2 initially, later upgraded to bge-base) with FAISS for fast nearest-neighbor retrieval. Designed the query expansion module that handles vocabulary mismatch between user queries and document terms. Reported search-relevance improvement of 35% over the prior Elasticsearch BM25 setup, validated through human relevance judgments.
+ - Title: AI Engineer at InMobi (43 mos)
+   Desc: Trained and shipped multiple ranking models for our product's discovery feed using XGBoost and LightGBM. Designed features across three families: content metadata, user behavior signals, and item engagement history. Owned the offline-online correlation analysis that determined which offline metrics actually predicted A/B test outcomes. Worked closely with PMs to define the optimization target (click-through vs. dwell time vs. downstream conversion) — that work was as important as the modeling itself.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0052827
+Current Title: Data Scientist | Years Exp: 5.9
+Headline: Data Scientist | Building ML-powered solutions
+Summary: Data scientist / ML engineer with 5.9 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.
+Skills: ['Forecasting', 'Semantic Search', 'RAG', 'QLoRA', 'TTS', 'Learning to Rank', 'Speech Recognition', 'Statistical Modeling', 'Time Series', 'NLP', 'Excel', 'Information Retrieval', 'FAISS', 'Image Classification', 'pgvector', 'ASR']
+Education: [{'institution': 'Bharati Vidyapeeth', 'degree': 'B.Tech', 'field_of_study': 'Data Science', 'start_year': 2004, 'end_year': 2007, 'grade': '9.23 CGPA', 'tier': 'tier_3'}]
+Career History:
+ - Title: Data Scientist at Genpact AI (33 mos)
+   Desc: Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+ - Title: Senior Software Engineer (ML) at CRED (37 mos)
+   Desc: Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0064130
+Current Title: AI Research Engineer | Years Exp: 6.7
+Headline: AI Research Engineer | 6.7 yrs in analytics & ML
+Summary: Data scientist / ML engineer with 6.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+Skills: ['LoRA', 'Object Detection', 'Weights & Biases', 'Python', 'CNN', 'PyTorch', 'Photoshop', 'Haystack', 'SEO', 'MLflow', 'YOLO', 'Reinforcement Learning', 'Data Science', 'Time Series', 'scikit-learn']
+Education: [{'institution': 'Amity University', 'degree': 'M.S.', 'field_of_study': 'Artificial Intelligence', 'start_year': 2001, 'end_year': 2005, 'grade': '7.61 CGPA', 'tier': 'tier_3'}]
+Career History:
+ - Title: AI Research Engineer at Unacademy (31 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ - Title: Computer Vision Engineer at HCL (36 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+ - Title: AI Specialist at Tech Mahindra (13 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0064904
+Current Title: AI Engineer | Years Exp: 4.9
+Headline: AI Engineer | ML, NLP, Recommendation Systems
+Summary: Machine learning engineer with 4.9 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+Skills: ['Embeddings', 'Hugging Face Transformers', 'Elasticsearch', 'Diffusion Models', 'Forecasting', 'FastAPI', 'Prompt Engineering', 'LLMs', 'Python', 'MLOps', 'TensorFlow', 'Weaviate', 'Vector Search', 'Recommendation Systems', 'OpenSearch', 'Computer Vision']
+Education: [{'institution': 'RV College of Engineering', 'degree': 'B.Tech', 'field_of_study': 'Information Technology', 'start_year': 2005, 'end_year': 2009, 'grade': '9.12 CGPA', 'tier': 'tier_2'}, {'institution': 'Jadavpur University', 'degree': 'M.E.', 'field_of_study': 'Data Science', 'start_year': 2016, 'end_year': 2020, 'grade': '8.92 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: AI Engineer at LinkedIn (27 mos)
+   Desc: Built and operated production ML pipelines using MLflow for experiment tracking, Kubeflow for orchestration, and our internal feature store. My main project was a churn prediction model that's now used by the customer success team to prioritize outreach. Designed the model monitoring stack: data drift detection, prediction distribution checks, and alerting. Mentored a junior engineer through their first end-to-end ML project last year.
+ - Title: Applied ML Engineer at Freshworks (31 mos)
+   Desc: Built a content recommendation system serving 10M+ users that combined collaborative filtering with content-based ranking. The system uses item-item similarity (via sentence-transformer embeddings) for cold starts and a gradient-boosted model trained on engagement signals for warm users. Most of my time went into the feature pipeline (~200 features) and the A/B testing infrastructure. The launch improved 7-day retention by 6% and time spent per session by 14%.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0076995
+Current Title: AI Research Engineer | Years Exp: 4.4
+Headline: AI Research Engineer | Building ML-powered solutions
+Summary: Data scientist / ML engineer with 4.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+Skills: ['Time Series', 'Docker', 'Image Classification', 'Speech Recognition', 'TensorFlow', 'Reinforcement Learning', 'LlamaIndex', 'Semantic Search', 'scikit-learn', 'NLP', 'Prompt Engineering', 'Data Pipelines', 'Diffusion Models', 'PEFT', 'ASR']
+Education: [{'institution': 'Chandigarh University', 'degree': 'M.S.', 'field_of_study': 'Mechanical Engineering', 'start_year': 2013, 'end_year': 2018, 'grade': '6.90 CGPA', 'tier': 'tier_3'}, {'institution': 'VIT Chennai', 'degree': 'B.Sc', 'field_of_study': 'Chemical Engineering', 'start_year': 2013, 'end_year': 2017, 'grade': '7.44 CGPA', 'tier': 'tier_3'}]
+Career History:
+ - Title: AI Research Engineer at Haptik (45 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ - Title: AI Specialist at Rephrase.ai (7 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0095567
+Current Title: Data Scientist | Years Exp: 5.1
+Headline: Data Scientist | 5.1 yrs in analytics & ML
+Summary: Data scientist / ML engineer with 5.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+Skills: ['PyTorch', 'Milvus', 'Weaviate', 'REST APIs', 'Diffusion Models', 'Fine-tuning LLMs', 'GANs', 'FastAPI', 'CNN', 'PEFT', 'Semantic Search', 'Hugging Face Transformers', 'TTS']
+Education: [{'institution': 'SRM Chennai', 'degree': 'M.S.', 'field_of_study': 'Information Technology', 'start_year': 2009, 'end_year': 2012, 'grade': '7.52 CGPA', 'tier': 'tier_3'}]
+Career History:
+ - Title: Data Scientist at Genpact AI (46 mos)
+   Desc: Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+ - Title: Senior Software Engineer (ML) at PolicyBazaar (14 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0095619
+Current Title: NLP Engineer | Years Exp: 15.6
+Headline: NLP Engineer | Applied ML | Building intelligent products
+Summary: Machine learning engineer with 4.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+Skills: ['Feature Engineering', 'Pinecone', 'MLflow', 'Learning to Rank', 'scikit-learn', 'Hugging Face Transformers', 'NLP', 'Weaviate', 'Information Retrieval', 'Time Series', 'Figma', 'TTS', 'BM25', 'Sentence Transformers', 'Fine-tuning LLMs', 'Elasticsearch', 'YOLO']
+Education: [{'institution': 'NIT Warangal', 'degree': 'M.Sc', 'field_of_study': 'Machine Learning', 'start_year': 2017, 'end_year': 2022, 'grade': '76%', 'tier': 'tier_1'}]
+Career History:
+ - Title: NLP Engineer at Nykaa (50 mos)
+   Desc: Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0006833
+Current Title: AI Research Engineer | Years Exp: 5.7
+Headline: AI Research Engineer | Data Science & ML enthusiast
+Summary: Data scientist / ML engineer with 5.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.
+Skills: ['TensorFlow', 'Semantic Search', 'Deep Learning', 'Data Science', 'Weights & Biases', 'Object Detection', 'GANs', 'Java', 'NLP']
+Education: [{'institution': 'Jadavpur University', 'degree': 'B.E.', 'field_of_study': 'Machine Learning', 'start_year': 2010, 'end_year': 2013, 'grade': '7.69 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: AI Research Engineer at Mad Street Den (14 mos)
+   Desc: Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+ - Title: AI Specialist at Locobuzz (36 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ - Title: AI Specialist at BYJU'S (18 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0023076
+Current Title: AI Research Engineer | Years Exp: 3.7
+Headline: AI Research Engineer | Building ML-powered solutions
+Summary: Data scientist / ML engineer with 3.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+Skills: ['Learning to Rank', 'Node.js', 'Weights & Biases', 'TypeScript', 'OpenCV', 'ETL', 'SEO', 'LangChain', 'LoRA', 'Feature Engineering', 'YOLO', 'LlamaIndex', 'Kubeflow', 'Qdrant', 'Vector Search', 'BM25']
+Education: [{'institution': 'Anna University', 'degree': 'M.Tech', 'field_of_study': 'Computer Science', 'start_year': 2006, 'end_year': 2009, 'grade': '6.64 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: AI Research Engineer at Razorpay (44 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0057742
+Current Title: Junior ML Engineer | Years Exp: 4.2
+Headline: Junior ML Engineer | 4.2 yrs in analytics & ML
+Summary: Data scientist / ML engineer with 4.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.
+Skills: ['Diffusion Models', 'Feature Engineering', 'Forecasting', 'Computer Vision', 'TensorFlow', 'Scrum', 'FAISS', 'LangChain', 'OpenSearch', 'Information Retrieval', 'Recommendation Systems']
+Education: [{'institution': 'Anna University', 'degree': 'M.S.', 'field_of_study': 'Computer Engineering', 'start_year': 2015, 'end_year': 2018, 'grade': '7.65 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: Junior ML Engineer at Dream11 (28 mos)
+   Desc: Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+ - Title: Data Scientist at Verloop.io (21 mos)
+   Desc: Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0072020
+Current Title: Senior Software Engineer (ML) | Years Exp: 6.1
+Headline: Senior Software Engineer (ML) | Building ML-powered solutions
+Summary: Data scientist / ML engineer with 6.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+Skills: ['Speech Recognition', 'OpenCV', 'Statistical Modeling', 'LlamaIndex', 'JavaScript', 'Elasticsearch', 'Milvus', 'ASR', 'gRPC', 'Object Detection', 'Time Series', 'Deep Learning', 'Weights & Biases', 'YOLO']
+Education: [{'institution': 'IIT Kanpur', 'degree': 'M.E.', 'field_of_study': 'Computer Engineering', 'start_year': 2009, 'end_year': 2013, 'grade': '78%', 'tier': 'tier_1'}]
+Career History:
+ - Title: Senior Software Engineer (ML) at Freshworks (51 mos)
+   Desc: Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+ - Title: Data Scientist at Nykaa (21 mos)
+   Desc: Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0048690
+Current Title: Data Scientist | Years Exp: 3.8
+Headline: Data Scientist | 3.8 yrs in analytics & ML
+Summary: Data scientist / ML engineer with 3.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.
+Skills: ['Photoshop', 'Information Retrieval', 'Forecasting', 'Recommendation Systems', 'Statistical Modeling', 'MLOps', 'GANs', 'Data Pipelines', 'SAP', 'Diffusion Models', 'Image Classification', 'Accounting', 'Sentence Transformers', 'Weaviate', 'Data Science', 'Elasticsearch']
+Education: [{'institution': 'RV College of Engineering', 'degree': 'B.E.', 'field_of_study': 'Computer Engineering', 'start_year': 2014, 'end_year': 2018, 'grade': '7.43 CGPA', 'tier': 'tier_2'}]
+Career History:
+ - Title: Data Scientist at PhonePe (19 mos)
+   Desc: Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+ - Title: ML Engineer at Genpact AI (26 mos)
+   Desc: Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+================================================================================
+================================================================================
+CANDIDATE ID: CAND_0026677
+Current Title: Senior Software Engineer | Years Exp: 4.8
+Headline: Senior Software Engineer | 4.8+ yrs in data engineering
+Summary: Software / data professional with 4.8 years of experience building data pipelines, backend systems, and analytics infrastructure. Started my career in backend engineering and gradually moved closer to data — first dashboards, then ETL, now some basic ML. My toolkit is solid on the data engineering side — Python, SQL, Spark, Airflow, warehouse design — and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.
+Skills: ['Information Retrieval', 'Weights & Biases', 'React', 'ASR', 'Apache Flink', 'MLOps', 'Recommendation Systems', 'Project Management', 'SAP', 'OpenCV']
+Education: [{'institution': 'Generic State University', 'degree': 'B.E.', 'field_of_study': 'Physics', 'start_year': 2006, 'end_year': 2010, 'grade': '72%', 'tier': 'tier_4'}, {'institution': 'Chandigarh University', 'degree': 'B.E.', 'field_of_study': 'Machine Learning', 'start_year': 2001, 'end_year': 2006, 'grade': '7.44 CGPA', 'tier': 'tier_3'}]
+Career History:
+ - Title: Senior Software Engineer at upGrad (19 mos)
+   Desc: Backend + data hybrid role at a growth-stage startup. Built the company's first proper data warehouse (migrating from a tangled set of Postgres replicas to a clean Snowflake setup with dbt), the orchestration layer (Airflow), and the BI integration (Looker). Shipped a couple of small predictive features but the bulk of the role was data infrastructure.
+ - Title: Data Engineer at Stark Industries (38 mos)
+   Desc: Backend development with Python (FastAPI), PostgreSQL, and Redis at a B2B SaaS product. Owned the analytics-and-reporting service which serves dashboards to ~3K paying customers. Recent work includes integrating a model-serving service (built by another team) into our API layer; my work was the integration and observability, not the model itself. Strong on API design, database performance, and reliability engineering.
+================================================================================

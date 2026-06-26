@@ -1,9 +1,0 @@
-{
-  "current_set": "set_1",
-  "current_batch": "batch_3",
-  "last_completed_candidate": "CAND_0039647",
-  "candidates_completed": 1500,
-  "candidates_remaining": -990,
-  "current_provider": "gemini",
-  "current_key_id": "gemini_key_03"
-}
