@@ -98,7 +98,7 @@ full_df = pd.read_parquet(FEATURES_PATH)
 X_infer = full_df[selected_features].fillna(0)
 
 print("Predicting scores...")
-full_df["predicted_score"] = model.predict(X_infer)
+full_df["predicted_score"] = np.clip(model.predict(X_infer), 0.0, 1.0)
 
 top_df = (
     full_df

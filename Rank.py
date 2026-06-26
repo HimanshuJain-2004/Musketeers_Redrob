@@ -148,7 +148,7 @@ def main(input_file=None, top_n=100):
     print("[3/6] Running inference...")
     X = score_df[sel].fillna(0)
     score_df = score_df.copy()
-    score_df["predicted_score"] = model.predict(X)
+    score_df["predicted_score"] = np.clip(model.predict(X), 0.0, 1.0)
     score_df = score_df.sort_values(
         by=["predicted_score", "candidate_id"], ascending=[False, True]
     ).reset_index(drop=True)
