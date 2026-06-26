@@ -72,9 +72,9 @@ model = xgb.XGBRegressor(
 model.fit(X_all, y_all)
 
 # ── 4. Save model ───────────────────────────────────────────────────────────
+MODEL_OUT = os.path.join(BASE_DIR, "modeling", "artifacts", "xgboost_ranking_model.json")
 print(f"Saving model -> {MODEL_OUT}")
-with open(MODEL_OUT, "wb") as f:
-    pickle.dump(model, f)
+model.save_model(MODEL_OUT)
 
 # ── 5. Feature Importance PNG ───────────────────────────────────────────────
 print("Generating feature importance plot...")

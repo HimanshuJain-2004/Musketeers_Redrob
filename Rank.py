@@ -22,12 +22,13 @@ import pickle
 import argparse
 import numpy as np
 import pandas as pd
+import xgboost as xgb
 from tqdm import tqdm
 
 BASE_DIR         = os.path.dirname(os.path.abspath(__file__))
 JAIN_ARTIFACTS   = os.path.join(BASE_DIR, "modeling", "artifacts")
 FEAT_ARTIFACTS   = os.path.join(BASE_DIR, "feature_engineering", "artifacts")
-MODEL_PATH       = os.path.join(JAIN_ARTIFACTS, "xgboost_ranking_model.pkl")
+MODEL_JSON       = os.path.join(JAIN_ARTIFACTS, "xgboost_ranking_model.json")
 SEL_FEAT_PATH    = os.path.join(JAIN_ARTIFACTS, "model_feature_schema.json")
 FEATURES_PARQUET = os.path.join(FEAT_ARTIFACTS, "merged_features.parquet")
 CANDIDATES_JSONL = os.path.join(BASE_DIR, "candidates.jsonl")
@@ -105,8 +106,8 @@ def main(input_file=None, top_n=100):
     with open(SEL_FEAT_PATH) as f:
         sel = json.load(f)["selected_features"]
 
-    with open(MODEL_PATH, "rb") as f:
-        model = pickle.load(f)
+    model = xgb.XGBRegressor()
+    model.load_model(MODEL_JSON)
 
     # ── 2. Load candidate features ──────────────────────────────────────
     print("[2/6] Loading feature matrix...")
