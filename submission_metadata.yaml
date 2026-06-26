@@ -22,7 +22,7 @@ team_members:
 github_repo: "https://github.com/HimanshuJain-2004/Musketeers_Redrob.git"
 sandbox_link: "https://colab.research.google.com/drive/1cUoIv5pslPpIi96thXDKUuw_mDOlcjxF?usp=sharing"
 
-reproduce_command: "!python rank.py --input_file sample_candidates_100.jsonl"
+reproduce_command: "!python rank.py --input_file sample_candidates_1000.jsonl"
 
 compute:
   platform: "Windows 11"
